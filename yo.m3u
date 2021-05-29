@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url="" tv-test="yo.m3u"
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qgoI0S9.png" group-title="Argentina", ATV TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgoI0S9.png" group-title="Argentina", ATB TV | SD
 http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w208233256.m3u8
 
 #EXTINF:-1 tvg-id="765" tvg-name="Canal 4 Telecondor" tvg-logo="https://www.m3u.cl/logo/765_Canal_4_Telecondor.png", Canal 4 Telecondor * | AR
@@ -47,6 +47,9 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m
 
 #EXTINF:-1 tvg-id="266" tvg-name="Canal 10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png", Canal 10  | AR
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77fmNDN.png" group-title="Argentina", Canal 10 | HD | Córdoba
+https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="267" tvg-name="Canal 10 Mar del Plata" tvg-logo="https://www.m3u.cl/logo/267_Canal_10_Mar_del_Plata.png", Canal 10 Mar del Plata  | AR
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
@@ -234,39 +237,43 @@ https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="303" tvg-name="El Eco TV" tvg-logo="https://www.m3u.cl/logo/303_El_Eco_TV.png", El Eco TV  | AR
 https://5f93e494d5906.streamlock.net:443/elecotv/elecotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN (720p)
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Deportes",ESPN (720p)
 https://gma2.blab.email/fs2.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN 2 (720p)
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Deportes",ESPN 2 (720p)
 https://gma2.blab.email/espn2.m3u8
 
-#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN News (720p)
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="ESPN News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Deportes",ESPN News (720p)
 https://gma2.blab.email/espnews.m3u8
 
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN U (720p)
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Deportes",ESPN U (720p)
 https://gma2.blab.email/espnu.m3u
 
-#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews en EspaÃ±ol" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="News",Euronews en EspaÃ±ol (720p)
+#EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews en EspaÃ±ol" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias",Euronews en EspaÃ±ol (720p)
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="239" tvg-name="Fenix" tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg", Fenix  | AR
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="481" tvg-name="FMTV 1" tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png", FMTV 1  | US
+#EXTINF:-1 tvg-id="481" tvg-name="FMTV 1" tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png" group-title="Películas", FMTV 1  | US
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="482" tvg-name="FMTV 2 Movies" tvg-logo="https://www.m3u.cl/logo/482_FMTV_2_Movies.png", FMTV 2 Movies  | US
+#EXTINF:-1 tvg-id="482" tvg-name="FMTV 2 Movies" tvg-logo="https://www.m3u.cl/logo/482_FMTV_2_Movies.png" group-title="Películas", FMTV 2 Movies  | US
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="483" tvg-name="FMTV 3 Super Cine" tvg-logo="https://www.m3u.cl/logo/483_FMTV_3_Super_Cine.png", FMTV 3 Super Cine  | US
+#EXTINF:-1 tvg-id="483" tvg-name="FMTV 3 Super Cine" tvg-logo="https://www.m3u.cl/logo/483_FMTV_3_Super_Cine.png" group-title="Películas", FMTV 3 Super Cine  | US
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png", GEN TV  | AR
 https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="216" tvg-name="Informacion Periodistica" tvg-logo="https://www.m3u.cl/logo/216_Informacion_Periodistica.jpg", Informacion Periodistica  | AR
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="217" tvg-name="La Voz de Tucuman" tvg-logo="https://www.m3u.cl/logo/217_La_Voz_de_Tucuman.png", La Voz de Tucuman  | AR
+#EXTINF:-1 tvg-id="217" tvg-name="La Voz de Tucuman" tvg-logo="https://www.m3u.cl/logo/217_La_Voz_de_Tucuman.png" group-title="Películas", La Voz de Tucuman  | AR
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="212" tvg-name="Link TV" tvg-logo="https://www.m3u.cl/logo/212_Link_TV.png", Link TV  | AR
@@ -312,7 +319,7 @@ https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8?PlaylistM3UCL
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="288" tvg-name="Sicardi TV" tvg-logo="https://www.m3u.cl/logo/288_Sicardi_TV.png", Sicardi TV  | AR
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV | SD | Chile
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
@@ -387,7 +394,10 @@ https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8?PlaylistM3UC
 https://live.autistici.org/hls/vibratelevision.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="847" tvg-name="Tango TV" tvg-logo="https://www.m3u.cl/logo/logo-M3U-negro-cl.png", Tango TV  | AR
-https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8?PlaylistM3UCL
+https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",Warner TV
+http://203.154.243.89:11205/
 
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Sports",Win Sports+
 http://saypopular.com:25461/oscar/20gar/52853
