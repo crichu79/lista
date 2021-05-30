@@ -246,6 +246,9 @@ https://gma2.blab.email/espnu.m3u
 #EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-name="Euronews en Espanol" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias",Euronews en Espanol (720p)
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/az" group-title="s",EUROSPORT 1
+http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd?checkedby:dailyfreeiptvlist.com
+
 #EXTINF:-1 tvg-id="239" tvg-name="Fenix" tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg" group-title="Local", Fenix  | AR
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
 
