@@ -405,7 +405,7 @@ http://serviceinput.online:2999/universidad/universidad/21
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Documentales",Latino : Animal Planet
 http://serviceinput.online:2999/universidad/universidad/61
 
-#EXTINF:-1 tvg-id="1008" tvg-name="CNN Esp" tvg-country="US" tvg-language="ES" group-title="Noticias",Latino : CNN en Espanol
+#EXTINF:-1 tvg-id="1008" tvg-name="CNN Esp" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/CNN_en_Espa%C3%B1ol_2014.png/revision/latest?cb=20160621221353&path-prefix=es" tvg-country="US" tvg-language="ES" group-title="Noticias",Latino : CNN en Espanol
 http://serviceinput.online:2999/universidad/universidad/105
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Familiares",Latino : Canal De Las Estrellas
