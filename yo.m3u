@@ -397,25 +397,25 @@ http://saypopular.com:25461/oscar/20gar/52853
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-logo="" group-title="Peliculas",HBO LATINO
-http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39367.ts?checkedby:iptvcat.com
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39367.ts
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Familiares",Latino : AXN
-http://serviceinput.online:2999/universidad/universidad/21?checkedby:iptvcat.com
+http://serviceinput.online:2999/universidad/universidad/21
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Documentales",Latino : Animal Planet
-http://serviceinput.online:2999/universidad/universidad/61?checkedby:iptvcat.com
+http://serviceinput.online:2999/universidad/universidad/61
 
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Noticias",Latino : CNN en Espanol
-http://serviceinput.online:2999/universidad/universidad/105?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="1008" tvg-name="CNN Esp" tvg-country="US" tvg-language="ES" group-title="Noticias",Latino : CNN en Espanol
+http://serviceinput.online:2999/universidad/universidad/105
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Familiares",Latino : Canal De Las Estrellas
-http://serviceinput.online:2999/universidad/universidad/3?checkedby:iptvcat.com
+http://serviceinput.online:2999/universidad/universidad/3
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Peliculas",Latino : Cinecanal
-http://serviceinput.online:2999/universidad/universidad/73?checkedby:iptvcat.com
+http://serviceinput.online:2999/universidad/universidad/73
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Peliculas",Latino : Cinemax
-http://serviceinput.online:2999/universidad/universidad/82?checkedby:iptvcat.com
+http://serviceinput.online:2999/universidad/universidad/82
 
 #EXTINF:-1 tvg-country="" tvg-logo="" group-title="Documentales",Latino : Discovery Channel
 http://serviceinput.online:2999/universidad/universidad/60
