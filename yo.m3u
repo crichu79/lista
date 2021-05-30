@@ -396,18 +396,14 @@ http://saypopular.com:25461/oscar/20gar/52853
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png", WOW TV  | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Deportes",Latino : ESPN
-http://serviceinput.online:2999/universidad/universidad/97
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="Internacionales",BFM Paris (480p)
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Deportes",Latino : ESPN 2
-http://serviceinput.online:2999/universidad/universidad/98
+#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Religiosos",Monte Maria (1080p)
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Deportes",Latino : ESPN 3
-http://serviceinput.online:2999/universidad/universidad/91
+#EXTINF:-1 group-title="BA Buenos Aires" tvg-logo="http://www.radiosargentina.com.ar/png/VITELPIN.png" group-title="Local",Canal 11 de la Costa
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0093
 
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Deportes",Latino : ESPN Deportes
-http://serviceinput.online:2999/universidad/universidad/528
-
-#EXTINF:-1 tvg-country="" tvg-logo="" group-title="Deportes",Latino : ESPN Plus
-http://serviceinput.online:2999/universidad/universidad/90
-
+#EXTINF:-1 group-title="BA Buenos Aires" tvg-logo="http://www.radiosargentina.com.ar/png/VITJUNIN.png" group-title="Local",TeleJunín - 2CTV - Junín - BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0078
