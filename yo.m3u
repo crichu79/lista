@@ -216,9 +216,6 @@ http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8?Playli
 #EXTINF:-1 tvg-id="270" tvg-name="CN 24/7 Neuquen" tvg-logo="https://www.m3u.cl/logo/270_CN_24_7_Neuquen.png" group-title="Local", CN 24/7 Neuquen  | AR
 https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Internacionales",CNN en Espanol
-http://serviceinput.online:2999/universidad/universidad/105?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-id="CNNInternationalHD.us" tvg-name="CNN International HD" tvg-country="US" tvg-language="" tvg-logo="" group-title="Internacionales",CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
@@ -263,9 +260,6 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png", GEN TV  | AR
 https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Peliculas",HBO
-http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39367.ts
 
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Películas",HBO Malasia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -401,3 +395,83 @@ http://saypopular.com:25461/oscar/20gar/52853
 
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png", WOW TV  | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO LATINO
+http://titanmedia.one:2082/live/5C8FFpy4mk/ZQ40RVwi1y/39367.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : AXN
+http://serviceinput.online:2999/universidad/universidad/21?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : America TV
+http://serviceinput.online:2999/universidad/universidad/1237?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : Animal Planet
+http://serviceinput.online:2999/universidad/universidad/61?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : CNN en Espanol
+http://serviceinput.online:2999/universidad/universidad/105?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : Canal De Las Estrellas
+http://serviceinput.online:2999/universidad/universidad/3?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : Cinecanal
+http://serviceinput.online:2999/universidad/universidad/73?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : Cinemax
+http://serviceinput.online:2999/universidad/universidad/82?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : Discovery Channel
+http://serviceinput.online:2999/universidad/universidad/60?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : ESPN
+http://serviceinput.online:2999/universidad/universidad/97?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : ESPN 2
+http://serviceinput.online:2999/universidad/universidad/98?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : ESPN 3
+http://serviceinput.online:2999/universidad/universidad/91?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : ESPN Deportes
+http://serviceinput.online:2999/universidad/universidad/528?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : ESPN Plus
+http://serviceinput.online:2999/universidad/universidad/90?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : Fox
+http://serviceinput.online:2999/universidad/universidad/15?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : Fox Action
+http://serviceinput.online:2999/universidad/universidad/68?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : Fox Cinema
+http://serviceinput.online:2999/universidad/universidad/70?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : Fox Sports
+http://serviceinput.online:2999/universidad/universidad/92?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : Fox Sports 2
+http://serviceinput.online:2999/universidad/universidad/93?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : Fox Sports 3
+http://serviceinput.online:2999/universidad/universidad/100?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : Fox Sports Premium
+http://serviceinput.online:2999/universidad/universidad/992?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : HBO
+http://serviceinput.online:2999/universidad/universidad/120?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : HBO 2
+http://serviceinput.online:2999/universidad/universidad/121?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : HBO Plus
+http://serviceinput.online:2999/universidad/universidad/610?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : HBO Signature
+http://serviceinput.online:2999/universidad/universidad/118?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : HBO PoP
+http://serviceinput.online:2999/universidad/universidad/117?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : HBO Xtreme
+http://serviceinput.online:2999/universidad/universidad/298?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : National Geographic
+http://serviceinput.online:2999/universidad/universidad/63?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : Space
+http://serviceinput.online:2999/universidad/universidad/79?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : Sony
+http://serviceinput.online:2999/universidad/universidad/16?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : SyFy
+http://serviceinput.online:2999/universidad/universidad/31?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : TNT
+http://serviceinput.online:2999/universidad/universidad/74?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : TNT Series
+http://serviceinput.online:2999/universidad/universidad/33?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : TVC Deportes
+http://serviceinput.online:2999/universidad/universidad/306?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : TyC Sports
+http://serviceinput.online:2999/universidad/universidad/288?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Latino : Warner
+http://serviceinput.online:2999/universidad/universidad/17?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : Win Sports
+http://serviceinput.online:2999/universidad/universidad/297?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : beIN Sports
+http://serviceinput.online:2999/universidad/universidad/381?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",Latino : beIN Sports La Liga
+http://serviceinput.online:2999/universidad/universidad/626?checkedby:iptvcat.com
+
