@@ -243,9 +243,6 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="Familiares", GEN TV  | AR
 https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Peliculas",HBO Malasia
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="216" tvg-name="Informacion Periodistica" tvg-logo="https://www.m3u.cl/logo/216_Informacion_Periodistica.jpg" group-title="Noticias", Informacion Periodistica  | AR
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
 
@@ -357,9 +354,6 @@ https://live.autistici.org/hls/vibratelevision.m3u8
 #EXTINF:-1 tvg-id="847" tvg-name="Tango TV" tvg-logo="https://www.m3u.cl/logo/logo-M3U-negro-cl.png" group-title="", Tango TV  | AR
 https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Peliculas",Warner TV
-http://203.154.243.89:11205/
-
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Deportes",Win Sports+  | CO
 http://saypopular.com:25461/oscar/20gar/52853
 
@@ -428,3 +422,30 @@ https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias",DW Español (400p)
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-id="canal10.uy" tvg-name="Canal 10" tvg-country="UY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nmpOHwM.png" group-title="Familiares",Canal 10  | UY
+https://edge3-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
+
+#EXTINF:-1 tvg-id="TreceParaguay.py" tvg-name="Trece Paraguay" tvg-country="PY" tvg-language="" tvg-logo="" group-title="Familiares",Trece Paraguay
+http://174.138.118.252/live/trece.m3u8
+
+#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="Venezolana de Televisión" tvg-country="VE" tvg-language="" tvg-logo="" group-title="Familiares",Venezolana de Televisión
+https://livestream.streamingconnect.com/hls/vtvweb.m3u8
+
+#EXTINF:-1 tvg-id="TeleSUR.ve" tvg-name="TeleSUR" tvg-country="VE" tvg-language="Spanish" tvg-logo="" group-title="Noticias",TeleSUR (1080p)
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="Swiss Sport TV" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="Deportes",Swiss Sport TV (720p)
+https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1Asia.qa" tvg-name="beIN Sports 1 Asia" tvg-country="QA" tvg-language="" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Deportes",beIN Sports 1 Asia
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+
+#EXTINF:-1 tvg-id="HCHHonduras.hn" tvg-name="HCH Honduras" tvg-country="HN" tvg-language="" tvg-logo="" group-title="Noticias",HCH Honduras (480p)
+https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8
+
+#EXTINF:-1 tvg-id="TVNHD.cl" tvg-name="TVN HD" tvg-country="CL" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLN4WfUMrRsD0b04jbG3EnYrnlV4FYPZURRw&usqp=CAU" group-title="Familiares",TVN HD
+http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Deportes",Rede Globo (720p)
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
