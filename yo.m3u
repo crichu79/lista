@@ -402,8 +402,11 @@ https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p
 #EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Religiosos",Monte Maria (1080p)  | MX
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="BA Buenos Aires" tvg-logo="http://www.radiosargentina.com.ar/png/VITELPIN.png" group-title="Local",Canal 11 de la Costa  | AR
+#EXTINF:-1 group-title="Canal 11 de la Costa" tvg-logo="http://www.radiosargentina.com.ar/png/VITELPIN.png" group-title="Local",Canal 11 de la Costa  | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0093
 
-#EXTINF:-1 group-title="BA Buenos Aires" tvg-logo="http://www.radiosargentina.com.ar/png/VITJUNIN.png" group-title="Local",TeleJunín  | AR
+#EXTINF:-1 group-title="Tele Junin" tvg-logo="http://www.radiosargentina.com.ar/png/VITJUNIN.png" group-title="Local",TeleJunín  | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0078
+
+#EXTINF:-1 group-title="Canal 79 de la Costa" tvg-logo="" group-title="Local",Canal 79 de la Costa  | AR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
