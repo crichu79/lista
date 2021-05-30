@@ -372,8 +372,8 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="298" tvg-name="TV Publica Fueguina" tvg-logo="https://www.m3u.cl/logo/298_TV_Publica_Fueguina.png" group-title="Local", TV Publica Fueguina  | AR
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dOJX0Cl.png" group-title="Argentina",TV Universidad Nacional de La Plata | HD
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m
+#EXTINF:-1 group-title="Local",TV Universidad - 56.1 TV - La Plata  | AR
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 #EXTINF:-1 tvg-id="248" tvg-name="Uni Teve" tvg-logo="https://www.m3u.cl/logo/248_Uni_Teve.png", Uni Teve  | AR
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
@@ -390,20 +390,20 @@ https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Películas",Warner TV
 http://203.154.243.89:11205/
 
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Deportes",Win Sports+
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Deportes",Win Sports+  | CO
 http://saypopular.com:25461/oscar/20gar/52853
 
 #EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png", WOW TV  | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="Internacionales",BFM Paris (480p)
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="Internacionales",BFM Paris (480p)  | FR
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Religiosos",Monte Maria (1080p)
+#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Religiosos",Monte Maria (1080p)  | MX
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="BA Buenos Aires" tvg-logo="http://www.radiosargentina.com.ar/png/VITELPIN.png" group-title="Local",Canal 11 de la Costa
+#EXTINF:-1 group-title="BA Buenos Aires" tvg-logo="http://www.radiosargentina.com.ar/png/VITELPIN.png" group-title="Local",Canal 11 de la Costa  | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0093
 
-#EXTINF:-1 group-title="BA Buenos Aires" tvg-logo="http://www.radiosargentina.com.ar/png/VITJUNIN.png" group-title="Local",TeleJunín - 2CTV - Junín - BA Buenos Aires
+#EXTINF:-1 group-title="BA Buenos Aires" tvg-logo="http://www.radiosargentina.com.ar/png/VITJUNIN.png" group-title="Local",TeleJunín  | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0078
