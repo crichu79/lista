@@ -252,7 +252,7 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTINF:-1 tvg-id="217" tvg-name="La Voz de Tucuman" tvg-logo="https://www.m3u.cl/logo/217_La_Voz_de_Tucuman.png" group-title="Local", La Voz de Tucuman  | AR
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="241" tvg-name="Litus TV" tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png", Litus TV  | AR
+#EXTINF:-1 tvg-id="241" tvg-name="Litus TV" tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png" group-title="Educativos", Litus TV  | AR
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="283" tvg-name="Metro TV Canal 12 Tucuman" tvg-logo="https://www.m3u.cl/logo/283_Metro_TV_Canal_12_Tucuman.png" group-title="Local", Metro TV Canal 12 Tucuman  | AR
@@ -380,3 +380,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0078
 
 #EXTINF:-1 group-title="Canal 79 de la Costa" tvg-logo="" group-title="Local",Canal 79 de la Costa  | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
+
+#EXTINF:-1 group-title="Canal Coop" tvg-logo="" group-title="Local",Coop TV Jesus María  | AR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0151
+
+#EXTINF:-1 group-title="Canal Sta. Maria" tvg-logo="" group-title="Religiosos",Canal Santa Maria  | AR
+https://streaming.telered.com.ar/santa-maria/ssl_envivo_webframe.php
