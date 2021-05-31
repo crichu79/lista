@@ -447,8 +447,8 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/6/6/665564.png?1" group-title="Deportes", EURO SPORTS HD
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ES - BEINS SPORTS ESPAÑA
+#EXTINF:321 tvg-logo="" group-title="Deportes",BEINS SPORTS ESPAÑA
 http://tv.nousiptv.com:8080/daniel2/2daniel/3118
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ES - MOVISTAR DEPORTES
+#EXTINF:321 tvg-logo="" group-title="Deportes",MOVISTAR DEPORTES
 http://tv.nousiptv.com:8080/daniel2/2daniel/3146
