@@ -306,8 +306,8 @@ https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="308" tvg-name="Tele Estrella" tvg-logo="https://www.m3u.cl/logo/308_Tele_Estrella.png" group-title="Local", Tele Estrella  | AR
 https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="291" tvg-name="Telediario TelevisiÃ³n" tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png", Telediario Television  | AR
-https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="291" tvg-name="Telediario Televisión" tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png" group-title="Noticias", Telediario Television  | AR
+https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
 #EXTINF:-1 tvg-id="246" tvg-name="Telefe Rosario" tvg-logo="https://www.m3u.cl/logo/246_Telefe_Rosario.jpg" group-title="Local", Telefe Rosario  | AR
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
@@ -446,9 +446,3 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 
 #EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/6/6/665564.png?1" group-title="Deportes", EURO SPORTS HD
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes",BEINS SPORTS ESPAÑA
-http://tv.nousiptv.com:8080/daniel2/2daniel/3118
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes",MOVISTAR DEPORTES
-http://tv.nousiptv.com:8080/daniel2/2daniel/3146
