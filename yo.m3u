@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" tv-test="yo.m3u"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="765" tvg-name="Canal 4 Telecondor" tvg-logo="https://www.m3u.cl/logo/765_Canal_4_Telecondor.png" group-title="Local", Canal 4 Telecondor * | AR
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8?PlaylistM3UCL
