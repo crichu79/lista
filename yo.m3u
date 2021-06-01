@@ -171,8 +171,8 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="276" tvg-name="Canal U" tvg-logo="https://www.m3u.cl/logo/276_Canal_U.png" group-title="Educativos", Canal U  | AR
 https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="203" tvg-name="Catamarca TV" tvg-logo="https://www.m3u.cl/logo/203_Catamarca_TV.png" group-title="Local", Catamarca TV  | AR
-https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="203" tvg-name="Catamarca TV" tvg-logo="https://www.m3u.cl/logo/203_Catamarca_TV.png" group-title="Local", Canal 7 Catamarca  | AR
+https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w1847941210.m3u8
 
 #EXTINF:-1 tvg-id="815" tvg-name="Celta TV" tvg-logo="https://www.m3u.cl/logo/815_Celta_TV.jpg" group-title="Local", Celta TV  | AR
 https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
@@ -492,5 +492,38 @@ https://panel.dattalive.com/8076/8076/chunklist_w2013827728.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" group-title="Deportes", Sky Sport 24  | IT
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10484954.jpg" group-title="Deportes", Tigo Sports +  | PY
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10484954.jpg" group-title="Deportes", Tigo Sports+  | PY
 http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="Noticias", Cubavisión  | CU
+http://190.122.96.187:8888/http/010
+
+#EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo Senillosa.jpg" group-title="Local", Canal 10 Senillosa NQN  | AR
+https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s88-c-k-c0x00ffffff-no-rj" group-title="Local", CNR Tv Jujuy  | AR
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.telecreativa.com/logos/enc_TELECREATIVA_movil.gif" group-title="Local",  Telecreativa Lanús  | AR
+https://panel.dattalive.com/8012/8012/chunklist_w1492926011.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2rWFai7wm5hmr6nAciUu7Esm8YcLq10du0w&usqp=CAU" group-title="Local", Canal 2 San Luis  | AR
+https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w551645566.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="Local", CTV Corrientes  | AR
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
+#EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="Local", Canal 2 Gualeguay  | AR
+https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w2133948445.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCInK8RGqWtu191slIer7HKe6io1ngczZbkQ&usqp=CAU" group-title="Local", Canal 5 Entre Ríos  | AR
+https://srv3.zcast.com.br/carlosr/carlosr/chunklist_w322470594.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo+canal.jpg" group-title="Local", Canal 3 Formosa  | AR
+https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w1328638650.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="Musicales", V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.o2.cz/file_conver/605835/o2_tv_fotbal.png" group-title="Deportes", O2Tv Sport  | R.Checa
+http://84.42.140.148:8880/hdmi
