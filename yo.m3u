@@ -438,7 +438,7 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/6/6/665564.png?1" group-title="Deportes", EURO SPORTS HD
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
 
-#EXTINF:-1 tvg-id="TelevisiondeGuineaEcuatorial.gq" tvg-name="Televisión de Guinea Ecuatorial" tvg-country="GQ" tvg-language="Spanish" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="",Televisión de Guinea Ecuatorial
+#EXTINF:-1 tvg-id="TelevisiondeGuineaEcuatorial.gq" tvg-name="Televisión de Guinea Ecuatorial" tvg-country="GQ" tvg-language="Spanish" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Noticias",Televisión de Guinea Ecuatorial
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Familiares",Unicanal  | PY
@@ -449,3 +449,15 @@ http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="Familiares",La 2 (720p)
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="FreeSports" tvg-country="UK" tvg-language="English" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="Deportes",FreeSports (1080p)  | GB
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+
+#EXTINF:-1 tvg-id="MTVHitsEurope.us" tvg-name="MTV Hits Europe" tvg-country="EUR" tvg-language="" tvg-logo="" group-title="Musicales",MTV Hits Europe (576p)
+http://188.40.68.167/russia/mtv_hits/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-name="TVR International" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AlW8jyl.png" group-title="General",TVR International (720p)  | RU
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RPC.pa" tvg-name="RPC" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2017_01/RPC_(2010).png.4630b569f7c275038611229447482050.png" group-title="Familiares",RPC Tv (720p)  | PN
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
