@@ -435,9 +435,6 @@ http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Deportes",Rede Globo (720p)
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/6/6/665564.png?1" group-title="Deportes", EURO SPORTS HD
-https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-
 #EXTINF:-1 tvg-id="TelevisiondeGuineaEcuatorial.gq" tvg-name="Televisión de Guinea Ecuatorial" tvg-country="GQ" tvg-language="Spanish" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Noticias",Televisión de Guinea Ecuatorial
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
@@ -488,3 +485,12 @@ https://gma2.blab.email/acc.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Deportes", ESPN SEC NETWORK  | US
 https://gma2.blab.email/sec.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="Familiares", Canal 9 Norte Misionero
+https://panel.dattalive.com/8076/8076/chunklist_w2013827728.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" group-title="Deportes", Sky Sport 24  | IT
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10484954.jpg" group-title="Deportes", Tigo Sports +  | PY
+http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
