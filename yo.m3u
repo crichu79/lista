@@ -30,7 +30,7 @@ http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="222" tvg-name="Acequia" tvg-logo="https://www.m3u.cl/logo/222_Acequia.png" group-title="Local", Acequia  | AR
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="485" tvg-name="AC Vision" tvg-logo="https://www.m3u.cl/logo/485_AC_Vision.png" group-title="Familiares", AC Vision  | EC
+#EXTINF:-1 tvg-id="485" tvg-name="AC Vision" tvg-logo="https://www.m3u.cl/logo/485_AC_Vision.png" group-title="General", AC Vision  | EC
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="252" tvg-name="Aire de Santa Fe" tvg-logo="https://www.m3u.cl/logo/252_Aire_de_Santa_Fe.png" group-title="Local", Aire de Santa Fe  | AR
@@ -182,7 +182,7 @@ https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="278" tvg-name="Chacra TV" tvg-logo="https://www.m3u.cl/logo/278_Chacra_TV.png" group-title="Local", Chacra TV  | AR
 https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png" group-title="Familiares", CINE.AR  | AR
+#EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png" group-title="General", CINE.AR  | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="471" tvg-name="Cine Club" tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="Peliculas", Cine Club  | PE
@@ -233,7 +233,7 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="483" tvg-name="FMTV 3 Super Cine" tvg-logo="https://www.m3u.cl/logo/483_FMTV_3_Super_Cine.png" group-title="Peliculas", FMTV 3 Super Cine  | US
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="Familiares", GEN TV  | AR
+#EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="General", GEN TV  | AR
 https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="216" tvg-name="Informacion Periodistica" tvg-logo="https://www.m3u.cl/logo/216_Informacion_Periodistica.jpg" group-title="Noticias", Informacion Periodistica  | AR
@@ -260,7 +260,7 @@ https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="207" tvg-name="Orbe 21" tvg-logo="https://www.m3u.cl/logo/207_Orbe_21.jpg" group-title="Religiosos", Orbe 21  | AR
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="Familiares", Orbit TV  | DO
+#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="General", Orbit TV  | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="213" tvg-name="Play Television" tvg-logo="https://www.m3u.cl/logo/213_Play_Television.jpg" group-title="Local", Play Television  | AR
@@ -311,10 +311,10 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="814" tvg-name="TeleNord" tvg-logo="https://www.m3u.cl/logo/814_TeleNord.jpg" group-title="Local", TeleNord  | AR
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="475" tvg-name="Tele Mas" tvg-logo="https://www.m3u.cl/logo/475_Tele_Mas.png" group-title="Familiares", Tele Mas  | CR
+#EXTINF:-1 tvg-id="475" tvg-name="Tele Mas" tvg-logo="https://www.m3u.cl/logo/475_Tele_Mas.png" group-title="General", Tele Mas  | CR
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://www.m3u.cl/logo/477_Telered.png" group-title="Familiares", Telered  | CR
+#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://www.m3u.cl/logo/477_Telered.png" group-title="General", Telered  | CR
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="293" tvg-name="Telpin Canal 2" tvg-logo="https://www.m3u.cl/logo/293_Telpin_Canal_2.png" group-title="Local", Telpin Canal 2  | AR
@@ -341,16 +341,16 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-id="304" tvg-name="UTN TV" tvg-logo="https://www.m3u.cl/logo/304_UTN_TV.png" group-title="Educativos, UTN TV  | AR
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="211" tvg-name="Vibra TV" tvg-logo="https://www.m3u.cl/logo/211_Vibra_TV.png" group-title="Familiares", Vibra TV  | AR
+#EXTINF:-1 tvg-id="211" tvg-name="Vibra TV" tvg-logo="https://www.m3u.cl/logo/211_Vibra_TV.png" group-title="General", Vibra TV  | AR
 https://live.autistici.org/hls/vibratelevision.m3u8
 
-#EXTINF:-1 tvg-id="847" tvg-name="Tango TV" tvg-logo="https://www.m3u.cl/logo/logo-M3U-negro-cl.png" group-title="", Tango TV  | AR
+#EXTINF:-1 tvg-id="847" tvg-name="Tango TV" tvg-logo="https://www.m3u.cl/logo/logo-M3U-negro-cl.png" group-title="General", Tango TV  | AR
 https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Deportes",Win Sports+  | CO
 http://saypopular.com:25461/oscar/20gar/52853
 
-#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png" group-title="Familiares", WOW TV  | SV
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png" group-title="General", WOW TV  | SV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="Noticias",BFM Paris (480p)  | FR
@@ -380,7 +380,7 @@ https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8?player=
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="Noticias" group-title="Noticias",RT en Español (720p)
 http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-name="TeleSUR Costa Rica" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" group-title="Familiares",TeleSUR Costa Rica (720p)
+#EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-name="TeleSUR Costa Rica" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" group-title="General",TeleSUR Costa Rica (720p)
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-name="Noticias Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="Noticias",Noticias Caracol (720p)
@@ -410,13 +410,13 @@ https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias",DW Español (400p)
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF:-1 tvg-id="canal10.uy" tvg-name="Canal 10" tvg-country="UY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nmpOHwM.png" group-title="Familiares",Canal 10  | UY
+#EXTINF:-1 tvg-id="canal10.uy" tvg-name="Canal 10" tvg-country="UY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nmpOHwM.png" group-title="General",Canal 10  | UY
 https://edge3-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
 
-#EXTINF:-1 tvg-id="TreceParaguay.py" tvg-name="Trece Paraguay" tvg-country="PY" tvg-language="" tvg-logo="" group-title="Familiares",Trece Paraguay
+#EXTINF:-1 tvg-id="TreceParaguay.py" tvg-name="Trece Paraguay" tvg-country="PY" tvg-language="" tvg-logo="" group-title="General",Trece Paraguay
 http://174.138.118.252/live/trece.m3u8
 
-#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="Venezolana de Televisión" tvg-country="VE" tvg-language="" tvg-logo="" group-title="Familiares",Venezolana de Televisión
+#EXTINF:-1 tvg-id="VenezolanadeTelevision.ve" tvg-name="Venezolana de Televisión" tvg-country="VE" tvg-language="" tvg-logo="" group-title="General",Venezolana de Televisión
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 
 #EXTINF:-1 tvg-id="TeleSUR.ve" tvg-name="TeleSUR" tvg-country="VE" tvg-language="Spanish" tvg-logo="" group-title="Noticias",TeleSUR (1080p)
@@ -428,7 +428,7 @@ https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HCHHonduras.hn" tvg-name="HCH Honduras" tvg-country="HN" tvg-language="" tvg-logo="" group-title="Noticias",HCH Honduras (480p)
 https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8
 
-#EXTINF:-1 tvg-id="TVNHD.cl" tvg-name="TVN HD" tvg-country="CL" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLN4WfUMrRsD0b04jbG3EnYrnlV4FYPZURRw&usqp=CAU" group-title="Familiares",TVN HD
+#EXTINF:-1 tvg-id="TVNHD.cl" tvg-name="TVN HD" tvg-country="CL" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLN4WfUMrRsD0b04jbG3EnYrnlV4FYPZURRw&usqp=CAU" group-title="General",TVN HD
 http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="Deportes",Rede Globo (720p)
@@ -437,13 +437,13 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="TelevisiondeGuineaEcuatorial.gq" tvg-name="Televisión de Guinea Ecuatorial" tvg-country="GQ" tvg-language="Spanish" tvg-logo="http://www.tvgelive.gq/images/logo-dark.png" group-title="Noticias",Televisión de Guinea Ecuatorial
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Familiares",Unicanal  | PY
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="General",Unicanal  | PY
 http://45.55.127.106/live/unicanal.m3u8
 
-#EXTINF:-1 tvg-id="Telearuba13.aw" tvg-name="Telearuba 13" tvg-country="AW" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="Familiares",Telearuba 13 (720p)
+#EXTINF:-1 tvg-id="Telearuba13.aw" tvg-name="Telearuba 13" tvg-country="AW" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="General",Telearuba 13 (720p)
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="Familiares",La 2 (720p)
+#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="General",La 2 (720p)
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="FreeSports" tvg-country="UK" tvg-language="English" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="Deportes",FreeSports (1080p)  | GB
@@ -455,7 +455,7 @@ http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRInternational.ro" tvg-name="TVR International" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/AlW8jyl.png" group-title="General",TVRi (720p)  | RU
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RPC.pa" tvg-name="RPC" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2017_01/RPC_(2010).png.4630b569f7c275038611229447482050.png" group-title="Familiares",RPC Tv (720p)  | PN
+#EXTINF:-1 tvg-id="RPC.pa" tvg-name="RPC" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2017_01/RPC_(2010).png.4630b569f7c275038611229447482050.png" group-title="General",RPC Tv (720p)  | PN
 https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Documentales", Discovery World
