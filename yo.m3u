@@ -486,7 +486,7 @@ https://gma2.blab.email/acc.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Deportes", ESPN SEC NETWORK  | US
 https://gma2.blab.email/sec.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="Familiares", Canal 9 Norte Misionero
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="Local", Canal 9 Norte Misionero
 https://panel.dattalive.com/8076/8076/chunklist_w2013827728.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" group-title="Deportes", Sky Sport 24  | IT
@@ -527,3 +527,6 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.o2.cz/file_conver/605835/o2_tv_fotbal.png" group-title="Deportes", O2Tv Sport  | R.Checa
 http://84.42.140.148:8880/hdmi
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes", Tyc Sports Internacional  | AR
+http://45.71.202.210:50000/play/a00v/index.m3u8
