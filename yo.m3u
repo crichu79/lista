@@ -569,6 +569,3 @@ https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/in
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="Deportes", Eventos Tigo Bolivia 3
 https://d1pox267xtn5kq.cloudfront.net/out/v1/4270f13bab1547b39f44e52e867abcfa/index_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://queadslcontratar.com/sites/default/files/styles/_default/public/images/logos/liga-campeones-movistar-350x183.png?itok=NH1ujrYC" group-title="Deportes", Movistar Liga de Campeones HD  | ES
-http://185.207.145.71:8000/play/a027/index.m3u8
-
