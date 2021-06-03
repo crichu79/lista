@@ -560,15 +560,6 @@ http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThVbPsZftotBfQZ2Vr-DMnOXA13H7CgbhS3g&usqp=CAU" group-title="General", Telefuturo  | PY
 http://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="Deportes", Eventos Futbol PYO 1 
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/3dae5c63b5f04813b64fae5bd14eacae/index_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="Deportes", Eventos Futbol PYO 2 
-https://d2jluxxgx550su.cloudfront.net/out/v1/e41f1568b50d49229b095520e71de7ce/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="Deportes", Eventos Futbol PYO 3
-https://d2slu3qf332d0d.cloudfront.net/out/v1/93e9278c930743bbbc68dce83d11dbe6/index_6.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="Deportes", Eventos Tigo Salvador 1
 https://d107hql7o7vd84.cloudfront.net/out/v1/ce38156ea93a47709cec829647e9b0ce/index.m3u8
 
