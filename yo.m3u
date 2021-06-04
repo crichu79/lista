@@ -1,12 +1,1 @@
-#EXTINF
 
-#EXTINF:0,bein1
-http://62.210.246.140:8081/yacinetv/BeinSD1/playlist.m3u8
-#EXTINF:0,bein2
-http://62.210.246.140:8081/yacinetv/BeinSD2/playlist.m3u8
-#EXTINF:0,bein3
-http://62.210.246.140:8081/yacinetv/BeinSD3/playlist.m3u8
-#EXTINF:0,bein5
-http://62.210.246.140:8081/yacinetv/BeinSD5/playlist.m3u8
-#EXTINF:0,bein6
-http://62.210.246.140:8081/yacinetv/BeinSD6/playlist.m3u8
