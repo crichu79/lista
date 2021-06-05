@@ -463,7 +463,7 @@ https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
 http://209.91.213.10:8099/play/a02h
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes", Eurosport 1  | ES
-http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDjvxF32zd_wJyYKii10GlhU0cfGVDkdlDhg&usqp=CAU" group-title="Deportes", Sony Six  | IN
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
