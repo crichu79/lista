@@ -51,6 +51,9 @@ https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="267" tvg-name="Canal 10 Mar del Plata" tvg-logo="https://www.m3u.cl/logo/267_Canal_10_Mar_del_Plata.png" group-title="Local", Canal 10 Mar del Plata  | AR
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="144825" tvg-name=" CANAL 10 SAN RAFAEL" tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg"" group-title="Local", Canal 10 San Rafael
+https://streamcasthd.com:19360/tvdiez/tvdiez.m3u
+
 #EXTINF:-1 tvg-id="799" tvg-name="Canal 10 Nortevision" tvg-logo="https://www.m3u.cl/logo/799_Canal_10_Nortevision.jpg" group-title="Local", Canal 10 Nortevision  | AR
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
@@ -68,6 +71,9 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="269" tvg-name="Canal 13 San Luis" tvg-logo="https://www.m3u.cl/logo/269_Canal_13_San_Luis.png" group-title="Local", Canal 13 San Luis  | AR
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="141384" tvg-name="CANAL 2 MISIONES" tvg-logo="" group-title="Local", Canal 2 Misiones
+https://nd106.republicaservers.com/canal2misiones.mp4
 
 #EXTINF:-1 tvg-id="228" tvg-name="Canal 2 Jujuy" tvg-logo="https://www.m3u.cl/logo/228_Canal_2_Jujuy.png" group-title="Local", Canal 2 Jujuy  | AR
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
@@ -135,7 +141,7 @@ https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-id="232" tvg-name="Canal 50 Morteros" tvg-logo="https://www.m3u.cl/logo/232_Canal_50_Morteros.png" group-title="Local", Canal 50 Morteros  | AR
 http://168.196.255.130:8080/canal50/vivo.m3u8
 
-#EXTINF:-1 tvg-id="858" tvg-name="Canal 5 del Pueblo" tvg-logo="https://www.m3u.cl/logo/858_Canal_5_del_Pueblo.jpg", group-title="Local" Canal 5 del Pueblo  | AR
+#EXTINF:-1 tvg-id="858" tvg-name="Canal 5 del Pueblo" tvg-logo="https://www.m3u.cl/logo/858_Canal_5_del_Pueblo.jpg" group-title="Local", Canal 5 del Pueblo  | AR
 https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="233" tvg-name="CANAL 5TV" tvg-logo="https://www.m3u.cl/logo/233_CANAL_5TV.jpg" group-title="Local", Canal 5 Entre Ríos  | AR
@@ -667,16 +673,13 @@ EXTINF:-1 group-title="General",Canal Once | MX
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="145385" tvg-name="CANAL 8 SAN JUAN" tvg-logo="" group-title="Local", Canal 8 San Juan
-https://www.youtube.com/watch?v=74TyBo37iV8&PlaylistM3UCL
+https://www.youtube.com/embed/74TyBo37iV8
 
 #EXTINF:-1 tvg-id="145383" tvg-name="Viajar Tv" tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png"" group-title="General", Viajar Tv
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0031&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="144825" tvg-name=" CANAL 10 SAN RAFAEL" tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg"" group-title="General", Canal 10 San Rafael
-https://streamcasthd.com:19360/tvdiez/tvdiez.m3u
-
 #EXTINF:-1 tvg-id="144305" tvg-name="TODO NOTICIAS " tvg-logo="" group-title="Noticias", Todo Noticias 
-https://www.youtube.com/watch?v=wHn1_QVoXGM&PlaylistM3UCL
+https://www.youtube.com/embed/wHn1_QVoXGM
 
 #EXTINF:-1 tvg-id="144300" tvg-name="Canal 74" tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="General", Canal 74  | CL
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
@@ -686,9 +689,6 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="141938" tvg-name="TVF TV FLORIDA URUGUAY" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/tv-florida-canal-4.png"" group-title="General", TVF Tv Florida  | UY
 http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
-
-#EXTINF:-1 tvg-id="141384" tvg-name="CANAL 2 MISIONES" tvg-logo="" group-title="General", Canal 2 Misiones
-https://nd106.republicaservers.com/canal2misiones.mp4
 
 #EXTINF:-1 tvg-id="140255" tvg-name="CANAL 6 COSTA RICA" tvg-logo="https://es.m.wikipedia.org/wiki/Repretel_6" group-title="General", Canal 6 Costa Rica
 http://138.0.229.88:8000/play/a004/index.m3u8
