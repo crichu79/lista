@@ -11,7 +11,7 @@ http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 #EXTINF:-1 tvg-id="250" tvg-name="9Link" tvg-logo="https://www.m3u.cl/logo/250_9Link.png" group-title="Local", 9Link Chaco
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="305" tvg-name="10 TV" tvg-logo="https://www.m3u.cl/logo/305_10_TV.png" group-title="Local", 10 TV E.Ríos
+#EXTINF:-1 tvg-id="305" tvg-name="10 TV" tvg-logo="https://www.m3u.cl/logo/305_10_TV.png" group-title="Local", 10 TV
 http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="222" tvg-name="Acequia" tvg-logo="https://www.m3u.cl/logo/222_Acequia.png" group-title="Local", Acequia
