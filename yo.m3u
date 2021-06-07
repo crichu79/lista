@@ -342,9 +342,6 @@ https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.
 #EXTINF:-1 tvg-id="289" tvg-name="TDC TV Santa Fe" tvg-logo="https://www.m3u.cl/logo/289_TDC_TV_Santa_Fe.png" group-title="Local", TDC Tv Santa Fe
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
-#EXTINF:-1 tvg-id="290" tvg-name="Telecreativa" tvg-logo="https://www.m3u.cl/logo/290_Telecreativa.png" group-title="Local", Telecreativa Lanús
-https://panel.dattalive.com:443/8012/8012/playlist.m3u8
-
 #EXTINF:-1 tvg-id="245" tvg-name="Tele Diez" tvg-logo="https://www.m3u.cl/logo/245_Tele_Diez.jpg" group-title="Local", Tele Diez
 https://videohd.live:19360/8020/8020.m3u8
 
@@ -371,9 +368,6 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="294" tvg-name="Terramia TV" tvg-logo="https://www.m3u.cl/logo/294_Terramia_TV.png" group-title="Musicales", Terramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w258432612_b1864000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="296" tvg-name="TSN Necochea" tvg-logo="https://www.m3u.cl/logo/296_TSN_Necochea.png" group-title="Local", TSN Necochea
-https://panel.dattalive.com:443/tsnnecochea/tsnnecochea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="788" tvg-name="TV Dos Salta" tvg-logo="https://www.m3u.cl/logo/788_TV_Dos_Salta.jpg" group-title="Local", TV Dos Salta
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
@@ -641,9 +635,6 @@ http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83648
 
 #EXTINF:-1 tvg-id="494" tvg-name="UCL TelevisiÃ³n LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisión LATAM | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
-#EXTINF:-1 tvg-id="888" tvg-name="En Vivo TVES" tvg-logo="https://www.m3u.cl/logo/888_En_Vivo_TVES.jpg" group-title="Local", En Vivo TVES  | AR
-https://mediacp.hostradios.com.ar:19360/envivotv/envivotv.m3u8
 
 #EXTINF:-1 tvg-id="789" tvg-name="CNN Chile" tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg" group-title="Noticias", CNN Chile  | CL
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
