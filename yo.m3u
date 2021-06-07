@@ -698,10 +698,3 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="139639" tvg-name="GARAGE TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Premium", HBO
-https://tv.teleclub.xyz/canales/L1/HBO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Premium", HBO 2
-https://tv.teleclub.xyz/canales/L1/HBO2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="Premium", HBO PLUS
-https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
