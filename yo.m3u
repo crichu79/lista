@@ -654,20 +654,17 @@ http://192.99.38.174:1935/patbolivia/patlapaz/chunklist_w829041430.m3u8
 #EXTINF:-1 group-title="General", Wow TV | SV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="143613" tvg-name="GOURMET TV" tvg-logo="https://elgourmet.com/theme/assets/logo.png"" group-title="General", Gourmet Tv
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+
 EXTINF:-1 group-title="General",Canal Once | MX
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="145383" tvg-name="Viajar Tv" tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png"" group-title="General", Viajar Tv
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0031&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="144305" tvg-name="TODO NOTICIAS " tvg-logo="" group-title="Noticias", Todo Noticias 
-https://www.youtube.com/embed/wHn1_QVoXGM
-
 #EXTINF:-1 tvg-id="144300" tvg-name="Canal 74" tvg-logo="https://i.imgur.com/r4btaBc.png" group-title="General", Canal 74  | CL
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="143613" tvg-name="GOURMET TV" tvg-logo="https://elgourmet.com/theme/assets/logo.png"" group-title="General", Gourmet Tv
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="141938" tvg-name="TVF TV FLORIDA URUGUAY" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/tv-florida-canal-4.png"" group-title="General", TVF Tv Florida  | UY
 http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
