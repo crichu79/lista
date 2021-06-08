@@ -18,6 +18,9 @@ http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", 13 Max Corrientes
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="Peliculas", A3CINE
+http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
 #EXTINF:-1 tvg-id="222" tvg-name="Acequia" tvg-logo="https://www.m3u.cl/logo/222_Acequia.png" group-title="Local", Acequia
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 
@@ -33,11 +36,17 @@ http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1 tvg-id="253" tvg-name="Argentinisima Satelital" tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="Local", Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="General", Azteca 7  | MX
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+
 #EXTINF:-1 tvg-id="138981" tvg-name="BRAGADO TV" tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="Local", Bragado Tv
 https://inliveserver.com:1936/9500/9500/chunklist_w1908919579.m3u8
 
 #EXTINF:-1 tvg-id="773" tvg-name="Canal 5 Santa Fe" tvg-logo="https://www.m3u.cl/logo/773_Canal_5_Santa_Fe.png" group-title="Local", C5SF
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="Local", Cable 10 HD Río Gallegos
+http://inliveserver.com:1935/8292/8292/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox1.png" group-title="Local", Cable Imagen Armstrong
 https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1169271894.m3u8
@@ -81,9 +90,6 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-id="269" tvg-name="Canal 13 San Luis" tvg-logo="https://www.m3u.cl/logo/269_Canal_13_San_Luis.png" group-title="Local", Canal 13 San Luis
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="141384" tvg-name="CANAL 2 MISIONES" tvg-logo="" group-title="Local", Canal 2 Posadas
-https://nd106.republicaservers.com/canal2misiones.mp4
-
 #EXTINF:-1 tvg-id="228" tvg-name="Canal 2 Jujuy" tvg-logo="https://www.m3u.cl/logo/228_Canal_2_Jujuy.png" group-title="Local", Canal 2 Fiberway
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
@@ -104,6 +110,9 @@ https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w55164
 
 #EXTINF:-1 tvg-id="229" tvg-name="Canal 20 Villamaria" tvg-logo="https://www.m3u.cl/logo/229_Canal_20_Villamaria.jpg" group-title="Local", Canal 20 Villamaría
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="Local", Canal 21 Posadas
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="230" tvg-name="Canal 22 Buenos Aires" tvg-logo="https://www.m3u.cl/logo/230_Canal_22_Buenos_Aires.jpg" group-title="Local", Canal 22 Buenos Aires
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8
@@ -195,6 +204,15 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
 #EXTINF:-1 tvg-id="272" tvg-name="Canal 79 Mar del Plata" tvg-logo="https://www.m3u.cl/logo/272_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Mar del Plata
 https://5f6e1fe8f2d2e.streamlock.net:443/mardelplata/mardelplata/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Puán
+https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 San Juan
+https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Santa Clara del Mar
+https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/playlist.m3u8
+
 #EXTINF:-1 tvg-id="235" tvg-name="Canal 8 Catamarca" tvg-logo="https://www.m3u.cl/logo/235_Canal_8_Catamarca.jpg" group-title="Local", Canal 8 Catamarca
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 
@@ -247,7 +265,10 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports  | MX
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+http://ultraplay.org:80/DANIEL13W/2019XTR/170
+
+#EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="Local", Correa Radiovisión
+http://arcast.net:1935/correadigital/canal12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="238" tvg-name="CPE TV" tvg-logo="https://www.m3u.cl/logo/238_CPE_TV.jpg" group-title="Local", CPE TV La Pampa
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
@@ -314,6 +335,9 @@ https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="283" tvg-name="Metro TV Canal 12 Tucuman" tvg-logo="https://www.m3u.cl/logo/283_Metro_TV_Canal_12_Tucuman.png" group-title="Local", Metro TV Canal 12 Tucumán
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="Local", Milenium Tv Salta
+https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8
 
 #EXTINF:-1 tvg-id="768" tvg-name="Milennio TV" tvg-logo="https://www.m3u.cl/logo/768_Milennio_TV.png" group-title="Local", Milennio TV
 https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8
@@ -422,6 +446,9 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.televideoinforma.com.ar/img/publicidades/Televideo_logo.jpg" group-title="Local", Televideo Villa Ocampo
 https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="Local", Televisión Regional Unimar
+https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 
 #EXTINF:-1 tvg-id="293" tvg-name="Telpin Canal 2" tvg-logo="https://www.m3u.cl/logo/293_Telpin_Canal_2.png" group-title="Local", Telpin Canal 2
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
@@ -651,6 +678,9 @@ http://rec2.distv.net:80/damaris/123456/143
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="Deportes", ESPN Extra | BR
 http://rec2.distv.net:80/damaris/123456/145
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="Deportes", Bein Sports Xtra Ñ
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports.png" group-title="Deportes", Fox Sports | BR
 http://rec2.distv.net:80/damaris/123456/152
 
@@ -764,3 +794,27 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="139639" tvg-name="GARAGE TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="General", Telecinco HD  | ES
+http://ultraplay.org:80/DANIEL13W/2019XTR/53773
+
+#EXTINF:-1 tvg-logo="" group-title="General", TeleMadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png" group-title="General", Canal 4 HD Montevideo
+https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Canal4_URU-audio_20000=144800-video=1480000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="General", Bolivia Tv 
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="General", Bolivia Tv 2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vakdxny.jpg" group-title="General", Canal 10 Cancún  | MX
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="Noticias", NBC News Now  | US
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="General", Canal Once  | MX
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
