@@ -612,6 +612,9 @@ https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
+#EXTINF:-1, group-title="Deportes" ,SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" group-title="Deportes", Sky Sport 24  | IT
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
@@ -620,9 +623,6 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/87086
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDjvxF32zd_wJyYKii10GlhU0cfGVDkdlDhg&usqp=CAU" group-title="Deportes", Sony Six  | IN
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.cdntv.online/img/1015.png" group-title="Deportes", SPORT1 | ALE
-http://cdntv.online/low/9mlxywika2/1015.mpeg
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbIkxCjYHGpobHQhKkaqUu66j7sYuK8C8YEsIsoasP&s" group-title="Deportes", SPORT1 | UC
 https://95-213-224-181.livesports24.online/sport1ua.m3u8?885415001050a
