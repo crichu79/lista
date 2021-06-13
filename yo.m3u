@@ -45,6 +45,9 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.jpg" group-title="Local", América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
 
+#EXTINF:-1, group-title="General", Antena 3 FHD  | ES
+http://51.91.73.99:25461/spain/XDWu1KatRP/21546
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/8/8a/Arena_sport_logo.png" group-title="Deportes", Arena Sport 5
 http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
 
@@ -481,6 +484,9 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/elufatv
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="General",La 2 | ES
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
+#EXTINF:-1, group-title="General", La Sexta HD | ES
+http://51.91.73.99:25461/spain/XDWu1KatRP/21711
+
 #EXTINF:-1 tvg-id="217" tvg-name="La Voz de Tucuman" tvg-logo="https://www.m3u.cl/logo/217_La_Voz_de_Tucuman.png" group-title="Local", La Voz de Tucumán
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
@@ -531,6 +537,9 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Educativos", NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1,group-title="Educativos", Nat Geo | GB
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/12b30fdac68ad23.m3u8
 
 #EXTINF:-1 tvg-id="285" tvg-name="Net TV" tvg-logo="https://www.m3u.cl/logo/285_Net_TV.png" group-title="General", Net Tv
 https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -646,8 +655,7 @@ https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 #EXTINF:-1 tvg-id="Telearuba13.aw" tvg-name="Telearuba 13" tvg-country="AW" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wjwxp3K.png" group-title="General",Telearuba 13
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="General", Telecinco HD  | ES
-http://ultraplay.org:80/DANIEL13W/2019XTR/53773
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="General", Telecinco HD  |http://51.91.73.99:25461/spain/XDWu1KatRP/21846
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="Local", Telecinco Trelew
 https://videohd.live:19360/8016/8016.m3u8
