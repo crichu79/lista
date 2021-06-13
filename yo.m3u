@@ -273,8 +273,8 @@ https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="203" tvg-name="Catamarca TV" tvg-logo="https://www.m3u.cl/logo/203_Catamarca_TV.png" group-title="Local", Canal 7 Catamarca
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w1847941210.m3u8
 
-#EXTINF:-1 tvg-id="Canale8.it" tvg-name="Canale 8" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/LogoCanale8.jpg" group-title="General", Canale 8  | IT
-http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+#EXTINF:-1 tvg-id="Canale7.it" tvg-name="Canale 7" tvg-country="IT" tvg-language="Italian" tvg-logo="https://canale7.tv/assets/front/img/fb_logo.jpg" group-title="", Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5+_Logo.png" group-title="Deportes", CCTV 5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
@@ -538,8 +538,14 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="Noticias", RAI 3 | IT
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w1480246840.m3u8
 
+#EXTINF:-1 tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Deportes", Rai Sport + HD
+http://194.76.186.69:8000/play/a0d4
+
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="General",Rede Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTK1HD.xk" tvg-name="RTK 1 HD" tvg-country="XK" tvg-language="Albanian" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="",RTK 1 HD  | KOS
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="287" tvg-name="RTN" tvg-logo="https://www.m3u.cl/logo/287_RTN.png" group-title="Local", RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
