@@ -75,6 +75,9 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="138981" tvg-name="BRAGADO TV" tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="Local", Bragado Tv
 https://inliveserver.com:1936/9500/9500/chunklist_w1908919579.m3u8
 
+#EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="Noticias", C5N
+https://inliveserver.com:1936/9504/9504/playlist.m3u8
+
 #EXTINF:-1 tvg-id="773" tvg-name="Canal 5 Santa Fe" tvg-logo="https://www.m3u.cl/logo/773_Canal_5_Santa_Fe.png" group-title="Local", C5SF
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
@@ -399,6 +402,12 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="239" tvg-name="Fenix" tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg" group-title="Local", Fenix La Rioja
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FijiTV.fj" tvg-name="Fiji TV" tvg-country="FJ" tvg-language="English" tvg-logo="https://i.imgur.com/z4AuQtX.png" group-title="", Fiji TV
+https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8
+
+#EXTINF:-1 tvg-id="FixHD.hu" tvg-name="Fix HD" tvg-country="HU" tvg-language="" tvg-logo="" group-title="", Fix HD  | HU
+http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="481" tvg-name="FMTV 1" tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png" group-title="Peliculas", FMTV 1  | US
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
@@ -412,10 +421,10 @@ http://rec2.distv.net:80/damaris/123456/152
 #EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports2.png" group-title="Deportes", Fox Sports 2 | BR
 http://rec2.distv.net:80/damaris/123456/153
 
-#EXTINF:-1 tvg-id="FOXSportsHD1.us" tvg-name="FOX Sports HD 1" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Deportes",FOX Sports HD 1 | US
+#EXTINF:-1 tvg-id="FOXSportsHD1.us" tvg-name="FOX Sports HD 1" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Deportes", FOX Sports HD 1 | US
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias",France 24 Español
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="General", GEN Tv Digital
@@ -505,8 +514,8 @@ https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="General",Noticias del 6
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="Local", Noticias EPS Bragado
-https://inliveserver.com:1936/9504/9504/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVAfrique.ci" tvg-name="NTV Afrique" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/qiGrf6k.png" group-title="General", NTV Afrique  | CM
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="Noticias" group-title="Noticias",RT en Español
 http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
@@ -555,6 +564,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTVRwanda.rw" tvg-name="RTV Rwanda" tvg-country="RW" tvg-language="Kinyarwanda" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png" group-title="General", RTV Ruanda
 https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RUVIslandia.is" tvg-name="RúV Islandia" tvg-country="IS" tvg-language="" tvg-logo="" group-title="General", Rúv Islandia
+https://ruvruverl-live-hls.secure.footprint.net/24beacf6e543ecd6f62c8dc98b1827650c5507f8-1/ruv/ruv2erl/index/stream1.m3u8
 
 #EXTINF:-1 tvg-id="202" tvg-name="San Pedro TV" tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="Local", San Pedro TV
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
@@ -606,6 +618,9 @@ https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" group-title="Local", Teleba Balcarce
 http://inliveserver.com:1935/8550/8550/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teleceiba.hn" tvg-name="Teleceiba" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wIcvdMQ.jpg" group-title="General", Teleceiba
+http://190.11.224.14:8134/liveevent.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-name="Telediario TelevisiÃ³n" tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png" group-title="Local", Telediario Televisión
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
