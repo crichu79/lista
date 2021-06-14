@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privÃ© HD" tvg-country="SAS" tvg-language="English" tvg-logo="" group-title="Peliculas",&privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, group-title="Deportes", #VAMOS HD
-http://xtrastv.club:8080/cat54_2/9fr3T8J6dsw/3210
-
 #EXTINF:-1 tvg-id="221" tvg-name="5R TV Santa Fe" tvg-logo="https://www.m3u.cl/logo/221_5R_TV_Santa_Fe.png" group-title="Local", 5R TV Santa Fe
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
@@ -47,9 +44,6 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
 #EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.jpg" group-title="Local", América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
-
-#EXTINF:-1, group-title="General", Antena 3 FHD  | ES
-http://51.91.73.99:25461/spain/XDWu1KatRP/21546
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/8/8a/Arena_sport_logo.png" group-title="Deportes", Arena Sport 5
 http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
@@ -164,6 +158,9 @@ https://cootv.cootel.com.ni/streams/d/SSLCH02-HD-YON/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2rWFai7wm5hmr6nAciUu7Esm8YcLq10du0w&usqp=CAU" group-title="Local", Canal 2 San Luis
 https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w551645566.m3u8
+
+#EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="Local", Canal 2 Sanagasta
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="230" tvg-name="Canal 22 Buenos Aires" tvg-logo="https://www.m3u.cl/logo/230_Canal_22_Buenos_Aires.jpg" group-title="Local", Canal 22 Buenos Aires
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8
@@ -487,9 +484,6 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/elufatv
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="General",La 2 | ES
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
-#EXTINF:-1, group-title="General", La Sexta HD | ES
-http://51.91.73.99:25461/spain/XDWu1KatRP/21711
-
 #EXTINF:-1 tvg-id="217" tvg-name="La Voz de Tucuman" tvg-logo="https://www.m3u.cl/logo/217_La_Voz_de_Tucuman.png" group-title="Local", La Voz de Tucumán
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
@@ -525,6 +519,9 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="Local", Milenium Tv Salta
 https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.misionesonline.net/wp-content/uploads/2021/02/LogoMoscaGifweb.gif" group-title="Local", Misiones Online
+https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWzXkCgPZo8lDuE_mvpRaWXw)/dm/3/x7zlqfx/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Religiosos",Monte Maria  | MX
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
@@ -634,6 +631,9 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/87086
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDjvxF32zd_wJyYKii10GlhU0cfGVDkdlDhg&usqp=CAU" group-title="Deportes", Sony Six  | IN
 http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4" group-title="Local", Speed Tv Concordia
+http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="StarSports.hk" tvg-name="Star Sports" tvg-country="SAS" tvg-language="English" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="Deportes", Star Sports  | IN
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
@@ -683,6 +683,9 @@ http://190.11.224.14:8134/liveevent.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-name="Telediario TelevisiÃ³n" tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png" group-title="Local", Telediario Televisión
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="Local", Telefe Mar del Plata
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThVbPsZftotBfQZ2Vr-DMnOXA13H7CgbhS3g&usqp=CAU" group-title="General", Telefuturo  | PY
 http://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
