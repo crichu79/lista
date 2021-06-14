@@ -85,7 +85,7 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 https://inliveserver.com:1936/9500/9500/chunklist_w1908919579.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="General", C5N
-https://blackghost.live/play/wistream-bglve-609.php?cat=latinos&ch=c5n&f=.m3u8
+https://inliveserver.com:1936/9504/9504/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Canal_9_Noticias.jpg" group-title="General", C9N  | PY
 http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=3900000.m3u8
