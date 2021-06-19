@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privÃ© HD" tvg-country="SAS" tvg-language="English" tvg-logo="" group-title="Peliculas",&privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="Webcams", 5900 Tv Córdoba
+https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
+
 #EXTINF:-1 tvg-id="221" tvg-name="5R TV Santa Fe" tvg-logo="https://www.m3u.cl/logo/221_5R_TV_Santa_Fe.png" group-title="Local", 5R TV Santa Fe
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
@@ -60,20 +63,23 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-id="ATM4.at" tvg-name="AT | M4" tvg-country="AT" tvg-language="" tvg-logo="" group-title="General", AT | M4  | AUT
 https://5a32c05065c79.streamlock.net/live/stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Webcams", Av 3 y 104 Villa Gesell
+http://cam104y3.gesell.com.ar/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="General", Azteca 7  | MX
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
 #EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="Noticias",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Deportes", Bein Sports 1
-https://b.pscdn.live/hls/bein-sports-1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Deportes", Bein Sports Xtra
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Deportes", Bein Sports 2
-https://b.pscdn.live/hls/bein-sports-2.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="Deportes", Bein Sports Xtra Ñ
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Deportes", Bein Sports 3
-https://b.pscdn.live/hls/bein-sports-3.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="Deportes", Best Cable Sport
+https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
 
 #EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="Noticias",BFM Paris  | FR
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
@@ -84,11 +90,20 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="General", Bolivia Tv 2
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="Webcams", Botavara Pinamar
+https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
+
 #EXTINF:-1 tvg-id="138981" tvg-name="BRAGADO TV" tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="Local", Bragado Tv
 https://inliveserver.com:1936/9500/9500/chunklist_w1908919579.m3u8
 
-#EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="General", C5N
-https://inliveserver.com:1936/9504/9504/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Webcams", Bs As y Playa Villa Gesell
+http://cambsasyplaya.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="Webcams", Bunge y El Mar Pinamar
+https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/chunklist_w968282560_b1344100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="Webcams", Bunge y Libertador Pinamar
+https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Canal_9_Noticias.jpg" group-title="General", C9N  | PY
 http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=3900000.m3u8
@@ -98,6 +113,9 @@ https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="Local", Cable 10 HD Río Gallegos
 http://inliveserver.com:1935/8292/8292/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cabledigital.com.ar/wp-content/uploads/2020/03/cropped-Logo-Cabledigital-PNG-para-web-3.png" group-title="Local", CableDigital Huinca Renanco Córdoba
+https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 
 #EXTINF:-1 tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox1.png" group-title="Local", Cable Imagen Armstrong
 https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1169271894.m3u8
@@ -152,6 +170,9 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="269" tvg-name="Canal 13 San Luis" tvg-logo="https://www.m3u.cl/logo/269_Canal_13_San_Luis.png" group-title="Local", Canal 13 San Luis
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Canal 18 Salta
+https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="228" tvg-name="Canal 2 Jujuy" tvg-logo="https://www.m3u.cl/logo/228_Canal_2_Jujuy.png" group-title="Local", Canal 2 Fiberway
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
@@ -234,6 +255,9 @@ https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Can
 #EXTINF:-1 tvg-id="259" tvg-name="Canal 4 Posadas" tvg-logo="https://www.m3u.cl/logo/259_Canal_4_Posadas.png" group-title="Local", Canal 4 Posadas
 https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", Canal 4 San Juan
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmExMjNmcmVlYXBwcy5mcmVlLmFwcDVkNWVjMWY4ODliOThfaWNvbl8xNTY3NjE5OTcxXzAxNw/icon.png?w=170&fakeurl=1" group-title="Local", Canal 4 Teleaire S.Martín
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
@@ -248,6 +272,9 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8wBbZDC6NMnd1uS8IGhPC2Lm4pxPt7uQ3TxaICRzD1vvfnXcpjiPtRGPivpDIJbC5SYB" group-title="Local", Canal 5 Salta
 https://vivo.solumedia.com:19360/canal5/canal5.m3u8
+
+#EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="Local", Canal 5 Tandil
+https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 
 #EXTINF:-1 tvg-id="274" tvg-name="Canal Cinco Tigre" tvg-logo="https://www.m3u.cl/logo/274_Canal_Cinco_Tigre.png" group-title="Local", Canal 5 Tigre
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
@@ -306,7 +333,10 @@ https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-id="139070" tvg-name="CANAL 9 RIO CUARTO" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Canal 9 Río Cuarto
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="302" tvg-name="Canal Nueve TV" tvg-logo="https://www.m3u.cl/logo/302_Canal_Nueve_TV.png" group-title="Local", Canal Nueve Tv C.Rivadavia
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="Local", Canal 9 Televida Mendoza
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
+
+#EXTINF:-1 tvg-id="302" tvg-name="Canal Nueve TV" tvg-logo="https://www.m3u.cl/logo/302_Canal_Nueve_TV.png" group-title="Local", Canal Nueve Comodoro Rivadavia
 https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="General", Canal Once  | MX
@@ -498,20 +528,26 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 #EXTINF:-1 tvg-id="483" tvg-name="FMTV 3 Super Cine" tvg-logo="https://www.m3u.cl/logo/483_FMTV_3_Super_Cine.png" group-title="Peliculas", FMTV 3 Super Cine  | US
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u
 
-#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Noticias",Fox News
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Noticias", Fox News Usa
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports.png" group-title="Deportes", Fox Sports | BR
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Deportes", Fox Sports Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports.png" group-title="Deportes", Fox Sports Brasil
 http://rec2.distv.net:80/damaris/123456/152
 
-#EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports2.png" group-title="Deportes", Fox Sports 2 | BR
+#EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports2.png" group-title="Deportes", Fox Sports 2 Brasil
 http://rec2.distv.net:80/damaris/123456/153
 
-#EXTINF:-1 tvg-id="FOXSportsHD1.us" tvg-name="FOX Sports HD 1" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Deportes", FOX Sports HD 1 | US
+#EXTINF:-1 tvg-id="FOXSportsHD1.us" tvg-name="FOX Sports HD 1" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Deportes", FOX Sports 1 HD Usa
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="139639" tvg-name="GARAGE TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="General", GEN Tv Digital
 https://videohd.live:19360/8010/8010.m3u8
@@ -547,6 +583,9 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="General",La 2 | ES
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Webcams", La Pinocha Villa Gesell
+http://camlapinocha.gesell.com.ar/playlist.m3u8
+
 #EXTINF:-1 tvg-id="217" tvg-name="La Voz de Tucuman" tvg-logo="https://www.m3u.cl/logo/217_La_Voz_de_Tucuman.png" group-title="Local", La Voz de Tucumán
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
@@ -571,6 +610,9 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendti
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="Deportes", Look Sports + | RU
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="General", Love Nature
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MaoriTelevision.au" tvg-name="Maori Television" tvg-country="NZ;AU" tvg-language="English" tvg-logo="https://static.epg.best/nz/MaoriTelevision.nz.png" group-title="General", Maori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 
@@ -588,6 +630,9 @@ https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/4901065695188764
 
 #EXTINF:-1 tvg-logo="http://tv.misionesonline.net/wp-content/uploads/2021/02/LogoMoscaGifweb.gif" group-title="Local", Misiones Online
 https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWzXkCgPZo8lDuE_mvpRaWXw)/dm/3/x7zlqfx/s/live-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="Webcams", Monte Hermoso
+https://streaming.reltid.com.ar/hls/monte.m3u8
 
 #EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Religiosos",Monte Maria  | MX
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
@@ -609,6 +654,9 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1,group-title="Educativos", Nat Geo | GB
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/12b30fdac68ad23.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="Local", Neo Tv Digital
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NEOX-SALTA-300x240.jpg" group-title="Local", Neox Tv Salta
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
@@ -684,7 +732,7 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional PT" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="General", RTP Internacional  | POR
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="839" tvg-name="RTV Cable" tvg-logo="https://www.m3u.cl/logo/839_RTV_Cable.png" group-title="Local", RTV Cable S.Pedro de Jujuy
+#EXTINF:-1 tvg-id="839" tvg-name="RTV Cable" tvg-logo="https://www.m3u.cl/logo/839_RTV_Cable.png" group-title="Local", RTV Cable Jujuy
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 #EXTINF:-1 tvg-id="RTVRwanda.rw" tvg-name="RTV Rwanda" tvg-country="RW" tvg-language="Kinyarwanda" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png" group-title="General", RTV Ruanda
@@ -698,6 +746,9 @@ https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZCgF1BmCKIw/Xv0NsKVkVlI/https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpgAAAAAAAA2ZY/A_W0oDbGNlgQn30-qgJYIBFpz9nCjpGGACK8BGAsYHg/s0/2020-07-01.jpg" group-title="Local", Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="Webcams", Sierra de la Ventana
+https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
@@ -754,6 +805,9 @@ https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-id="765" tvg-name="Canal 4 Telecondor" tvg-logo="https://www.m3u.cl/logo/765_Canal_4_Telecondor.png" group-title="Local", Telecondor Satelital
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.18169-9/20708437_111250822872341_7486705936501501459_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeE5cupq3kMwbbWlvbYKKEahLA0gqcInhc4sDSCpwieFzkkpFkD-7UiGuFCIAKjJwzo&_nc_ohc=83SaW40wm4YAX-NLLFB&_nc_oc=AQntwE4tyn7QX3HJIwQ3ETUGiqwWO80Pjv_tVVGfy4TAMZUjwBlCugE5QNPhIog4nWxzddw_zAIuRJQdPet5LD5j&_nc_ht=scontent.fepa11-1.fna&oh=184edb034c7d9a4d2d2ed2a8c0d884f4&oe=60CA3571" group-title="Local", Telecreativa Lanús
+https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleCuracao.cw" tvg-name="TeleCuraÃ§ao" tvg-country="CW" tvg-language="English" tvg-logo="https://i.imgur.com/9D9G4co.png" group-title="General", TeleCurazao
 http://ott.streann.com:8080/loadbalancer/services/public/channels/5ed71e232cdc24a3d08cd6de/playlist.m3u8
@@ -833,6 +887,9 @@ https://stmvideo1.livecastv.com/teveocho/teveocho/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWallStreetJournalLive.us" tvg-name="The Wall Street Journal Live" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZzyXAKm.jpg" group-title="Economía y Finanzas",The Wall Street Journal Live
 https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8?player=powa
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-byaRfvJfLqTsABgDZb6zXzK-owEfqnrOI7WdqTEANDFry7uFqmz4pfdui4jVw-opII&usqp=CAU" group-title="General", Ticavisión Costa Rica
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10484954.jpg" group-title="Deportes", Tigo Sports+  | PY
 http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
 
@@ -863,6 +920,9 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-id="TVZimbo.ao" tvg-name="TV Zimbo" tvg-country="AO" tvg-language="Portuguese" tvg-logo="" group-title="General", TV Zimbo  | AN
 https://iptv-all.lanesh4d0w.repl.co/angola/tv-zimbo
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Wpq8af4GxNg/YLlykYLuXhI/AAAAAAABCps/Xxgv3b7r5voeijxjk4qxMt7tome4k85OQCJEEGAsYHg/s512/2021-06-03.jpg" group-title="Local", TVES San José de la Esquina Sta. Fé
+https://mediacp.hostradios.com.ar:19360/envivotv/envivotv.m3u8
+
 #EXTINF:-1 tvg-id="TV4HD.se" tvg-name="TV4 HD" tvg-country="SE" tvg-language="" tvg-logo="" group-title="General", TV4 HD  | SUE
 https://lbs-aws-hls.tv4play.se/dailive/bbr-event1-p/master3404.m3u8
 
@@ -883,6 +943,24 @@ https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes", Tyc Sports  | AR
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="Deportes", TyC Sports Play 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="Deportes", TyC Sports Play 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="Deportes", TyC Sports Play 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="Deportes", TyC Sportes Play 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="Deportes", TyC Sports Play 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="Deportes", TyC Sports Play 6
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
 
 #EXTINF:-1 tvg-id="494" tvg-name="UCL TelevisiÃ³n LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisión LATAM | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -911,6 +989,9 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="Local", Valle Tv Neuquén
 https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" group-title="General", Vallevisión Rep. Dominicana
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Venevision.ve" tvg-name="Venevision" tvg-country="VE" tvg-language="" tvg-logo="" group-title="General", Venevision
 http://177.52.221.214:8000/play/a0cw/index.m3u8
 
@@ -937,6 +1018,9 @@ https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="General", Wow TV | SV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.6435-1/p200x200/69538283_2477118882346063_3348490571365744640_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=gEcM_P9JYtwAX-IjsEw&_nc_ht=scontent.fepa11-1.fna&tp=6&oh=27cf3f590f7d050e6a6e0576e2f5aac1&oe=60D11B8D" group-title="Local", X24 Tucumán 
+https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_QTSBRhcjGU/XATV6kEZxBI/AAAAAAAAA64/EfPiSHBQFZMfzxSac9m9gDWR1VFtBGUWQCLcBGAs/s400/Canal_XAMA_TV_San_Juan.png" group-title="Local", Xama Tv San Juan
 https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
