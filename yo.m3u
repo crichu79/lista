@@ -417,8 +417,8 @@ http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="Deportes",DEPORTv 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
-#EXTINF:-1 tvg-id="DiemaSport2HD.bg" tvg-name="Diema Sport 2 HD" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Deportes", Diema Sport 2 HD Bulgaria
-http://94.236.145.205:8000/play/a01b
+#EXTINF:-1 group-title="Deportes", Directv Sports+
+http://ultraplay.org:80/DANIEL13W/2019XTR/66500
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Documentales", Discovery World
 http://209.91.213.10:8099/play/a02h
@@ -440,6 +440,15 @@ https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 
 #EXTINF:-1 tvg-id="303" tvg-name="El Eco TV" tvg-logo="https://www.m3u.cl/logo/303_El_Eco_TV.png" group-title="Local", El Eco Tv Tandil
 https://5f93e494d5906.streamlock.net:443/elecotv/elecotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Deportes", ESPN sur
+http://ultraplay.org:80/DANIEL13W/2019XTR/188
+
+#EXTINF:-1 group-title="Deportes", ESPN 2 sur
+http://ultraplay.org:80/DANIEL13W/2019XTR/189
+
+#EXTINF:-1 group-title="Deportes", ESPN 3 sur
+http://ultraplay.org:80/DANIEL13W/2019XTR/190
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes", Eurosport 1 España
 http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
@@ -504,6 +513,21 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u
 #EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Noticias", Fox News USA
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
+#EXTINF:-1 group-title="Noticias", Fox Premium Action
+http://ultraplay.org:80/DANIEL13W/2019XTR/197
+
+#EXTINF:-1 group-title="Deportes", Fox Sports 
+http://ultraplay.org:80/DANIEL13W/2019XTR/206
+
+#EXTINF:-1 group-title="Deportes", Fox Sports 2
+http://ultraplay.org:80/DANIEL13W/2019XTR/208
+
+#EXTINF:-1 group-title="Deportes", Fox Sports 3
+http://ultraplay.org:80/DANIEL13W/2019XTR/210
+
+#EXTINF:-1 group-title="Deportes", Fox Sports Chile
+http://ultraplay.org:80/DANIEL13W/2019XTR/66495
+
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Deportes", Fox Sports Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 
@@ -548,6 +572,9 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/elufatv
 
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="General",La 2 España
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+#EXTINF:-1 group-title="Deportes", Movistar La Liga
+http://ultraplay.org:80/DANIEL13W/2019XTR/95863
 
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Webcams", La Pinocha Villa Gesell
 http://camlapinocha.gesell.com.ar/playlist.m3u8
@@ -714,6 +741,9 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" group-title="Deportes", Sky Sport 24 Italia
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
+#EXTINF:-1 group-title="Deportes", Sky Sports
+http://ultraplay.org:80/DANIEL13W/2019XTR/95865
+
 #EXTINF:-1 tvg-logo="http://www.concepcionaldia.com/wp-content/uploads/2014/09/snt_py.png" group-title="General", SNT Paraguay
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/87086
 
@@ -843,6 +873,9 @@ https://tv-trt3.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="Local", TSN Necochea
 https://panel.dattalive.com/tsnnecochea/tsnnecochea/playlist.m3u8
 
+#EXTINF:-1 group-title="Deportes", TUDN
+http://ultraplay.org:80/DANIEL13W/2019XTR/95821
+
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Turkmenistan Sport" tvg-country="TM" tvg-language="" tvg-logo="" group-title="Deportes", Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
@@ -953,6 +986,12 @@ http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83645
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="General", VTV PLUS Uruguay
 http://daletvplay.xyz:8080/9ThR5zqwvN/XPHBz4lboa/83648
+
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Deportes", Win Sports
+http://186.101.216.211:8000/play/a0cq
+
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports +" tvg-country="CO" tvg-language="" tvg-logo="" group-title="Deportes", Win Sports +
+http://186.101.216.211:8000/play/g07j
 
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="Peliculas", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
