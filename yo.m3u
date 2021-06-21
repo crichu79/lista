@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="Cámaras", 5900 Tv Córdoba
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
@@ -27,9 +26,6 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 
 #EXTINF:-1 tvg-id="222" tvg-name="Acequia" tvg-logo="https://www.m3u.cl/logo/222_Acequia.png" group-title="Local", Acequia Mendoza
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
-
-#EXTINF:-1 tvg-id="485" tvg-name="AC Vision" tvg-logo="https://www.m3u.cl/logo/485_AC_Vision.png" group-title="General", AC Vision Ecuador
-https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 
 #EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://www.m3u.cl/logo/658_ADN_40.png" group-title="Noticias", ADN 40 México
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
