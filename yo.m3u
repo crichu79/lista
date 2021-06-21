@@ -42,8 +42,8 @@ http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="Deportes", Arena Sport 1
 http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/8/8a/Arena_sport_logo.png" group-title="Deportes", Arena Sport 5
-http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_2.png" group-title="Deportes", Arena Sport 2
+http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="253" tvg-name="Argentinisima Satelital" tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="Local", Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
@@ -441,6 +441,9 @@ http://rec2.distv.net:80/damaris/123456/143
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="Deportes", ESPN Extra Brasil
 http://rec2.distv.net:80/damaris/123456/145
 
+#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/500b1f7c-dad5-33f9-907c-87427babe201.png" group-title="Deportes", ESPN U
+http://164.68.124.111/espnu.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="Deportes", Eventos Tigo Bolivia 1
 https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 
@@ -483,9 +486,6 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports.png" group-title="Deportes", Fox Sports 1 USA
 http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="FOXSportsHD1.us" tvg-name="FOX Sports HD 1" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Deportes", FOX Sports 1 HD USA
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports.png" group-title="Deportes", Fox Sports 2 USA
 http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
 
@@ -497,6 +497,9 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports.png" group-title="Deportes", Fox Sports Brasil
 http://rec2.distv.net:80/damaris/123456/152
+
+#EXTINF:-1 tvg-id="FOXSportsHD1.us" tvg-name="FOX Sports HD 1" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Deportes", FOX Sports News HD USA
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
