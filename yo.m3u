@@ -53,6 +53,9 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="Noticias",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://lafabricadelatele.com/wp-content/uploads/2016/04/bemad.jpg" group-title="General", Be Mad HD
+http://91.126.138.140:1935/live/bemad/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="Deportes", Best Cable Sport
 https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
 
@@ -389,8 +392,11 @@ http://190.122.96.187:8888/http/010
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="Local", Del Sur Tv San Juan
 http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="Deportes",DEPORTv 
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="Deportes", DEPORTv 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-0YSbdhrKj3c/XHQ2HNjR-EI/AAAAAAAAA8c/Bhr5JNEdfZgt1kCHrhRZwqe6CZbNLEKbACLcBGAs/s1600/directvsports2.jpg" group-title="Deportes", Directv Sports 2
+https://akamai2-br.cdn.booyah.live/hls/1000009/71486811.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Documentales", Discovery World
 http://209.91.213.10:8099/play/a02h
