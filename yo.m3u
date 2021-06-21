@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="Cámaras", 5900 Tv Córdoba
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
@@ -37,6 +38,9 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
 #EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.jpg" group-title="Local", América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="Deportes", Arena Sport 1
+http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/8/8a/Arena_sport_logo.png" group-title="Deportes", Arena Sport 5
 http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
@@ -428,8 +432,8 @@ http://rec2.distv.net:80/damaris/123456/142
 #EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="Deportes", ESPN 1 USA
 http://188.113.190.12:80/168/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="Deportes", ESPN 2
-http://23.237.78.54/live-1000/263/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.schooleymitchell.com/wp-content/uploads/espn.png" group-title="Deportes", ESPN 2 USA
+http://164.68.124.111/espn2.m3u8
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espn2.png" group-title="Deportes", ESPN 2 Brasil
 http://rec2.distv.net:80/damaris/123456/143
@@ -829,6 +833,9 @@ http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVNHD.cl" tvg-name="TVN HD" tvg-country="CL" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLN4WfUMrRsD0b04jbG3EnYrnlV4FYPZURRw&usqp=CAU" group-title="General", TVN HD
 http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/3/f/4/3f484d2e698e3e32fb426d68e1703477_icon.png" group-title="Deportes", TVP SPORT
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes", Tyc Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
