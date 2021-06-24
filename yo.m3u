@@ -684,6 +684,9 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/87086
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4" group-title="Local", Speed Tv Concordia
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Sportsnet_One/Sportsnet_One-Logo.wine.png" group-title="Deportes", Sportnet One
+http://mains.services:2086/live/mikekoot/1757909/3225.m3u8
+
 #EXTINF:-1 tvg-id="244" tvg-name="T5 Satelital" tvg-logo="https://www.m3u.cl/logo/244_T5_Satelital.png" group-title="Local", T5 Satelital
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
 
