@@ -60,6 +60,15 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-logo="https://lafabricadelatele.com/wp-content/uploads/2016/04/bemad.jpg" group-title="General", Be Mad HD
 http://91.126.138.140:1935/live/bemad/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Deportes", Bein Sports 1 HD Francia
+http://ultimateiptv.me:8080/live/amira/amira123/85.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Deportes", Bein Sports 2 HD Francia
+http://ultimateiptv.me:8080/live/amira/amira123/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Deportes", Bein Sports 3 HD Francia
+http://ultimateiptv.me:8080/live/amira/amira123/3011.m3u8
+
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="Deportes", Best Cable Sport
 https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
 
