@@ -540,6 +540,9 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 #EXTINF:-1 tvg-id="483" tvg-name="FMTV 3 Super Cine" tvg-logo="https://www.m3u.cl/logo/483_FMTV_3_Super_Cine.png" group-title="Peliculas", FMTV 3 Super Cine USA
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u
 
+#EXTINF:-1 tvg-logo="https://www.vendom.jobs/image/logos/logo-four-seasons-resort-marrakech-166-.jpg" group-title="Cámaras", Four Seasons Hotel Buenos Aires
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624846961/ei/Ed7YYLGrIq331sQP-oSTyAw/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/if91GyWP3zQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANO5myeTlySGE3F0ZXSAqq-kVVXO7vWRibQYofxoJi4QAiEAnBx7p7-OySzr1fsNFwOBhj1Ed6JoXtdGWBoGbtpGmx8%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Noticias", Fox News USA
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 
@@ -710,9 +713,6 @@ http://cdn.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVI
 
 #EXTINF:-1 group-title="General", PAT La Paz
 http://192.99.38.174:1935/patbolivia/patlapaz/chunklist_w829041430.m3u8
-
-#EXTINF:-1 group-title="Cámaras", Patio Casa
-rtsp://admin:pumillo@192.168.0.5:5555/11
 
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Pinamar Septiembre Loft
 https://video.estadodelmar.com.ar/mobile/pinamar/index.m3u8
