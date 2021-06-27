@@ -486,6 +486,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624842938/ei/W
 #EXTINF:-1 tvg-id="303" tvg-name="El Eco TV" tvg-logo="https://www.m3u.cl/logo/303_El_Eco_TV.png" group-title="Local", El Eco Tv Tandil
 https://5f93e494d5906.streamlock.net:443/elecotv/elecotv/playlist.m3u8
 
+#EXTINF:-1 group-title="Cámaras", Escollera Santa Clara del Mar
+https://santaclara.freewaves.live/hls/live.stream.m3u8
+
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espn.png" group-title="Deportes", ESPN 1 Brasil
 http://rec2.distv.net:80/damaris/123456/142
 
@@ -639,6 +642,9 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="Local", Milenium Tv Salta
 https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8
 
+#EXTINF:-1 group-title="Cámaras", Miramar
+https://miramar.freewaves.live/hls/live.stream.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="Cámaras", Monte Hermoso
 https://streaming.reltid.com.ar/hls/monte.m3u8
 
@@ -735,11 +741,11 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 group-title="Cámaras", Puente General Belgrano
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624849887/ei/f-nYYOqlDs6JwQSvnJjgBw/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/x0XdgoflMMQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcuTzfQi1fHl4kbzDYbELaOzIR6S9oeMEwgZY1fMEUVUCIBK_iTWVo58d6LPaPKLvOxwRnkmVmkVY5nYPtOusQnNS/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hv2sc3TvXlE/UDK40jrH6mI/AAAAAAAAKe4/0g8vU5twz74/s1600/Ushuaia.jpg" group-title="Cámaras", Puerto de Ushuaia
-https://hd-auth.skylinewebcams.com/live.m3u8?a=tetrlc1euf7lkufgk0j530nak1
-
 #EXTINF:-1 tvg-id="286" tvg-name="Quatro TV" tvg-logo="https://www.m3u.cl/logo/286_Quatro_TV.png" group-title="Local", Quatro Tv
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Rada Tilly
+https://radatilly.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="Noticias", RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w1480246840.m3u8
@@ -761,6 +767,9 @@ https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Santa Clara La Martina
 https://video.estadodelmar.com.ar/mobile/santaclara/index.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Santuario de Luján
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624850689/ei/oezYYIbvGYrKwATC-5KgCA/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/x5wzMH066wE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTxg_dNwSz9xlopGuxZqBD6BgsXux8rF625vwgnUocI0CIQC6bOM5fbUVY9zJIo5oXDjF1wMUbwRMMRnedupIa0tilQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZCgF1BmCKIw/Xv0NsKVkVlI/https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpgAAAAAAAA2ZY/A_W0oDbGNlgQn30-qgJYIBFpz9nCjpGGACK8BGAsYHg/s0/2020-07-01.jpg" group-title="Local", Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
@@ -944,6 +953,9 @@ https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54_JLheUKXbVFjYCpOF
 
 #EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-name="US SPORT Tennis Plus 1" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="Deportes", US SPORT Tennis Plus 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hv2sc3TvXlE/UDK40jrH6mI/AAAAAAAAKe4/0g8vU5twz74/s1600/Ushuaia.jpg" group-title="Cámaras", Ushuaia
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624850438/ei/puvYYNqwG7WL-LAPha2PsA8/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/_nsFz7fIbOk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJm69hZxabvsYqnPCQjAPyOBH01bHDyWVgfjgzsM79eNAiEAkngRBa6IvmKDn7I9dczGMA8T2keKRrxTo_8IJlnnzQ8%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="304" tvg-name="UTN TV" tvg-logo="https://www.m3u.cl/logo/304_UTN_TV.png" group-title="Educativos, UTN TV
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
