@@ -382,7 +382,7 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports
-http://ultraplay.org:80/DANIEL13W/2019XTR/170
+https://vid1084.trvdp.com/media/91975213af54d8f75e1588a72d9014a22ccb9ae9/hls/91975213af54d8f75e1588a72d9014a22ccb9ae9_480.m3u8
 
 #EXTINF:-1 tvg-id="789" tvg-name="CNN Chile" tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg" group-title="Noticias", CNN Chile
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
