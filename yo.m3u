@@ -303,6 +303,9 @@ https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Santa Clara del Mar
 https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/chunklist_w374403097.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local" Canal 79 Villa Maza
+https://5f6e1fe8f2d2e.streamlock.net/villamaza/villamaza/playlist.m3u8
+
 #EXTINF:-1 tvg-id="235" tvg-name="Canal 8 Catamarca" tvg-logo="https://www.m3u.cl/logo/235_Canal_8_Catamarca.jpg" group-title="Local", Canal 8 Catamarca
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 
