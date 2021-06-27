@@ -381,8 +381,8 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="Local", CELTv Tornquist
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cámaras", Cerro Catedral
-https://live.catedralaltapatagonia.com/hls/live.stream-184029.ts
+#EXTINF:-1 group-title="Cámaras", Cerro Catedral
+https://live.catedralaltapatagonia.com/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="General", CGTN en Español
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
@@ -731,6 +731,9 @@ https://yacht.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-id="243" tvg-name="Power" tvg-logo="https://www.m3u.cl/logo/243_Power.png" group-title="Local", Power HD Pinamar
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Puente General Belgrano
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624849887/ei/f-nYYOqlDs6JwQSvnJjgBw/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/x0XdgoflMMQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcuTzfQi1fHl4kbzDYbELaOzIR6S9oeMEwgZY1fMEUVUCIBK_iTWVo58d6LPaPKLvOxwRnkmVmkVY5nYPtOusQnNS/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hv2sc3TvXlE/UDK40jrH6mI/AAAAAAAAKe4/0g8vU5twz74/s1600/Ushuaia.jpg" group-title="Cámaras", Puerto de Ushuaia
 https://hd-auth.skylinewebcams.com/live.m3u8?a=tetrlc1euf7lkufgk0j530nak1
