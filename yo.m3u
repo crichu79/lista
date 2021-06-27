@@ -382,7 +382,7 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports
-https://vid1084.trvdp.com/media/91975213af54d8f75e1588a72d9014a22ccb9ae9/hls/91975213af54d8f75e1588a72d9014a22ccb9ae9_480.m3u8
+https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/live-audio_track_0_0_und=128000-video_track=145000.m3u8
 
 #EXTINF:-1 tvg-id="789" tvg-name="CNN Chile" tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg" group-title="Noticias", CNN Chile
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
@@ -660,7 +660,7 @@ http://cdn.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVI
 #EXTINF:-1 group-title="General", PAT La Paz
 http://192.99.38.174:1935/patbolivia/patlapaz/chunklist_w829041430.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Webcams", Pinamar Septiembre Loft
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Pinamar Septiembre Loft
 https://video.estadodelmar.com.ar/mobile/pinamar/index.m3u8
 
 #EXTINF:-1 tvg-id="213" tvg-name="Play Television" tvg-logo="https://www.m3u.cl/logo/213_Play_Television.jpg" group-title="Local", Play Televisión
@@ -669,7 +669,7 @@ http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist
 #EXTINF:-1 tvg-id="243" tvg-name="Power" tvg-logo="https://www.m3u.cl/logo/243_Power.png" group-title="Local", Power HD Pinamar
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hv2sc3TvXlE/UDK40jrH6mI/AAAAAAAAKe4/0g8vU5twz74/s1600/Ushuaia.jpg" group-title="Webcams", Puerto de Ushuaia
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hv2sc3TvXlE/UDK40jrH6mI/AAAAAAAAKe4/0g8vU5twz74/s1600/Ushuaia.jpg" group-title="Cámaras", Puerto de Ushuaia
 https://hd-auth.skylinewebcams.com/live.m3u8?a=tetrlc1euf7lkufgk0j530nak1
 
 #EXTINF:-1 tvg-id="286" tvg-name="Quatro TV" tvg-logo="https://www.m3u.cl/logo/286_Quatro_TV.png" group-title="Local", Quatro Tv
@@ -696,7 +696,7 @@ https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="San Pedro TV" tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="Local", San Pedro Tv
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Webcams", Santa Clara La Martina
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Santa Clara La Martina
 https://video.estadodelmar.com.ar/mobile/santaclara/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZCgF1BmCKIw/Xv0NsKVkVlI/https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpgAAAAAAAA2ZY/A_W0oDbGNlgQn30-qgJYIBFpz9nCjpGGACK8BGAsYHg/s0/2020-07-01.jpg" group-title="Local", Sicardi TV
@@ -903,7 +903,7 @@ https://live.admefy.com/live/default/shiny_silver_49d7a.m3u8
 #EXTINF:-1 tvg-id="VisionNoticiasPeruVNP.pe" tvg-name="Visión Noticias Perú (VNP)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/vnptv.pe/picture?width=320&height=320" group-title="Noticias",Visión Noticias Perú
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Webcams", Windy Villa Gesell
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Windy Villa Gesell
 https://video.estadodelmar.com.ar/mobile/vgesell/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="Peliculas", WMS HD
