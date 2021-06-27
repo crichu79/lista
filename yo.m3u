@@ -36,6 +36,9 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-country="QA" tvg-language="" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="Noticias", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-sports_m.png" group-title="Deportes", América Sports
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624836859/ei/m7bYYNu_HLKEobIPiuunEA/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/1SmKEIpmcLU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJWuIweQQXjedHRirM14hA4js4hBTO-Z_8hn-uMTzHdnAiEAjFZO70TyPOUxoRLNCxo8QMuyr_zswlMuKZzbLP_uz-8%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.jpg" group-title="Local", América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
 
@@ -86,6 +89,9 @@ https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/chunklist_w
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="Cámaras", Bunge y Libertador Pinamar
 https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" group-title="Local", C5N
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624835655/ei/57HYYMGpJJ_41sQP0q-x2AM/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/wlNWw5k14y8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTliByIGsR0jbVdWJC428A92aFT05OTlCqzw6YM_POkwCIQDhqre3sDM7npFcTnEMazT7T-_5bRvUBNkLJN87k-XhRw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Canal_9_Noticias.jpg" group-title="General", C9N Paraguay
 http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-audio_20000=144800-video=3900000.m3u8
@@ -146,6 +152,9 @@ https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?Playlis
 
 #EXTINF:-1 tvg-id="227" tvg-name="Canal 13 La Rioja" tvg-logo="https://www.m3u.cl/logo/227_Canal_13_La_Rioja.jpg" group-title="Local", Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Channel_13_logo_%28San_Juan%2C_Argentina%29.png/133px-Channel_13_logo_%28San_Juan%2C_Argentina%29.png" group-title="Local", Canal 13 San Juan
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624837087/ei/f7fYYJmNGpH0wQTl1bSYDQ/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/q28hht7-sms.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOKHNvyHqX3ni2tk3juY4gVf4RFUsUlDSu8Rh_S1XU40CIQCxvBcSDu_Vm02Y2x_j31hjmSCtIsANTT-PY3Iu1JhPJw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="269" tvg-name="Canal 13 San Luis" tvg-logo="https://www.m3u.cl/logo/269_Canal_13_San_Luis.png" group-title="Local", Canal 13 San Luis
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
@@ -273,11 +282,17 @@ https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/133708012_688547691824725_4359396706139005064_n.jpg?_nc_cat=106&ccb=3&_nc_sid=973b4a&_nc_ohc=u7Zzlj0_FTEAX_SKRSF&_nc_ht=scontent.fepa11-1.fna&oh=509ce59af3472416b3eea5794e2e02a5&oe=6066D962" group-title="Local", Canal 6 Plus Tv
 http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 
+#EXTINF:-1 tvg-id="203" tvg-name="Catamarca TV" tvg-logo="https://www.m3u.cl/logo/203_Catamarca_TV.png" group-title="Local", Canal 7 Catamarca
+https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w1847941210.m3u8
+
 ##EXTINF:-1 tvg-id="263" tvg-name="Canal 7 Chubut" tvg-logo="https://www.m3u.cl/logo/263_Canal_7_Chubut.png" group-title="Local", Canal 7 Chubut
 http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="264" tvg-name="Canal 7 Jujuy" tvg-logo="https://www.m3u.cl/logo/264_Canal_7_Jujuy.png" group-title="Local", Canal 7 Jujuy
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/L0jay3M.jpg" group-title="Local", Canal 7 Mendoza
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624836087/ei/l7PYYKzoK8a31sQPhfat-Aw/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/MXSS64cx_P4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIjZTmvSFdR0hpuIF3st1HQKt1m8r_5Jt1Z-SIvOIeSUCIQC_nsNEyS69BcHDrblkiAU3PxgrjYCIKzYby90j2m2sUA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="265" tvg-name="Canal 7 Salta" tvg-logo="https://www.m3u.cl/logo/265_Canal_7_Salta.png" group-title="Local", Canal 7 Salta
 https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8
@@ -321,6 +336,12 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 #EXTINF:-1 tvg-logo="https://www.freyre.com.ar/static/media/logotype.86814cc6.svg" group-title="Local", Canal Cooperativo Freyre
 https://online.coopmorteros.coop/freyre/freyre.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="Local", Canal de la Ciudad
+ttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624837457/ei/8bjYYOinC4zgxAS9oYv4AQ/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/wgokSVy9jpc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgR3_cIVIq1z1r0FFvlHcjh_uJhziDnoLzE1X6TO4-Vv4CIQCGc0wwJxCGc8hi4FW0aYgMn-WWNHMs8SjwUzJCflRAbQ%3D%3D/file/index.m3u8"
+
+#EXTINF:-1 tvg-logo="http://www.iaa.fadu.uba.ar/cau/wp-content/uploads/2010/03/banner_encuentro-720x340.jpg" group-title="Local", Canal Encuentro
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624836704/ei/ALbYYJDlN8rw1sQPr4qzoAU/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/TofiX4nF_R4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgC_xgBO4BCFSIpdrYL8Lor8ka9T6NfCkrn-GZBSO7XCACIQCRqMJiPSdSHuGBnnYynHm9SaU4jihlLt-zkNii30B0Dw%3D%3D/file/index.m3u8"
+
 #EXTINF:-1 tvg-id="302" tvg-name="Canal Nueve TV" tvg-logo="https://www.m3u.cl/logo/302_Canal_Nueve_TV.png" group-title="Local", Canal Nueve Comodoro Rivadavia
 https://live.canalnueve.tv/canal.m3u8
 
@@ -339,8 +360,8 @@ https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpAF7RD4euR1_cZ6K83JT2CvEdy
 #EXTINF:-1 tvg-id="276" tvg-name="Canal U" tvg-logo="https://www.m3u.cl/logo/276_Canal_U.png" group-title="Educativos", Canal U
 https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="203" tvg-name="Catamarca TV" tvg-logo="https://www.m3u.cl/logo/203_Catamarca_TV.png" group-title="Local", Canal 7 Catamarca
-https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w1847941210.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/Canal-Verte-en-vivo-Online.png" group-title="Local", Verte Tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624836404/ei/07TYYLe8ObKEobIPiuunEA/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/FxYA-W6Zbjk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgFccmhpN9E9ib1434xWCBgCpEWYMrP0mnCL7jryikfIACIQDWZhoRsOffkF95AkY2_vCfRvYwx2lKGtbcTntwI0pdRQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="504" tvg-name="CBS News" tvg-logo="https://www.m3u.cl/logo/504_CBS_News.png" group-title="Noticias", CBS News
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
@@ -405,6 +426,9 @@ http://arcast.net:1935/correadigital/canal12/playlist.m3u8
 #EXTINF:-1 tvg-id="238" tvg-name="CPE TV" tvg-logo="https://www.m3u.cl/logo/238_CPE_TV.jpg" group-title="Local", CPE TV La Pampa
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwoaeeAYmj2MAx_zYnMyIJMdkmQFd_mk6S48LnsvJm3T5ibhTX-98EHW-Ez4lnos0yV4w&usqp=CAU" group-title="Local", Crónica Tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624835859/ei/s7LYYO6iH9Ca1sQPgP266AQ/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/SfQSBGVmqQY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgayF2cOQwydi-wNqY6Kh7EPqEuGg6WS4VoOJ_wyN_eSsCIFDC12VIP0XOZsIf7-Xm0Uq5-VrWJTSNdso6oHKNwUI4/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="Local", CTV Corrientes
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
@@ -425,6 +449,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/x-a6TMo2CivvITwkx8SL8jtgaD1-za9NWUZemkt0-yfE8_fuSMzpE5kSElsT-YfaZfuLz-J1Nt1ml1X3cjR54CSYtEqgEl13Z_7rsdGD3BM4NKrLk_tCF6GNt4T47dwegYAk-mb91rY" group-title="Local", DSR Medios Carhué 
 https://panel.dattalive.com/8114/8114/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Diputados_TV.png/640px-Logo_Diputados_TV.png" group-title="Local", DTV Diputados Televisión
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624838131/ei/k7vYYJD9JeCN-LAPw_2m-AE/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/NinBU5RPJZA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWInWYhyZ3vGLS1UIgEjGGm0pyXmgmIjldFv3o3LbqC0CIAQ1uLwAWnCVmYPPp06vNdPYjqXv3hWSBs1q4DdCOrh-/file/index.m3u8
 
 #EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-name="Dubai Sports 1" tvg-country="AE" tvg-language="" tvg-logo="" group-title="Deportes", Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
@@ -822,7 +849,7 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10484954.jpg" group-title="Deportes", Tigo Sports+ Paraguay
 http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/apprecs.org/gp/images/app-icons/300/4f/com.tn.jpg" group-title="Noticias", TN
+#EXTINF:-1 tvg-logo="https://i1.wp.com/apprecs.org/gp/images/app-icons/300/4f/com.tn.jpg" group-title="Local", TN
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624833224/ei/aKjYYL6RL871wATf362IBw/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/wHn1_QVoXGM.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgT0d419u553Miefyvhg9TAjVXuYCfs3fIZ3OhR6MzOaMCIQD1cqyZoUv7F0aAuC-8r2zvcuFvZbassjLkdH7dyz1Iog%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="TreceParaguay.py" tvg-name="Trece Paraguay" tvg-country="PY" tvg-language="" tvg-logo="" group-title="General", Trece Paraguay
@@ -836,6 +863,9 @@ https://panel.dattalive.com/tsnnecochea/tsnnecochea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="788" tvg-name="TV Dos Salta" tvg-logo="https://www.m3u.cl/logo/788_TV_Dos_Salta.jpg" group-title="Local", TV Dos Salta
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logotipo_de_TV_P%C3%BAblica_Argentina_%282014%29.svg" group-title="Local", Tv Pública
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624837872/ei/kLrYYIKtEoSMxQSg_K_ICw/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/dx8KppcnYk0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJLUEwr1XEH4Qn2OO4eZz-Ax7dDUTWCFdtHobk38SjirAiBk_KiFv-rI41blaoeIqWuWJczlPcNaO9hTa8-l-4fkow%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="298" tvg-name="TV Publica Fueguina" tvg-logo="https://www.m3u.cl/logo/298_TV_Publica_Fueguina.png" group-title="Local", Tv Pública Fueguina
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
