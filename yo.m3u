@@ -129,6 +129,9 @@ https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 #EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-name="Canal 10 Rio Negro" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="Local", Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1341185891977621504/ojekMudV_400x400.jpg" group-title="Local", Canal 10 Tucumán
+https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1624791144&h=d609d5d8d95b0f8a3751940c275df024
+
 #EXTINF:-1 group-title="Canal 11 de la Costa" tvg-logo="http://www.radiosargentina.com.ar/png/VITELPIN.png" group-title="Local",Canal 11 de la Costa
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
