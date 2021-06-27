@@ -310,13 +310,16 @@ https://5f6e1fe8f2d2e.streamlock.net/villamaza/villamaza/playlist.m3u8
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="Local", Canal 9 Norte Misionero
-https://panel.dattalive.com/8076/8076/playlist.m3u8
+https://panel.dattalive.com/8076/8076/chunklist_w675908052.m3u8
 
 #EXTINF:-1 tvg-id="139070" tvg-name="CANAL 9 RIO CUARTO" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Canal 9 Río Cuarto
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="Local", Canal 9 Televida Mendoza
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freyre.com.ar/static/media/logotype.86814cc6.svg" group-title="Local", Canal Cooperativo Freyre
+https://online.coopmorteros.coop/freyre/freyre.m3u8
 
 #EXTINF:-1 tvg-id="302" tvg-name="Canal Nueve TV" tvg-logo="https://www.m3u.cl/logo/302_Canal_Nueve_TV.png" group-title="Local", Canal Nueve Comodoro Rivadavia
 https://live.canalnueve.tv/canal.m3u8
@@ -407,6 +410,9 @@ http://91.126.141.13:1935/live/51/1800-def.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="Noticias", Cubavisión
 http://190.122.96.187:8888/http/010
+
+#EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2021/02/cropped-Logo-CVI_Bco-1.png" group-title="Local", CVI Puerto Iguazú
+https://panel.dattalive.com/8078/8078/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="Local", Del Sur Tv San Juan
 http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
@@ -654,11 +660,17 @@ http://cdn.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVI
 #EXTINF:-1 group-title="General", PAT La Paz
 http://192.99.38.174:1935/patbolivia/patlapaz/chunklist_w829041430.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Webcams", Pinamar Septiembre Loft
+https://video.estadodelmar.com.ar/mobile/pinamar/index.m3u8
+
 #EXTINF:-1 tvg-id="213" tvg-name="Play Television" tvg-logo="https://www.m3u.cl/logo/213_Play_Television.jpg" group-title="Local", Play Televisión
 http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="243" tvg-name="Power" tvg-logo="https://www.m3u.cl/logo/243_Power.png" group-title="Local", Power HD Pinamar
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hv2sc3TvXlE/UDK40jrH6mI/AAAAAAAAKe4/0g8vU5twz74/s1600/Ushuaia.jpg" group-title="Webcams", Puerto de Ushuaia
+https://hd-auth.skylinewebcams.com/live.m3u8?a=tetrlc1euf7lkufgk0j530nak1
 
 #EXTINF:-1 tvg-id="286" tvg-name="Quatro TV" tvg-logo="https://www.m3u.cl/logo/286_Quatro_TV.png" group-title="Local", Quatro Tv
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
@@ -669,7 +681,10 @@ http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w1480246840.m3u8
 #EXTINF:-1 tvg-id="RaiSportPlusHD.it" tvg-name="Rai Sport + HD" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Deportes", Rai Sport+ HD
 http://194.76.186.69:8000/play/a0d4
 
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="General",Rede Globo
+#EXTINF:-1 group-title="Local", Red Visión Olavarría
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CoIFlwzs8UmsM4IiBgKaMH0FH6nA1esZnWAB3JFU6XNBi5TMFcIAzFN2IAHLw_A6PvcKqkgS329Sc4BkbE9E2lcNLA99tc4SX30fvZv_BcYFyKC1YHlRXyUUOosvxo7O_bJCt3gH2kr08NHnKQbauE-fGg6K3F9dZpug5l-pnj01XPaaa45Pvc-yfBLoqeTM67DmXczAfTVw_SFtI365Zdiu_UJD2W3aXB7KodX1Vsxpy13HEP9I9VUjdo9J6ZuCYcv61_rI5iYR__JrbkMa5DGwvEpR7A04BJ-P8OLA_c4FinxR1s5q30EFJ78ZBPvWf9eKv__EgIfn2l61U2SOr4rQwa-Gln5hThUl2j7qtwMql7cWOD1WdQic-3OJnD2I5uJ7Hhly-X_Rk8ddexbolKr6TjtOUzaEGuL9IVeRK9dCncB7g7oEoWK-iODDw3CcZOfmTsL2YbbOYiTZ7_Iw_-3SnCZxc59fgxBsxL1zczjP7x7mgi1ieb3A6Rtsgaux_d4-QY_U5qL8LomAzqHUxbtcMG7g3_OIUnXFTWrH3sjHofFRz0VgirCTQkLc-oV1hBZDclAIlPHMH7CqbjCThkARREpVRM2feMg68nijX3mC3J3G9xFkTWTeiA13NKNRrkumYO5E6Zbk9ORuLjp2y1nSJhuVgOedub8bgKrQJUpJt7zMVRoVIWXauRWSzOk94upvsOztgPpWOZhV7HtiFyebY6uyLp95cqj8LWr9msS9pzhymrypDUcyKMjZAqoPN71EY6yL9sH5pkEEYfhrg79Aea9W7mNRFvt7Eb7AyxK0DBIn_GRrdPPOfriK7dHiO_c-vH2w0pOr7HZV2jok65AWUBH6EhBH9zvpv2LgQaII4dga0iWWGgzISr5MuoT4gPnSkNs.m3u8
+
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="General", Rede Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-id="287" tvg-name="RTN" tvg-logo="https://www.m3u.cl/logo/287_RTN.png" group-title="Local", RTN Neuquén
@@ -680,6 +695,9 @@ https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 #EXTINF:-1 tvg-id="202" tvg-name="San Pedro TV" tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="Local", San Pedro Tv
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Webcams", Santa Clara La Martina
+https://video.estadodelmar.com.ar/mobile/santaclara/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZCgF1BmCKIw/Xv0NsKVkVlI/https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpgAAAAAAAA2ZY/A_W0oDbGNlgQn30-qgJYIBFpz9nCjpGGACK8BGAsYHg/s0/2020-07-01.jpg" group-title="Local", Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
@@ -777,6 +795,9 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="Local", Televisión Regional Unimar
 https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.unam.edu.ar/templates/yootheme/cache/COMUNICACIONES-04-608eff73.jpeg" group-title="Educativos", Televisión Universitaria de Misiones
+http://192.100.186.53:8090/hls/live.stream.m3u8
+
 #EXTINF:-1 tvg-id="293" tvg-name="Telpin Canal 2" tvg-logo="https://www.m3u.cl/logo/293_Telpin_Canal_2.png" group-title="Local", Telpin Canal 2
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
@@ -809,6 +830,9 @@ https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 
 #EXTINF:-1 group-title="Educativos",Tv Universidad La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/aSLasOA1W5UDT9lc1guZYD_ArBOyIYKgrPzU7_RVoEmrbydC2eXBdWbF3fo4noCLht0wMKo97WRkC9oaGBvtFK6oM9DTbt2LiG3KEJS6H8XPoQ" group-title="Local",TVC Puntana
+http://190.6.220.135/flw/50/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Wpq8af4GxNg/YLlykYLuXhI/AAAAAAABCps/Xxgv3b7r5voeijxjk4qxMt7tome4k85OQCJEEGAsYHg/s512/2021-06-03.jpg" group-title="Local", TVES San José de la Esquina Sta. Fé
 https://mediacp.hostradios.com.ar:19360/envivotv/envivotv.m3u8
@@ -878,6 +902,9 @@ https://live.admefy.com/live/default/shiny_silver_49d7a.m3u8
 
 #EXTINF:-1 tvg-id="VisionNoticiasPeruVNP.pe" tvg-name="Visión Noticias Perú (VNP)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/vnptv.pe/picture?width=320&height=320" group-title="Noticias",Visión Noticias Perú
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Webcams", Windy Villa Gesell
+https://video.estadodelmar.com.ar/mobile/vgesell/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="Peliculas", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
