@@ -384,8 +384,8 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_30
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="Local", CNR.Tv Jujuy
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-#EXTINF:-1 group-title="General", Cuatro HD España
-http://91.126.141.13:1935/live/51/1800-def.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni2dej66SdY-0a90WSC7z0ADnZNwMfODSX4vM66iA=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Comarca Tv
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CugEewhvEwO4l-Q9gChfLqXNqgGhJTdm8LfXUoqCj6nUI8LyNsMVAypcYV2zWXphS-Ute0HvmTmSFDsJvSXjnQdpKmRoaD4ldGMemHrQTyZHm6KsE1jGD6jvfgvAlZVI-M79iUgskd9wpMgfBTlZPEavCL3dEKq78AXmlZifZ67c__aWpB-LogGzXyuuqljVJMmSklRE4DbA4FopvjriRTsa3_jJhetAnUFRnVxjOXWX-HvjWWi9ZvqwdQe3YJvdvDCOQ1umRpetEWK43v4ZlwrX2qWWZjogenxxkjJP8KXXOFiGpSDATW8KntrXz2qDBcvjRE63hg1IrIzi2RwCZ-BzoidiQB1Po6idD3L1jMCnrEyxhh6VDdvobCHt1NYrl-urk0_fDwfP0usOUDkI7cy5IRkqxrm2olhqMn7WaTUYp37Q5hYJGEbX9AVgcA_YMoJMSizHht15M_o1y7hsObdeLeZ04bW_Rcxb350u7EEcgtLQd05nWHyNDteHnrTGgQR2yLqqSUiTMAq2x5EWyzzBK_rppYFjsL7ICrlNVeKfzy2lhkTB1alwI1A9U3Khu4D_Xe0f0PZCngtJbokgVRv4EiXp4eCR87dQv2xc8SUfpyzEMVnbzyemNowWf5krlFzQB3CobIPGcJ8ZJrU7wjEcimAGL-Z2o4uClSCX8p44GJtzgrM6glMoVIuIjT3nIFIl_MN5M1LdbuZknUl5JxfXOtBjACV5K6WjTBdcfdk6n-QgOFve9UM4m_NI2TM2VkgTanY8NqUVFIXPxZAfd75oZcbxV9e1xMxPKVsgviLqq8C7xUAr3kb7VhIQ-f5gTaL7DcciddSkexFQVxoM0YQR934osA6Z1Y3y.m3u8
 
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="Local", Correa Radiovisión
 http://arcast.net:1935/correadigital/canal12/playlist.m3u8
@@ -395,6 +395,9 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="Local", CTV Corrientes
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
+#EXTINF:-1 group-title="General", Cuatro HD España
+http://91.126.141.13:1935/live/51/1800-def.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="Noticias", Cubavisión
 http://190.122.96.187:8888/http/010
