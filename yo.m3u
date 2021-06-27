@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="Cámaras", 5900 Tv Córdoba
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
@@ -75,7 +76,7 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="138981" tvg-name="BRAGADO TV" tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png" group-title="Local", Bragado Tv
-https://inliveserver.com:1936/9500/9500/chunklist_w740612249.m3u8
+https://inliveserver.com:1936/9500/9500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Cámaras", Bs As y Playa Villa Gesell
 http://cambsasyplaya.gesell.com.ar/playlist.m3u8
@@ -319,6 +320,9 @@ https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 
 #EXTINF:-1 tvg-id="310" tvg-name="Canal Rural" tvg-logo="https://www.m3u.cl/logo/310_Canal_Rural.jpg" group-title="Local", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://infonegocios.info/uploads/companies/logos/53409_Showsport.png" group-title="Local", Canal Showsport
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpAF7RD4euR1_cZ6K83JT2CvEdy4l3LaHbUftbRoU_B1b-1wj08iMORAzHqjHXeiJmaeZsRFk781KzRntK5i6LnceQzMbWKgfdVCErvIWofciK2MRPzDKjQluy2Fjyqk7oLShOJInSzkAn2qUBjLPxPHTCJWngIlAKzUEyM3E7zHA40ZTOBvFvrvxwW45WYsp-8t6X9PZJ0dVfGKlj6Y2EzywdTlRy-9qarOER50LpPfqi17y8DKP6FsyUK5c3unT3G88qUCdWl9JMMeg5y94FaAH8-nVueEWXbsx9mHWRJek0mu9NP5JvgR5wFWX6XTI6lC_sM86grVnreZ_96IxG9vf4omwqYTgXj8qluCF0sxmWcKZN4YskhOdNVSWKvdAg7RWpUAdQ5BpRbb3pT1oPtP2eUkHn9qvcbQpGsaDvNv9zVDNWTVNuUvmdEeEXFkBltimwbFT7KWOkfwzXZ3mbsro9pZmgChAkB_qCuuq6-1mYrb2A7tCAheddXbPg1LqXWR8-aIno4P1tmonAxK4T_8iHmLpj0Ze4XEevA-GbsX5Q2yMknpGe-R8wWmmZLsfVrLo3kfHgLFds9O9px0dxON9zr35WU_0Pxk4_bP9U2YWlRLyF7K96Q_xKfkxW5elMB54K2-jLbyTizWqrqiGHwTbff4WPrNAqgNqZoCLP9NHXRbOyjtEW8OPlrv7543G5IIn_fMHNbWVSj5jKGjl6sBAwTM_5rsbCfLBaY4DukJqy2949ca_uo_YfdTkCK8zpCIQg1tomAuJzreKeNe1ipurMqdXPZOXLG3epbbltGS2aPlBhnDYb9JjT6m5fUWIbhiPm_rAv_dzOwTS608u4vZ_T-_z6t0y23XE1HTTgvQrCQSEFW8jlz8yvjaMqHzZMhIvVEaDL2oNgtjEDL3tQRxBQ.m3u8
 
 #EXTINF:-1 tvg-id="276" tvg-name="Canal U" tvg-logo="https://www.m3u.cl/logo/276_Canal_U.png" group-title="Educativos", Canal U
 https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8
