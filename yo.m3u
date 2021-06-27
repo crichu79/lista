@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="Cámaras", 5900 Tv Córdoba
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
@@ -758,7 +757,7 @@ https://videohd.live:19360/8016/8016.m3u8
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.18169-9/20708437_111250822872341_7486705936501501459_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeE5cupq3kMwbbWlvbYKKEahLA0gqcInhc4sDSCpwieFzkkpFkD-7UiGuFCIAKjJwzo&_nc_ohc=83SaW40wm4YAX-NLLFB&_nc_oc=AQntwE4tyn7QX3HJIwQ3ETUGiqwWO80Pjv_tVVGfy4TAMZUjwBlCugE5QNPhIog4nWxzddw_zAIuRJQdPet5LD5j&_nc_ht=scontent.fepa11-1.fna&oh=184edb034c7d9a4d2d2ed2a8c0d884f4&oe=60CA3571" group-title="Local", Telecreativa Lanús
-https://panel.dattalive.com/8012/8012/playlist.m3u8
+https://panel.dattalive.com/8012/8012/chunklist_w508627834.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-name="Telediario TelevisiÃ³n" tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png" group-title="Local", Telediario Televisión
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
@@ -823,6 +822,9 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10484954.jpg" group-title="Deportes", Tigo Sports+ Paraguay
 http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/apprecs.org/gp/images/app-icons/300/4f/com.tn.jpg" group-title="Noticias", TN
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624833224/ei/aKjYYL6RL871wATf362IBw/ip/2800%3Aaf0%3A101c%3Aefa%3A3417%3Ab05%3A820b%3A47ef/id/wHn1_QVoXGM.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgT0d419u553Miefyvhg9TAjVXuYCfs3fIZ3OhR6MzOaMCIQD1cqyZoUv7F0aAuC-8r2zvcuFvZbassjLkdH7dyz1Iog%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="TreceParaguay.py" tvg-name="Trece Paraguay" tvg-country="PY" tvg-language="" tvg-logo="" group-title="General", Trece Paraguay
 http://174.138.118.252/live/trece.m3u8
 
@@ -858,9 +860,6 @@ http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/3/f/4/3f484d2e698e3e32fb426d68e1703477_icon.png" group-title="Deportes", TVP SPORT
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="Deportes", TUDN
-https://655tukzzkj.azcdn728.net:8443/hls/5oaf5ei2lcv9-2838393630.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes", Tyc Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
