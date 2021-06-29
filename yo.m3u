@@ -796,7 +796,9 @@ https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU-audio_20000=144800-video=1726000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="Local", Telefe Mar del Plata
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1624755873~exp=1624932273~acl=/i/mdqdistri02_1@829747/*~hmac=abcb5480433d21508a85b5fc9fb94c2ab7589ff49fd34d580efa77431fddb9cd
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/index_1_av-p.m3u8
+
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1624999903~exp=1625176303~acl=/i/mdqdistri02_1@829747/*~hmac=45e7f9f1a5622b11fa18cf0f5eb1e5b2b09b3fba26f77c93d5e2cc4bb6f74dcc
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThVbPsZftotBfQZ2Vr-DMnOXA13H7CgbhS3g&usqp=CAU" group-title="General", Telefuturo Paraguay
 http://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
@@ -940,7 +942,7 @@ https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_viajar_m.png" group-title="Local", Viajar Tv
-https://dcunilive3-lh.akamaihd.net/i/dclive_1@390901/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1624918374~acl=%2fi%2fdclive_1%40390901*~data=hdntl~hmac=d0fae0843cbb208b13dc96fc7f63db5b6283ca04d60f87f13b73e9f09c0fccd0
+https://dcunilive3-lh.akamaihd.net/i/dclive_1@390901/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1625090216~acl=%2fi%2fdclive_1%40390901*~data=hdntl~hmac=1286e477a59b169d28ca3c4963b25429418e2f2479effc6149dbd0900352f146
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" group-title="Local", Vibra HD Monte Caseros
 https://live.admefy.com/live/default/shiny_silver_49d7a.m3u8
