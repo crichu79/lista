@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="Cámaras", 5900 Tv Córdoba
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
@@ -37,8 +36,8 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-country="QA" tvg-language="" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="Noticias", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/585px-Logotipo_de_America_TV.svg.png" group-title="Local", América Tv
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CuwEvMMbOJqfnSM7nzM4NcinarLyMH_L-6Pw97MyCdxc_GmrRlKZimOok5DLOZJPKQABaCGynC-e87hj6mz2vJVPiLvbXccnBBOXHgwqYZXH2JsQfBgu37G5l6NxiOWagPbhZ_SE_ncZ8DabA1WhQDAJFtzaiDJp_pH3BK8Pdtpv2f_mk59_5jIhfd5AbaONRPgCH3YOsQ8PlyZAZPIUXVTaOzw_RiPY2PRNLGQU8NY9fkw7DbS_8Sy5V-EzsK1qUu02M3TIoshGMGte4klZyFm8M2ug38VDpZg1QUacQn77GjUfo9gRqoid7wh7pAPVkAS6QMt9lWICucltj9RFZ9Kwmg6T0CCHUSclmDsM8IJvXIs78G750IxCsD0z5ea4JomePRgSTnduv1zPjI2ISTxTftHeuaxMNl0-TyZ-kyjAxhEVmzZ_GVS7w4Lj9cfgeuyqQzc65A81xkhCKertI38K2rbrHPuVwOSsCgoOodNA-JtAF2hAj8-0Xp5W-BQS6SaT9J4gsKwCG-rtFwNbLNmZgD-XjAWsyEMmrq9DvUGbsNT2mSB6c7mYQfsEO2d5LsLLMqg8DsTPXsZaBYhFvtBPo9h4ytr3qzrXBup4TkRl66S9HTyeaBMvX3RA_YjLPbbSch9I6A-R5b33EeQ5FJpsM3IYuAtVkhUVh-8owf0fLOcXe_9u61OdQCJkRnqZem-gr8PdAKN5lZGqbdoM2d7Q26t4rDIV5OU2fDyhgH1UgPQeQ-heJPtmXJaQiFNUk-Ni0P0ZANUQlg1X0yEFNTonKHkavummDHDyOmoxp_cYbsfYGgkUAIECoxqUaLkSEFpRpq97qb7PO6D61ftJIuUaDBpRL9MZ0uZ-kAp5pg.m3u8
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQEBJWjc7EkJrw/company-logo_200_200/0/1519889865817?e=2159024400&v=beta&t=cR8Dd5AebKWopJNmPgg5RJe6K0g_dAEBfcwl-XYaAsI" group-title="General", América Tv Perú
+https://qlobbidev.s.llnwi.net:443/bpk-tv/AMERICATV/hls/AMERICATV-audio_128175_eng=128000-video=2900000.m3u8
 
 #EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.jpg" group-title="Local", América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
@@ -76,8 +75,8 @@ https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="General", Bolivia Tv 
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="General", Bolivia Tv 2
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="General", Bolivisión HD
+https://bo-bolivision-lapaz-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MTAzMzgxLCJzZXNzaW9uIjoiMTkwLjEwNS44MC4xNTciLCJ3aGl0ZWxpc3QiOlsiMTkwLjEwNS44MC4xNTciXX0sInNpZ25hdHVyZSI6ImU5ZDUzZWI3ZWZlNmVlOTQzNzhlZjY1MGNjOTkxZmY2ZDcxYmEyZTMifQ==
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="Cámaras", Botavara Pinamar
 https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
