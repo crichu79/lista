@@ -141,6 +141,9 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-id="269" tvg-name="Canal 13 San Luis" tvg-logo="https://www.m3u.cl/logo/269_Canal_13_San_Luis.png" group-title="Local", Canal 13 San Luis
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/cinevision-canal-19-.png" group-title="General", Canal 19 HD Rep. Dominicana
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
+
 #EXTINF:-1 tvg-id="228" tvg-name="Canal 2 Jujuy" tvg-logo="https://www.m3u.cl/logo/228_Canal_2_Jujuy.png" group-title="Local", Canal 2 Fiberway
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
@@ -288,9 +291,6 @@ https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/chunklist_w374403097.
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Villa Maza
 https://5f6e1fe8f2d2e.streamlock.net/villamaza/villamaza/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal-8-uy.png" group-title="General", Canal 8 Artigas Uruguay
-https://vxlive.cdn.antel.net.uy/auth_V_Canal8_Artigas,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWw4X0FydGlnYXMlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTYyNTI4Mzg3OCZyYW5kb209TU9jUDJWTGozRyZjLWlwPTE5MC4xMDUuODAuMTU3JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTExMjg1NTg1OSZpZF9mcm9udGVuZD0xMTk2LGRiNTNlNzExYWZhNTE3NDRjNTQzMmE4OWNjMDk1NDJmYjg2YWQ1MTg3MGJiMDlhNDAyZmRhNDM2MzNkZWM1N2E=/vxfmt=hls/playlist.m3u8
-
 #EXTINF:-1 tvg-id="235" tvg-name="Canal 8 Catamarca" tvg-logo="https://www.m3u.cl/logo/235_Canal_8_Catamarca.jpg" group-title="Local", Canal 8 Catamarca
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 
@@ -317,6 +317,9 @@ https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 
 #EXTINF:-1 tvg-id="310" tvg-name="Canal Rural" tvg-logo="https://www.m3u.cl/logo/310_Canal_Rural.jpg" group-title="Local", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="General", Canal TRO Colombia
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist_b2000000.m3u8
 
 #EXTINF:-1 tvg-id="276" tvg-name="Canal U" tvg-logo="https://www.m3u.cl/logo/276_Canal_U.png" group-title="Educativos", Canal U
 https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8
@@ -377,6 +380,9 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="Local", Correa Radiovisión
 http://arcast.net:1935/correadigital/canal12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_cosmovision_m.png" group-title="General", Cosmovisión Colombia
+https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
 
 #EXTINF:-1 tvg-id="238" tvg-name="CPE TV" tvg-logo="https://www.m3u.cl/logo/238_CPE_TV.jpg" group-title="Local", CPE TV La Pampa
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
@@ -543,9 +549,6 @@ https://video.estadodelmar.com.ar/mobile/waikiki/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Kite Gesell
 https://kitegesell.freewaves.live/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General", La 1 España
-https://rtvelivestreamv3.akamaized.net/la1_main_dvr_576.m3u8
-
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png" group-title="General", La 2 España
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
@@ -606,8 +609,11 @@ https://miramar.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="Cámaras", Monte Hermoso
 https://streaming.reltid.com.ar/hls/monte.m3u8
 
-#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Religiosos",Monte Maria México
+#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Religiosos", Monte Maria México
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2021/06/More-Than-Sports-TV.png?ssl=1" group-title="Deportivos", More Than Sports Tv
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288525230818963460/F_KhZkxZ_400x400.jpg" group-title="Cámaras", Muelle Villa Gesell
 http://cammuelle.gesell.com.ar/playlist.m3u8
@@ -705,6 +711,9 @@ https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
 #EXTINF:-1 group-title="Cámaras", Rada Tilly
 https://radatilly.freewaves.live/hls/live.stream.m3u8
 
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a3/Radionorba_tv.png" group-title="Musicales", Radionorba Italia
+https://stream9.xdevel.com/video0s975885-996/stream/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="Noticias", RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w1480246840.m3u8
 
@@ -713,6 +722,9 @@ http://194.76.186.69:8000/play/a0d4
 
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" group-title="General", Rede Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Musicales", Retromusic Televisión
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Español" tvg-country="ES" tvg-language="Spanish" tvg-logo="Noticias" group-title="Noticias", RT en Español
 http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
