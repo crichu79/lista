@@ -36,9 +36,6 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" tvg-country="QA" tvg-language="" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="Noticias", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/images/alkass_sport.jpg" group-title="Deportes", AllKass One
-https://alkasmsl4.akamaized.net/hls/live/2003123/Alkas1ab/hdntl=exp=1625503508~acl=%2f*~data=hdntl~hmac=c7c0d8f1e4806767981002b5843ebda07109efd85b7b8a2cebc6b3b5cb8650bb/master570.m3u8
-
 #EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.jpg" group-title="Local", América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
 
