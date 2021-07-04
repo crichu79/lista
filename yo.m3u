@@ -102,6 +102,9 @@ https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1169271894.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Cabo Corrientes
 https://video.estadodelmar.com.ar/mobile/cabocorrientes/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Musicales", Cadena Elite Tv Granada
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="Local", Calchaquí Tv Tucumán
 http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 
@@ -594,6 +597,9 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendti
 #EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="Deportes", Look Sports 3 Rumania
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1872px-Radio_m2o_-_Logo_2019.svg.png" group-title="Musicales", Radio M2O Deejaystation Italia
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Malibet Quilmes
 https://malibet.freewaves.live/hls/live.stream.m3u8
 
@@ -953,6 +959,9 @@ https://live.admefy.com/live/default/shiny_silver_49d7a.m3u8
 
 #EXTINF:-1 tvg-id="VisionNoticiasPeruVNP.pe" tvg-name="Visión Noticias Perú (VNP)" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/vnptv.pe/picture?width=320&height=320" group-title="Noticias",Visión Noticias Perú
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="Musicales", Visión Tv Música Perú
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Windy Villa Gesell
 https://video.estadodelmar.com.ar/mobile/vgesell/index.m3u8
