@@ -531,6 +531,9 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="FreeSports" tvg-country="UK" tvg-language="English" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="Deportes", FreeSports Reino Unido
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/634/692/png-transparent-fox-sports-2-fox-sports-networks-television-channel-fox-sports-1-fs-television-blue-angle.png" group-title="Deportes", FS2
+http://134.19.182.131:8080/vdg15.m3u8?h=f20d852c594747df78c1297d055a0ff6
+
 #EXTINF:-1 tvg-id="139639" tvg-name="GARAGE TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
 
