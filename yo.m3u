@@ -45,6 +45,9 @@ http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="253" tvg-name="Argentinisima Satelital" tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="Local", Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/arryadia-logo-F2FAC7054A-seeklogo.com.png" group-title="Deportes", Arryadia Marruecos
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Cámaras", Av 3 y 104 Villa Gesell
 http://cam104y3.gesell.com.ar/playlist.m3u8
 
@@ -558,6 +561,9 @@ http://camlapinocha.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", La Rambla Ostende
 https://wowza.telpin.com.ar:1935/camara-rambla/smil:camara-rambla.smil/chunklist_w951919186_b1344100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/100px-LogoLaRed2018.png" group-title="General", La Red Uruguay
+https://stmv1.srvif.com/laredtv/laredtv/chunklist_w1931957354.m3u8
+
 #EXTINF:-1 tvg-id="217" tvg-name="La Voz de Tucuman" tvg-logo="https://www.m3u.cl/logo/217_La_Voz_de_Tucuman.png" group-title="Local", La Voz de Tucumán
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
@@ -848,6 +854,9 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10484954.jpg" group-title="Deportes", Tigo Sports+ Paraguay
 http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b5/b7/31/b5b731ccaaa476a34e16f22878df4c1d.png" group-title="General", TLT La Tele Tuya Venezuela
+https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w326354980.m3u8
 
 #EXTINF:-1 tvg-id="TreceParaguay.py" tvg-name="Trece Paraguay" tvg-country="PY" tvg-language="" tvg-logo="" group-title="General", Trece Paraguay
 http://174.138.118.252/live/trece.m3u8
