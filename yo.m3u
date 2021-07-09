@@ -345,8 +345,8 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="276" tvg-name="Canal U" tvg-logo="https://www.m3u.cl/logo/276_Canal_U.png" group-title="Educativos", Canal U
 https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="504" tvg-name="CBS News" tvg-logo="https://www.m3u.cl/logo/504_CBS_News.png" group-title="Noticias", CBS News
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cbc-sport-1188.png" group-title="Deportes", CBC Sport Azerbaiyán
+http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES ASIA/AFRICA" tvg-logo="https://i.imgur.com/mi85Pwp.png" group-title="Deportes", CCTV5 HD
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
@@ -444,6 +444,9 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW Español
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="General", Ecuavisa
+https://youvideostreaming.club/hls/ectv3.m3u8
+
 #EXTINF:-1 tvg-id="281" tvg-name="El 10 TV Salta" tvg-logo="https://www.m3u.cl/logo/281_El_10_TV_Salta.png" group-title="Local", El 10 TV Salta
 https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 
@@ -525,6 +528,9 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sl
 #EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="General", GEN Tv Digital
 https://videohd.live:19360/8010/8010.m3u8
 
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/qu/320296/png/320296.png" group-title="Deportes", Geo Super Pakistán
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist_dvr.m3u8
+
 #EXTINF:-1 tvg-id="143613" tvg-name="GOURMET TV" tvg-logo="https://elgourmet.com/theme/assets/logo.png"" group-title="General", Gourmet Tv
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
@@ -533,9 +539,6 @@ https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSplb85MxQj45p-FoEMI
 
 #EXTINF:-1 tvg-id="Hispantv.ir" tvg-name="HispanTV" tvg-country="IR" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="Noticias", HispanTv
 https://live.presstv.ir/live/smil:live.smil/chunklist_w103426595_b644100_slen.m3u8
-
-#EXTINF:-1 tvg-id="IGN.us" tvg-name="IGN" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/IGN_Entertainment_Logo.svg/500px-IGN_Entertainment_Logo.svg.png" group-title="General", IGN
-https://ign-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="139074" tvg-name="LM24 RIO GALLEGOS" tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="Local", Infomedia Río Gallegos
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
