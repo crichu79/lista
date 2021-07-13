@@ -42,6 +42,9 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.jpg" group-title="Local", América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="Deportes", Arena Sport 1
+http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_2.png" group-title="Deportes", Arena Sport 2
 http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
 
@@ -531,6 +534,9 @@ http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes", Eurosport 2 España
 http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Eventos 1
+https://655tukzzkj.azcdn728.net:8443/hls/koxwx.m3u8?s=glgvRCGIUsQp59l_8jLUoQ&e=1626236947
+
 #EXTINF:-1 tvg-id="239" tvg-name="Fenix" tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg" group-title="Local", Fenix La Rioja
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 
@@ -686,6 +692,9 @@ https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/4901065695188764
 
 #EXTINF:-1 group-title="Cámaras", Miramar
 https://miramar.freewaves.live/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzoPGuSonIau7hA6u2pL4PRlWIKuTzxw3JThMZooQ=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Misiones Cuatro
+https://cdn2.zencast.tv:30443/misiones4-2/live-smil/misiones4-2/live_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="Cámaras", Monte Hermoso
 https://streaming.reltid.com.ar/hls/monte.m3u8
@@ -869,6 +878,9 @@ http://201.182.242.130:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4" group-title="Local", Speed Tv Concordia
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/2123.png" group-title="Deportes", Sport Tv 1 HD Portugal
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-action_m.png" group-title="Peliculas", Star Action
 http://201.182.242.130:8000/play/a00y/index.m3u8
