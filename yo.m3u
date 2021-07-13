@@ -1,12 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/328x220/canal-v-328x220.png" group-title="Deportes", #Vamos España
+http://2.138.137.57:9981/stream/channelid/1340975784?
+
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="Cámaras", 5900 Tv Córdoba
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
 #EXTINF:-1 tvg-id="221" tvg-name="5R TV Santa Fe" tvg-logo="https://www.m3u.cl/logo/221_5R_TV_Santa_Fe.png" group-title="Local", 5R TV Santa Fe
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
-#EXTINF:-1 tvg-id="249" tvg-name="5TV" tvg-logo="https://www.m3u.cl/logo/249_5TV.png" group-title="Local", 5TV Corrientes
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/249_5TV.png" group-title="Local", 5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", 13 Max Corrientes
@@ -41,6 +44,9 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
 #EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.jpg" group-title="Local", América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gruposecuoya.es/wp-content/uploads/2020/07/americatv_d-1200x565.jpg" group-title="General", América Tv Perú
+https://qlobbidev.s.llnwi.net/bpk-tv/AMERICATV/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Arena_Sport_1.png" group-title="Deportes", Arena Sport 1
 http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
@@ -394,10 +400,10 @@ https://stmv.panel.grupolimalive.com/cineperu/cineperu/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Peliculas", Cinecanal
-http://201.182.242.130:8000/play/a005/index.m3u8
+http://190.61.37.173:8000/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="Peliculas", Cinemax
-http://201.182.242.130:8000/play/a02w/index.m3u8
+http://190.61.37.173:8000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-id="237" tvg-name="Ciudad TV" tvg-logo="https://www.m3u.cl/logo/237_Ciudad_TV.jpg" group-title="Local", Ciudad Tv Resistencia
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
@@ -412,7 +418,7 @@ http://201.182.242.130:8000/play/a042/index.m3u8
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_6423_7_1320.png" group-title="Noticias", CNN en Español
-http://201.182.242.130:8000/play/a00n/index.m3u8
+http://190.61.37.173:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternationalHD.us" tvg-name="CNN International HD" tvg-country="US" tvg-language="" tvg-logo="" group-title="Noticias",CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
@@ -463,7 +469,7 @@ http://85.187.243.80:8000/play/a03m
 http://186.101.216.211:8000/play/dtsp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XKWYJiQXimFkEbkWBVbYFnA4QxmOxgWltyiD_-XYPtNaGomZMs9Fn5MFbC_MMMx7efw&usqp=CAU" group-title="General", Discovery Channel
-http://201.182.242.130:8000/play/a018/index.m3u8
+http://190.61.37.173:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/x-a6TMo2CivvITwkx8SL8jtgaD1-za9NWUZemkt0-yfE8_fuSMzpE5kSElsT-YfaZfuLz-J1Nt1ml1X3cjR54CSYtEqgEl13Z_7rsdGD3BM4NKrLk_tCF6GNt4T47dwegYAk-mb91rY" group-title="Local", DSR Medios Carhué 
 https://panel.dattalive.com/8114/8114/playlist.m3u8
@@ -481,7 +487,7 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/03/e-entertainment-television-logo.png" group-title="General", E! Entertainment
-http://201.182.242.130:8000/play/a04w/index.m3u8
+http://45.166.147.6:8000/play/a01h
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="General", Ecuavisa
 http://201.182.242.130:8000/play/a02g/index.m3u8
@@ -502,7 +508,7 @@ https://elmolino.freewaves.live/hls/live.stream.m3u8
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espn.png" group-title="Deportes", ESPN
-http://201.182.242.130:8000/play/a02n/index.m3u8
+http://190.61.37.173:8000/play/a03a/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espn.png" group-title="Deportes", ESPN Brasil
 http://rec2.distv.net:80/damaris/123456/142
@@ -522,6 +528,9 @@ http://rec2.distv.net:80/damaris/123456/143
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="Deportes", ESPN 3
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/ESPN3.m3u8
 
+#EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="Deportes", ESPN Extra
+http://190.61.37.173:8000/play/a01w/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="Deportes", ESPN Extra Brasil
 http://rec2.distv.net:80/damaris/123456/145
 
@@ -533,9 +542,6 @@ http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes", Eurosport 2 España
 http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Eventos 1
-https://x.wmsxx.com:30443/live/85/chunks.m3u8?nimblesessionid=27051062&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIxIDEwOjMyOjM5IFBNJmhhc2hfdmFsdWU9eVZHWjUvQU9xQWd0b1FUK2xpMk15dz09JnZhbGlkbWludXRlcz0xMjA=
 
 #EXTINF:-1 tvg-id="239" tvg-name="Fenix" tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg" group-title="Local", Fenix La Rioja
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
@@ -576,6 +582,9 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-logo="http://distv.net/icons/foxsports.png" group-title="Deportes", Fox Sports Brasil
 http://rec2.distv.net:80/damaris/123456/152
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="Deportes", Fox Sports Premium
+http://45.166.147.6:8000/play/a012
+
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Español" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
@@ -598,16 +607,16 @@ http://201.182.242.130:8000/play/a05v/index.m3u8
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/973/890/png-clipart-hbo-television-cinemax-film-warner-one-television-text.png" group-title="Peliculas", HBO
-http://201.182.242.130:8000/play/a02v/index.m3u8
+http://190.61.37.173:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" group-title="Peliculas", HBO 2
-http://201.182.242.130:8000/play/a04k/index.m3u8
+http://190.205.118.238:8000/play/a063
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/534/400/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo.png" group-title="Peliculas", HBO Family
-http://201.182.242.130:8000/play/a012/index.m3u8
+http://190.205.118.238:8000/play/a0dh
 
 #EXTINF:-1 tvg-logo="https://img1.freepng.es/20180806/alf/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9de633b0.0836719315335871019429.jpg" group-title="Peliculas", HBO Plus
-http://201.182.242.130:8000/play/a010/index.m3u8
+http://187.188.147.146:8050/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/2560px-HBO_Xtreme.svg.png" group-title="Peliculas", HBO Extreme
 http://201.182.242.130:8000/play/a04m/index.m3u8
@@ -619,7 +628,7 @@ https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSplb85MxQj45p-FoEMI
 https://live.presstv.ir/live/smil:live.smil/chunklist_w103426595_b644100_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/05/History-Channel.png" group-title="General", History Channel
-http://201.182.242.130:8000/play/a004/index.m3u8
+http://190.61.37.173:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_i-sat_m.png" group-title="General", I-Sat
 http://201.182.242.130:8000/play/a03t/index.m3u8
@@ -733,7 +742,7 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/5a0c74bd9642de34b6b65cf5.png" group-title="General", Nat Geo
-http://201.182.242.130:8000/play/a03o/index.m3u8
+http://187.188.147.146:8050/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/nba-tv-logo.png" group-title="Deportes", NBA HD
 http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
@@ -874,7 +883,7 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="General", Space
-http://201.182.242.130:8000/play/a02z/index.m3u8
+http://190.61.37.173:8000/play/a04e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4" group-title="Local", Speed Tv Concordia
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
@@ -883,19 +892,22 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-action_m.png" group-title="Peliculas", Star Action
-http://201.182.242.130:8000/play/a00y/index.m3u8
+http://190.61.37.173:8000/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="General", Star Channel
-http://201.182.242.130:8000/play/a04j/index.m3u8
+http://190.61.37.173:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Hits_pack.png" group-title="Peliculas", Star Hits
-http://201.182.242.130:8000/play/a00w/index.m3u8
+http://190.61.37.173:8000/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Series_pack.png" group-title="Peliculas", Star Series
-http://201.182.242.130:8000/play/a00x/index.m3u8
+http://190.61.37.173:8000/play/a049/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://uspto.report/TM/90480911/mark.png" group-title="Peliculas", Star Life
-http://201.182.242.130:8000/play/a00b/index.m3u8
+http://190.61.37.173:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/76bp4s1596750190.png" group-title="Deportes", Super Tennis Tv
+http://93.144.2.81:9981/stream/channelid/1733615742?
 
 #EXTINF:-1 tvg-id="244" tvg-name="T5 Satelital" tvg-logo="https://www.m3u.cl/logo/244_T5_Satelital.png" group-title="Local", T5 Satelital
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
@@ -945,8 +957,8 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemetro.pa" tvg-name="Telemetro" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/Telemetro_2010_logo.png/revision/latest?cb=20181013042937&path-prefix=es" group-title="General", Telemetro Panamá
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/953-9531499_2018-present-telemundo-internacional-logo-png.png" group-title="General", Telemundo Internacional
-http://201.182.242.130:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/953-9531499_2018-present-telemundo-internacional-logo-png.png" group-title="General", Telemundo
+http://190.61.37.173:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="814" tvg-name="TeleNord" tvg-logo="https://www.m3u.cl/logo/814_TeleNord.jpg" group-title="Local", TeleNord Corrientes
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
@@ -1000,7 +1012,7 @@ https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w326354980.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="Peliculas", TNT
-http://201.182.242.130:8000/play/a041/index.m3u8
+http://190.61.37.173:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="Deportes", TNT Sports 2 Chile
 http://201.182.242.130:8000/play/a04f/index.m3u8
@@ -1065,9 +1077,6 @@ https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="Educativos", Universidad Tv Mar del Plata
 https://stream-04.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54_JLheUKXbVFjYCpOFEEy7M)/dm/3/x7kvvgi/s/live-0.m3u8
 
-#EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-name="US SPORT Tennis Plus 1" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="Deportes", US SPORT Tennis Plus 1
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
 #EXTINF:-1 tvg-id="304" tvg-name="UTN TV" tvg-logo="https://www.m3u.cl/logo/304_UTN_TV.png" group-title="Educativos, UTN TV
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
 
@@ -1099,7 +1108,7 @@ https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="General", Warner Channel
-http://201.182.242.130:8000/play/a04v/index.m3u8
+http://190.61.37.173:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="Deportes", Win Sports
 http://201.182.242.130:8000/play/a06n/index.m3u8
