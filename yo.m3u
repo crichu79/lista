@@ -535,7 +535,7 @@ http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Eventos 1
-https://655tukzzkj.azcdn728.net:8443/hls/koxwx.m3u8?s=glgvRCGIUsQp59l_8jLUoQ&e=1626236947
+https://x.wmsxx.com:30443/live/85/chunks.m3u8?nimblesessionid=27051062&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMy8yMDIxIDEwOjMyOjM5IFBNJmhhc2hfdmFsdWU9eVZHWjUvQU9xQWd0b1FUK2xpMk15dz09JnZhbGlkbWludXRlcz0xMjA=
 
 #EXTINF:-1 tvg-id="239" tvg-name="Fenix" tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg" group-title="Local", Fenix La Rioja
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
