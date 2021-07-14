@@ -412,7 +412,7 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports
-http://201.182.242.130:8000/play/a042/index.m3u8
+http://179.1.68.20:8000/play/a0lf
 
 #EXTINF:-1 tvg-id="789" tvg-name="CNN Chile" tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg" group-title="Noticias", CNN Chile
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
@@ -598,7 +598,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sl
 https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Deportes", GolTv
-http://201.182.242.130:8000/play/a050/index.m3u8
+http://45.166.147.6:8000/play/a01l
 
 #EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/Goltv-ecuador.png" group-title="Deportes", GolTv Ecuador
 http://201.182.242.130:8000/play/a05v/index.m3u8
@@ -631,7 +631,7 @@ https://live.presstv.ir/live/smil:live.smil/chunklist_w103426595_b644100_slen.m3
 http://190.61.37.173:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_i-sat_m.png" group-title="General", I-Sat
-http://201.182.242.130:8000/play/a03t/index.m3u8
+http://45.166.147.6:8000/play/a00f
 
 #EXTINF:-1 tvg-id="139074" tvg-name="LM24 RIO GALLEGOS" tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="Local", Infomedia Río Gallegos
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
@@ -1014,11 +1014,11 @@ https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w326354980.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="Peliculas", TNT
 http://190.61.37.173:8000/play/a01o/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="Deportes", TNT Sports 2 Chile
-http://201.182.242.130:8000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="Deportes", TNT Sports 2
+http://45.166.147.6:8000/play/a011
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_01/large.logo_tntsports_3.png.136ed90efcdd28c4fe3102148be37c14.png" group-title="Deportes", TNT Sports 3 Chile
-http://201.182.242.130:8000/play/a052/index.m3u8
+http://45.166.147.6:8000/play/a01n
 
 #EXTINF:-1 tvg-id="TreceParaguay.py" tvg-name="Trece Paraguay" tvg-country="PY" tvg-language="" tvg-logo="" group-title="General", Trece Paraguay
 http://174.138.118.252/live/trece.m3u8
@@ -1111,7 +1111,7 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 http://190.61.37.173:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="Deportes", Win Sports
-http://201.182.242.130:8000/play/a06n/index.m3u8
+http://179.1.68.20:8000/play/a0m3
 
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Windy Villa Gesell
 https://video.estadodelmar.com.ar/mobile/vgesell/index.m3u8
