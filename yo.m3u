@@ -403,10 +403,10 @@ https://stmv.panel.grupolimalive.com/cineperu/cineperu/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Peliculas", Cinecanal
-http://190.61.37.173:8000/play/a03g/index.m3u8
+http://186.101.216.211:8000/play/a06e
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="Peliculas", Cinemax
-http://190.61.37.173:8000/play/a040/index.m3u8
+http://186.101.216.211:8000/play/a0ck
 
 #EXTINF:-1 tvg-id="237" tvg-name="Ciudad TV" tvg-logo="https://www.m3u.cl/logo/237_Ciudad_TV.jpg" group-title="Local", Ciudad Tv Resistencia
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
@@ -415,7 +415,7 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports
-http://179.1.68.20:8000/play/a0lf
+http://209.91.213.10:8088/play/a024
 
 #EXTINF:-1 tvg-id="789" tvg-name="CNN Chile" tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg" group-title="Noticias", CNN Chile
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
@@ -469,10 +469,10 @@ http://85.187.243.80:8000/play/a03l
 http://85.187.243.80:8000/play/a03m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="Deportes", Directv Sports
-http://186.101.216.211:8000/play/a079
+http://186.101.216.211:8000/play/dtsp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XKWYJiQXimFkEbkWBVbYFnA4QxmOxgWltyiD_-XYPtNaGomZMs9Fn5MFbC_MMMx7efw&usqp=CAU" group-title="General", Discovery Channel
-http://190.61.37.173:8000/play/a035/index.m3u8
+http://186.101.216.211:8000/play/a02f
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/x-a6TMo2CivvITwkx8SL8jtgaD1-za9NWUZemkt0-yfE8_fuSMzpE5kSElsT-YfaZfuLz-J1Nt1ml1X3cjR54CSYtEqgEl13Z_7rsdGD3BM4NKrLk_tCF6GNt4T47dwegYAk-mb91rY" group-title="Local", DSR Medios Carhué 
 https://panel.dattalive.com/8114/8114/playlist.m3u8
