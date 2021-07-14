@@ -45,6 +45,9 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.jpg" group-title="Local", América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Local", América Tv
+http://186.101.216.211:8000/play/a079
+
 #EXTINF:-1 tvg-logo="https://www.gruposecuoya.es/wp-content/uploads/2020/07/americatv_d-1200x565.jpg" group-title="General", América Tv Perú
 https://qlobbidev.s.llnwi.net/bpk-tv/AMERICATV/hls/index.m3u8
 
@@ -466,7 +469,7 @@ http://85.187.243.80:8000/play/a03l
 http://85.187.243.80:8000/play/a03m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="Deportes", Directv Sports
-http://186.101.216.211:8000/play/dtsp
+http://186.101.216.211:8000/play/a079
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XKWYJiQXimFkEbkWBVbYFnA4QxmOxgWltyiD_-XYPtNaGomZMs9Fn5MFbC_MMMx7efw&usqp=CAU" group-title="General", Discovery Channel
 http://190.61.37.173:8000/play/a035/index.m3u8
@@ -1012,7 +1015,7 @@ https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w326354980.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="Peliculas", TNT
-http://190.61.37.173:8000/play/a01o/index.m3u8
+http://209.91.213.10:8088/play/a02s
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="Deportes", TNT Sports 2
 http://45.166.147.6:8000/play/a011
