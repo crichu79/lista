@@ -472,7 +472,7 @@ http://85.187.243.80:8000/play/a03m
 http://186.101.216.211:8000/play/dtsp
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XKWYJiQXimFkEbkWBVbYFnA4QxmOxgWltyiD_-XYPtNaGomZMs9Fn5MFbC_MMMx7efw&usqp=CAU" group-title="General", Discovery Channel
-http://186.101.216.211:8000/play/a02f
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/92949.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/x-a6TMo2CivvITwkx8SL8jtgaD1-za9NWUZemkt0-yfE8_fuSMzpE5kSElsT-YfaZfuLz-J1Nt1ml1X3cjR54CSYtEqgEl13Z_7rsdGD3BM4NKrLk_tCF6GNt4T47dwegYAk-mb91rY" group-title="Local", DSR Medios Carhué 
 https://panel.dattalive.com/8114/8114/playlist.m3u8
@@ -610,7 +610,7 @@ http://201.182.242.130:8000/play/a05v/index.m3u8
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/973/890/png-clipart-hbo-television-cinemax-film-warner-one-television-text.png" group-title="Peliculas", HBO
-http://190.61.37.173:8000/play/a00v/index.m3u8
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71655.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" group-title="Peliculas", HBO 2
 http://190.205.118.238:8000/play/a063
@@ -623,6 +623,9 @@ http://187.188.147.146:8050/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/2560px-HBO_Xtreme.svg.png" group-title="Peliculas", HBO Extreme
 http://201.182.242.130:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760024_HBO_Signature_gris.png" group-title="Peliculas", HBO Signature
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71659.m3u8
 
 #EXTINF:-1 tvg-id="HCHHonduras.hn" tvg-name="HCH Honduras" tvg-country="HN" tvg-language="" tvg-logo="" group-title="Noticias", HCH Honduras
 https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSplb85MxQj45p-FoEMIHWNQE)/dm/3/x81za5c/s/live-2.m3u8
@@ -897,8 +900,8 @@ http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-action_m.png" group-title="Peliculas", Star Action
 http://190.61.37.173:8000/play/a02l/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="General", Star Channel
-http://190.61.37.173:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Peliculas", Star Channel
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71636.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Hits_pack.png" group-title="Peliculas", Star Hits
 http://190.61.37.173:8000/play/a04a/index.m3u8
