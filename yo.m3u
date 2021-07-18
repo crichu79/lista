@@ -552,9 +552,6 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/483_FMTV_3_Super_Cine.png" group-title="Peliculas", FMTV 3 Super Cine USA
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png" group-title="Deportes", Fox Deportes
-http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/114.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="Deportes", Fox Sports 1
 https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/FOXSPORTS.m3u8
 
@@ -1052,9 +1049,6 @@ http://45.166.147.6:8000/play/a01n
 
 #EXTINF:-1 tvg-id="TreceParaguay.py" tvg-name="Trece Paraguay" tvg-country="PY" tvg-language="" tvg-logo="" group-title="General", Trece Paraguay
 http://174.138.118.252/live/trece.m3u8
-
-#EXTINF:-1 tvg-logo="http://corporate.univision.com/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Deportes", Univisión Deportes
-http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/2437.m3u8
 
 #EXTINF:-1 tvg-id="788" tvg-name="TV Dos Salta" tvg-logo="https://www.m3u.cl/logo/788_TV_Dos_Salta.jpg" group-title="Local", TV Dos Salta
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
