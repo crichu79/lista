@@ -615,19 +615,19 @@ http://201.182.242.130:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="143613" tvg-name="GOURMET TV" tvg-logo="https://elgourmet.com/theme/assets/logo.png"" group-title="General", Gourmet Tv
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/973/890/png-clipart-hbo-television-cinemax-film-warner-one-television-text.png" group-title="Peliculas", HBO
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/973/890/png-clipart-hbo-television-cinemax-film-warner-one-television-text.png" group-title="Premium", HBO
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71655.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" group-title="Peliculas", HBO 2
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" group-title="Premium", HBO 2
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71656.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/534/400/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo.png" group-title="Peliculas", HBO Family
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/534/400/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo.png" group-title="Premium", HBO Family
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71657.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.freepng.es/20180806/alf/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9de633b0.0836719315335871019429.jpg" group-title="Peliculas", HBO Plus
+#EXTINF:-1 tvg-logo="https://img1.freepng.es/20180806/alf/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9de633b0.0836719315335871019429.jpg" group-title="Premium", HBO Plus
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71658.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760024_HBO_Signature_gris.png" group-title="Peliculas", HBO Signature
+#EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760024_HBO_Signature_gris.png" group-title="Premium", HBO Signature
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71659.m3u8
 
 #EXTINF:-1 tvg-id="HCHHonduras.hn" tvg-name="HCH Honduras" tvg-country="HN" tvg-language="" tvg-logo="" group-title="Noticias", HCH Honduras
@@ -906,28 +906,28 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/2123.png" group-title="Deportes", Sport Tv 1 HD Portugal
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-action_m.png" group-title="Peliculas", Star Action
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-action_m.png" group-title="Premium", Star Action
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71637.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="General", Star Channel
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71636.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png" group-title="Peliculas", Star Cinema
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1200px-Star_Cinema_2020.svg.png" group-title="Premium", Star Cinema
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71638.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Star_Classics_2021.svg/revision/latest?cb=20210224135249&path-prefix=es" group-title="Peliculas", Star Classics
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Star_Classics_2021.svg/revision/latest?cb=20210224135249&path-prefix=es" group-title="Premium", Star Classics
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71639.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375838.jpg" group-title="Peliculas", Star Comedy
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375838.jpg" group-title="Premium", Star Comedy
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71640.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Fun_pack.png" group-title="Peliculas", Star Fun
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71641.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Hits_pack.png" group-title="Peliculas", Star Hits
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Hits_pack.png" group-title="Premium", Star Hits
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71643.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Series_pack.png" group-title="Peliculas", Star Series
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Series_pack.png" group-title="Premium", Star Series
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71645.m3u8
 
 #EXTINF:-1 tvg-logo="https://uspto.report/TM/90480911/mark.png" group-title="Peliculas", Star Life
@@ -1053,8 +1053,8 @@ http://45.166.147.6:8000/play/a01n
 #EXTINF:-1 tvg-id="TreceParaguay.py" tvg-name="Trece Paraguay" tvg-country="PY" tvg-language="" tvg-logo="" group-title="General", Trece Paraguay
 http://174.138.118.252/live/trece.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png" group-title="Deportes", TRT3 Spor Turquía
-https://tv-trt3.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="http://corporate.univision.com/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Deportes", Univisión Deportes
+http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/2437.m3u8
 
 #EXTINF:-1 tvg-id="788" tvg-name="TV Dos Salta" tvg-logo="https://www.m3u.cl/logo/788_TV_Dos_Salta.jpg" group-title="Local", TV Dos Salta
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
