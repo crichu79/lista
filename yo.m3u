@@ -549,11 +549,11 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="482" tvg-name="FMTV 2 Movies" tvg-logo="https://www.m3u.cl/logo/482_FMTV_2_Movies.png" group-title="Peliculas", FMTV 2 Movies USA
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="483" tvg-name="FMTV 3 Super Cine" tvg-logo="https://www.m3u.cl/logo/483_FMTV_3_Super_Cine.png" group-title="Peliculas", FMTV 3 Super Cine USA
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/483_FMTV_3_Super_Cine.png" group-title="Peliculas", FMTV 3 Super Cine USA
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u
 
-#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Noticias", Fox News USA
-https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png" group-title="Deportes", Fox Deportes
+http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/114.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="Deportes", Fox Sports 1
 https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/FOXSPORTS.m3u8
@@ -626,9 +626,6 @@ http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71657.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.freepng.es/20180806/alf/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9de633b0.0836719315335871019429.jpg" group-title="Peliculas", HBO Plus
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71658.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/2560px-HBO_Xtreme.svg.png" group-title="Peliculas", HBO Extreme
-http://201.182.242.130:8000/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760024_HBO_Signature_gris.png" group-title="Peliculas", HBO Signature
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71659.m3u8
@@ -1058,9 +1055,6 @@ http://174.138.118.252/live/trece.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png" group-title="Deportes", TRT3 Spor Turquía
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="Deportes", TUDN
-http://we.caughtyousnooping.club:80/live/mYaESHd3Zf/3BbeDHHvtu/134.m3u8
 
 #EXTINF:-1 tvg-id="788" tvg-name="TV Dos Salta" tvg-logo="https://www.m3u.cl/logo/788_TV_Dos_Salta.jpg" group-title="Local", TV Dos Salta
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
