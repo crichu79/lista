@@ -363,6 +363,12 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="276" tvg-name="Canal U" tvg-logo="https://www.m3u.cl/logo/276_Canal_U.png" group-title="Educativos", Canal U
 https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Casa Frente
+rtsp://admin:pumillo@190.105.80.157:556/11
+
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Casa Patio
+rtsp://admin:pumillo@190.105.80.157:554/11
+
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cbc-sport-1188.png" group-title="Deportes", CBC Sport Azerbaiyán
 http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8
 
