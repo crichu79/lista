@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:57
+#EXTINF:3.997000,
+streaming7.ts
+#EXTINF:3.996000,
+streaming8.ts
+#EXTINF:3.997000,
+streaming9.ts
+#EXTINF:3.996000,
+streaming0.ts
+#EXTINF:3.996000,
+streaming1.ts
