@@ -609,7 +609,7 @@ http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71650.m3u8
 #EXTINF:-1 tvg-id="139639" tvg-name="GARAGE TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="General", GEN Tv Digital
+#EXTINF:-1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="Local", GEN Tv Digital
 https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Peliculas", Golden
@@ -642,7 +642,7 @@ http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71658.m3u8
 #EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760024_HBO_Signature_gris.png" group-title="Premium", HBO Signature
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71659.m3u8
 
-#EXTINF:-1 tvg-id="HCHHonduras.hn" tvg-name="HCH Honduras" tvg-country="HN" tvg-language="" tvg-logo="" group-title="Noticias", HCH Honduras
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/E6580BF1-26ED-4F69-8DCD-454F04CFA3C7.png" group-title="Noticias", HCH
 https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSplb85MxQj45p-FoEMIHWNQE)/dm/3/x81za5c/s/live-2.m3u8
 
 #EXTINF:-1 tvg-id="Hispantv.ir" tvg-name="HispanTV" tvg-country="IR" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="Noticias", HispanTv
@@ -714,7 +714,7 @@ https://stmvideo1.livecastv.com/mercedestv/mercedestv/playlist.m3u8
 #EXTINF:-1 tvg-id="283" tvg-name="Metro TV Canal 12 Tucuman" tvg-logo="https://www.m3u.cl/logo/283_Metro_TV_Canal_12_Tucuman.png" group-title="Local", Metro TV Canal 12 Tucumán
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-#EXTINF:-1 group-title="General", Microvision Rep.Dominicana
+#EXTINF:-1 group-title="General", Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="Local", Milenium Tv Salta
@@ -786,7 +786,7 @@ https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="Noticias",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Nicavision1993.png/revision/latest?cb=20180426154048" group-title="General", Nicavisión Tv Nicaragua
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Nicavision1993.png/revision/latest?cb=20180426154048" group-title="General", Nicavisión Tv
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NoticiasCaracol.co" tvg-name="Noticias Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="Noticias", Noticias Caracol
@@ -795,7 +795,7 @@ https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="Local", Noticias del 6
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E3adTeHWYAEAMUM.jpg" group-title="Musicales", Oldie Hits Tv Costa Rica
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E3adTeHWYAEAMUM.jpg" group-title="Musicales", Oldie Hits Tv
 https://inliveserver.com:1936/15010/15010/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/800px-One_Sports_Philippines_logo.svg.png" group-title="Deportes", One Sports Filipinas
@@ -804,7 +804,7 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="207" tvg-name="Orbe 21" tvg-logo="https://www.m3u.cl/logo/207_Orbe_21.jpg" group-title="Religiosos", Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="General", Orbit TV Rep.Dominicana
+#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="General", Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OmanSports.om" tvg-name="Oman Sports" tvg-country="OM" tvg-language="" tvg-logo="" group-title="Deportes", Oman Sports
@@ -960,7 +960,7 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 #EXTINF:-1 tvg-id="245" tvg-name="Tele Diez" tvg-logo="https://www.m3u.cl/logo/245_Tele_Diez.jpg" group-title="Local", Tele Diez
 https://videohd.live:19360/8020/8020.m3u8
 
-#EXTINF:-1 tvg-id="475" tvg-name="Tele Mas" tvg-logo="https://www.m3u.cl/logo/475_Tele_Mas.png" group-title="General", Tele Mas Costa Rica
+#EXTINF:-1 tvg-id="475" tvg-name="Tele Mas" tvg-logo="https://www.m3u.cl/logo/475_Tele_Mas.png" group-title="General", Tele Mas
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/of0fNUU.png" group-title="General", Teleamazonas
@@ -1014,8 +1014,8 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-name="TeleSUR Costa Rica" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" group-title="General",TeleSUR Costa Rica
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Televicentro_HN_logo_2020.png" group-title="General", Televicentro Honduras
-https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Televicentro_HN_logo_2020.png" group-title="General", Televicentro
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmnsfXyv98pppePap7i8KdTQ)/dm/3/x7xs2wx/s/live-0.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.televideoinforma.com.ar/img/publicidades/Televideo_logo.jpg" group-title="Local", Televideo Villa Ocampo
 https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
@@ -1038,13 +1038,13 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w258432612_b18
 #EXTINF:-1 tvg-logo="https://multimedioteveochodigital.com/uploads/logo/logo_5cccaad4c70e1.png" group-title="Local", Teve Ocho Chepes La Rioja
 https://stmvideo1.livecastv.com/teveocho/teveocho/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-byaRfvJfLqTsABgDZb6zXzK-owEfqnrOI7WdqTEANDFry7uFqmz4pfdui4jVw-opII&usqp=CAU" group-title="General", Ticavisión Costa Rica
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-byaRfvJfLqTsABgDZb6zXzK-owEfqnrOI7WdqTEANDFry7uFqmz4pfdui4jVw-opII&usqp=CAU" group-title="General", Ticavisión
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10484954.jpg" group-title="Deportes", Tigo Sports+ Paraguay
 http://l3dtv.ga:8080/live/steveneguez1/Kdx4sHGeft/155632.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/tiva8.png" group-title="General", Tiva Tv Puerto Rico
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/tiva8.png" group-title="General", Tiva Tv
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b5/b7/31/b5b731ccaaa476a34e16f22878df4c1d.png" group-title="General", TLT La Tele Tuya
