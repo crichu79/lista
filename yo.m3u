@@ -147,6 +147,9 @@ https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo Senillosa.jpg" group-title="Local", Canal 10 Senillosa
 https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-10-Nicaragua-en-vivo-Online.png" group-title="General", Canal 10 Nicaragua
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71594.m3u8
+
 #EXTINF:-1 tvg-id="799" tvg-name="Canal 10 Nortevision" tvg-logo="https://www.m3u.cl/logo/799_Canal_10_Nortevision.jpg" group-title="Local", Canal 10 Nortevisión
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
@@ -394,7 +397,7 @@ https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Peliculas", Cinecanal
-http://186.101.216.211:8000/play/a06e
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71621.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" group-title="Peliculas", Cinemax
 http://186.101.216.211:8000/play/a0ck
@@ -447,6 +450,9 @@ http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="Deportes", DEPORTv 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71625.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Diema_Sport.png" group-title="Deportes", Diema Sport
 http://85.187.243.80:8000/play/a03l
 
@@ -492,7 +498,10 @@ https://elmolino.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 group-title="Cámaras", Escollera Santa Clara del Mar
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes", ESPN
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes", ESPN Opc. 1
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71633.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes", ESPN Opc. 2
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71632.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1200px-ACC_Network_ESPN_logo.svg.png" group-title="Deportes", ESPN ACC Network
@@ -524,6 +533,9 @@ http://rec2.distv.net:80/damaris/123456/143
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="Deportes", ESPN 3
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/ESPN3.m3u8
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="Deportes", ESPN Extra
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71635.m3u8
 
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="Deportes", ESPN Extra Brasil
 http://rec2.distv.net:80/damaris/123456/145
@@ -587,6 +599,9 @@ http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71649.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.Logo-FX-movies.png.5387b6039c503b8606806e716a7857fb.png" group-title="Peliculas", FXM
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71650.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="Deportes", FUTv
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71590.m3u8
 
 #EXTINF:-1 tvg-id="139639" tvg-name="GARAGE TV" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
