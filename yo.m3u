@@ -75,14 +75,44 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://images.prismic.io/freewaves/b87e03d8-7092-4e3d-8813-da04f72ad492_COMPLEJO-VARESE.jpg" group-title="Cámaras", Bahía Varese
 https://varese.freewaves.live/hls/live.stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="Deportes",Barça Tv
+http://5.255.90.184:2002/play/a01z
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="Noticias", BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lafabricadelatele.com/wp-content/uploads/2016/04/bemad.jpg" group-title="General", Be Mad HD
 http://91.126.138.140:1935/live/bemad/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="Deportes", Bein Sports 1 Premium
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/320/259/png-clipart-bein-sports-1-logo-bein-box-office-bein-media-group-tv-station-purple-television.png" group-title="Deportes", beIN Sports 1
+http://212.224.98.207:2200/EX/bein1hd-ar/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" group-title="Deportes", beIN Sports 2
+http://212.224.98.207:2200/EX/bein2hd-ar/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="Deportes", beIN Sports 3
+http://212.224.98.207:2200/EX/bein3hd-ar/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="Deportes", beIN Sports 4
+http://212.224.98.207:2200/EX/bein4hd-ar/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0e/da/56/0eda560bc00b99b8a9da424f66a90b60.png" group-title="Deportes", beIN Sports 5
+http://212.224.98.207:2200/EX/bein5hd-ar/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png" group-title="Deportes", beIN Sports 6
+http://212.224.98.207:2200/EX/bein6hd-ar/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97hu9-6fqZhQUdQO30rqY6eyQDIH2mYwomSWhetcv8Ozrib-qHhIeSzzeeblE1jE92A&usqp=CAU" group-title="Deportes", beIN Sports 7
+http://212.224.98.207:2200/EX/bein7hd-ar/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="Deportes", BeIN Sports Premium 1
+http://212.224.98.207:2200/EX/bein8hd-ar/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F202%2Fbein-sports-hd-1.png" group-title="Deportes", BeIN Sports Premium 2
+http://212.224.98.207:2200/EX/bein9hd-ar/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="Deportes", BeIN Sports Premium 3
+http://212.224.98.207:2200/EX/bein10hd-ar/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="Deportes", Best Cable Sport
 https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
@@ -366,6 +396,9 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/276_Canal_U.png" group-title="Educativos", Canal U
 https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png" group-title="Deportes",Captital OTB Betting
+https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cbc-sport-1188.png" group-title="Deportes", CBC Sport
 http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/chunklist_b2000000.m3u8
 
@@ -546,6 +579,9 @@ http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71635.m3u8
 #EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="Deportes", ESPN Extra Brasil
 http://rec2.distv.net:80/damaris/123456/145
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1024px-Esport3.svg.png" group-title="Deportes", Esport3
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -659,6 +695,12 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2882012983/8457e2f8197df75838a2e346a8092a8a.jpeg" group-title="Cámaras", Jamming Quequén
 https://jamming.freewaves.live/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/J_sports_1.png/revision/latest?cb=20200616212838" group-title="Deportes", J Sports 1
+http://redlabmcdn.s.llnwi.net/jp04/bs15hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfLcR1plkoSRdsC73H0HTQ33C5F1-1783Pi3Isa3-su31qIWdV17ptojocgCHEQrOPA&usqp=CAU" group-title="Deportes", J Sports 2
+http://redlabmcdn.s.llnwi.net/jp04/bs11hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ikanpari.com.ar/wp-content/uploads/2020/08/logo-kikiwai-300x225.jpg" group-title="Cámaras", Kikiwai / Waikiki
 https://video.estadodelmar.com.ar/mobile/waikiki/index.m3u8
@@ -885,6 +927,9 @@ https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1397093851/logosantaclara_400x400.jpg" group-title="Cámaras", Santa Clara La Martina
 https://video.estadodelmar.com.ar/mobile/santaclara/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Deportes", Sharjah Sports Tv
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZCgF1BmCKIw/Xv0NsKVkVlI/https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpgAAAAAAAA2ZY/A_W0oDbGNlgQn30-qgJYIBFpz9nCjpGGACK8BGAsYHg/s0/2020-07-01.jpg" group-title="Local", Sicardi Tv
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
@@ -908,6 +953,12 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/2123.png" group-title="Deportes", Sport Tv 1 HD
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Deportes",Sportitalia HD
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Deportes", Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-action_m.png" group-title="Premium", Star Action
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71637.m3u8
@@ -1157,3 +1208,6 @@ https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/277_Canal_XFN.png" group-title="Local", XFN 41
 https://5f6e1fe8f2d2e.streamlock.net:443/canalxfn/canalxfn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Deportes", Yas
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
