@@ -1020,6 +1020,9 @@ https://panel.dattalive.com/8012/8012/chunklist_w508627834.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png" group-title="Local", Telediario Televisión
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", Telefe Mar del Plata
+https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1627425326~exp=1627601726~acl=/i/mdqdistri02_1@829747/*~hmac=c5bfeda74e34e2e7ea7d7b1e89c1e6b7648d6d32500f6b204d0d4119412ee575
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="Local", Telejunín
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 
