@@ -450,6 +450,12 @@ http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71622.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports Eventos 1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627539121/ei/UPIBYZTfOszh1sQPzd6n0As/ip/2800%3Aaf0%3A1018%3Aeb1%3A80ac%3Aab24%3A221%3Aad88/id/pQONlmOhXeg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/ar/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIIKyaO2AifQRsG9x9AP-tDad54UKsw6OOSyd8zfd2ADAiBcu1gTgg_SpkejagFKJtjxMyDGIBOhXITpSXRTxBbG0w%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports Eventos 2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1627539278/ei/7vIBYbiKEcqa1sQP0d-N6Ao/ip/2800%3Aaf0%3A1018%3Aeb1%3A80ac%3Aab24%3A221%3Aad88/id/51iVn2QqGLY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/ar/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgfL6Gbjs4KGJWq6iQkuXwLruzQRaJt4P_ZnC54NaxTGMCIQDPfEEqRsepBxSW1W-Ve-NwGZBeOTvhHKwSKS1QQFZpSA%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="Local", CNR.Tv
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
