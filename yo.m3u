@@ -12,6 +12,9 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/249_5TV.png" group-title="Local", 5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png"" group-title="Local", 7 Norte
+http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="Local", 9Link
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
@@ -959,6 +962,9 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/2126.png" group-title="Deportes", Sport Tv 4 HD
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/2127.png" group-title="Deportes", Sport Tv 5 HD
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Deportes", Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
