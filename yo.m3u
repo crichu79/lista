@@ -141,6 +141,9 @@ https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="Local", Cable 10 HD
 http://inliveserver.com:1935/8292/8292/playlist.m3u8
 
+#EXTINF:-1 group-title="Cámaras", Cable Carril Cerro Catedral
+https://s62.ipcamlive.com/streams/3efrz2km6gfbu805y/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox1.png" group-title="Local", Cable Imagen Armstrong
 https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1169271894.m3u8
 
@@ -669,8 +672,20 @@ http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71658.m3u8
 #EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760024_HBO_Signature_gris.png" group-title="Premium", HBO Signature
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71659.m3u8
 
+#EXTINF:-1 group-title="Cámaras", Hijos del Mar Miramar
+https://video.estadodelmar.com.ar/mobile/miramar/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="Noticias", HispanTv
 https://live.presstv.ir/live/smil:live.smil/chunklist_w103426595_b644100_slen.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Honu Beach
+https://video.estadodelmar.com.ar/mobile/honubeach/index.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Hotel Guerrero MDQ
+https://video.estadodelmar.com.ar/mobile/hguerrero/index.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Playa Luna Roja MDQ
+https://video.estadodelmar.com.ar/mobile/lunaroja/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="Local", Infomedia
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
@@ -687,7 +702,10 @@ http://redlabmcdn.s.llnwi.net/jp04/bs15hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLfLcR1plkoSRdsC73H0HTQ33C5F1-1783Pi3Isa3-su31qIWdV17ptojocgCHEQrOPA&usqp=CAU" group-title="Deportes", J Sports 2
 http://redlabmcdn.s.llnwi.net/jp04/bs11hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ikanpari.com.ar/wp-content/uploads/2020/08/logo-kikiwai-300x225.jpg" group-title="Cámaras", Kikiwai / Waikiki
+#EXTINF:-1 tvg-logo="https://ikanpari.com.ar/wp-content/uploads/2020/08/logo-kikiwai-300x225.jpg" group-title="Cámaras", Kikiwai / Waikiki Opc. 1
+https://video.estadodelmar.com.ar/mobile/waikiki/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ikanpari.com.ar/wp-content/uploads/2020/08/logo-kikiwai-300x225.jpg" group-title="Cámaras", Kikiwai / Waikiki Opc. 2
 https://video.estadodelmar.com.ar/mobile/waikiki/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdF2OWsG279GrL9Ynlqp5shmDy5aoY05ybWKexhneNLAHcQkbAt_vdSrIb5CzZBomU-E&usqp=CAU" group-title="Cámaras", Kite Gesell
@@ -882,11 +900,20 @@ http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist
 #EXTINF:-1 group-title="Cámaras", Playa Cardiel
 https://m.freewaves.live/hls/live.stream.m3u8
 
+#EXTINF:-1 group-title="Cámaras", Playa Grande
+https://video.estadodelmar.com.ar/mobile/playagrande/index.m3u8
+
 #EXTINF:-1 group-title="Cámaras", Playa Grande Biología
 https://biologia.freewaves.live/hls/live.stream.m3u8
 
-#EXTINF:-1 group-title="Cámaras", Playa Grande El Yacht
+#EXTINF:-1 group-title="Cámaras", Playa Grande El Yacht Norte
+https://video.estadodelmar.com.ar/mobile/yacht/index.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Playa Grande El Yacht Sur
 https://yacht.freewaves.live/hls/live.stream.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Playa Grande La Normandina
+https://video.estadodelmar.com.ar/mobile/lanormandina/index.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Playa Karamawi Necochea
 https://karamaui.freewaves.live/hls/live.stream.m3u8
@@ -894,11 +921,23 @@ https://karamaui.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 group-title="Cámaras", Playa Mariano
 https://mariano.freewaves.live/hls/live.stream.m3u8
 
+#EXTINF:-1 group-title="Cámaras", Playa Pura Vida Los Acantilados
+https://video.estadodelmar.com.ar/mobile/puravida/index.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Playa Varese Norte
+https://video.estadodelmar.com.ar/mobile/varese/index.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Playa Varese Sur
+https://video.estadodelmar.com.ar/mobile/varese2/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Playas del Balcón
 https://cp.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/243_Power.png" group-title="Local", Power HD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Puerto de Ushuaia
+https://hd-auth.skylinewebcams.com/live.m3u8?a=rd7mo6kuhbecvu0c8b3khhp9u6
 
 #EXTINF:-1 group-title="Cámaras", Punta Mogotes
 https://mogotes.freewaves.live/hls/live.stream.m3u8
@@ -1119,8 +1158,14 @@ http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71680.m3u8
 #EXTINF:-1 tvg-logo="https://backend.laguia.tv/uploads/TNTSeries_4ed0f6fd8e.png" group-title="Peliculas", TNT Series
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71681.m3u8
 
+#EXTINF:-1 group-title="Cámaras", Torreón del Monje
+https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.trece.com.py/public/img/Logo-Trece-Nuevo.png" group-title="General", Trece Paraguay
 http://174.138.118.252/live/trece.m3u8
+
+#EXTINF:-1 group-title="Cámaras", Tren del Fin del Mundo
+https://hd-auth.skylinewebcams.com/live.m3u8?a=rd7mo6kuhbecvu0c8b3khhp9u6
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/788_TV_Dos_Salta.jpg" group-title="Local", Tv Dos
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
