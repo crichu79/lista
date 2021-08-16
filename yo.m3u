@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", 13 Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="Musicales", 1HD Music Television
+https://sc.id-tv.kz/1hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="Cámaras", 5900 Tv
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 
@@ -381,6 +384,9 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="Local", Canal Coop Jesus María
 https://panel.dattalive.com/8138/8138/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png?fit=1920%2C1080" group-title="Religiosos", Canal Diocesano
+https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/302_Canal_Nueve_TV.png" group-title="Local", Canal Nueve Comodoro Rivadavia
 https://live.canalnueve.tv/canal.m3u8
 
@@ -434,6 +440,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Peliculas", Cinecanal
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71621.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Musicales", City Music Tv
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/237_Ciudad_TV.jpg" group-title="Local", Ciudad Tv Resistencia
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
@@ -581,6 +590,9 @@ http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes", Eurosport 2
 http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religiosos", EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg" group-title="Local", Fenix La Rioja
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
@@ -788,6 +800,9 @@ http://cammuelle.gesell.com.ar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/676441474142240768/1sDSKS9p_400x400.jpg" group-title="Cámaras", Museo Mar
 https://video.estadodelmar.com.ar/mobile/museomar/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musicales", MUSIC +
+http://s02.diazol.hu:10192/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png" group-title="Musicales", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
