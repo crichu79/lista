@@ -549,10 +549,10 @@ https://5f93e494d5906.streamlock.net:443/elecotv/elecotv/playlist.m3u8
 #EXTINF:-1 group-title="Cámaras", El Molino San Isidro
 https://elmolino.freewaves.live/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zGkJr7g/Eleven-Sports1logobyvovanloc.png" group-title="Deportes" , Eleven Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zGkJr7g/Eleven-Sports1logobyvovanloc.png" group-title="Deportes", Eleven Sports 1 HD
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KjzD1QG/Eleven-Sports2logobyvovanloc.png" group-title="Deportes" , Eleven Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjzD1QG/Eleven-Sports2logobyvovanloc.png" group-title="Deportes", Eleven Sports 2 HD
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Escollera Santa Clara del Mar
