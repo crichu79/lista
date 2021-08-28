@@ -135,6 +135,9 @@ https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/chunklist_w
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="Cámaras", Bunge y Libertador Pinamar
 https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" group-title="Local", C5N
+https://inliveserver.com:1936/9504/9504/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/773_Canal_5_Santa_Fe.png" group-title="Local", C5SF
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
@@ -861,9 +864,6 @@ https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 group-title="Local", Noticias del 6
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="Local", Noticias Eps
-https://inliveserver.com:1936/9504/9504/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_usk3hzv4/def_height/1654/def_width/3159/version/100011/type/2/q/100" group-title="General", Nuestra Visión Tv
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 
@@ -992,9 +992,6 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" group-title="Deportes", Sky Sport 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.soltelevision.com/wp-content/uploads/2018/08/soltvUSA.jpg" group-title="General", Sol Tv
-https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w1620482211_b1663840_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/828_Somos_Del_Este_TV.jpg" group-title="General", Somos Del Este Tv
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
@@ -1256,6 +1253,9 @@ http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71686.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gesell.tur.ar/image/685x5d3da/26239603-1562823000462532-1644324590284977691-n.jpg" group-title="Cámaras", Windy Villa Gesell
 https://video.estadodelmar.com.ar/mobile/vgesell/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/WIPR-TV_logo_2016.png" group-title="General", WIPR Tv
+https://stream-wipr.online/hls/wipr/2_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="Peliculas", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
