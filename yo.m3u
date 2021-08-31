@@ -450,6 +450,12 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71625.m3u8
 
+EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/c9aae0d5d41514a68f81cc2550f091b4.jpg" group-title="Deportes", Directv Sports 2
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/65123.m3u8
+
+#EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/015dd4f2c460d7b56ce5d1025767a328.jpg" group-title="Deportes", Directv Sports Plus
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/65124.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XKWYJiQXimFkEbkWBVbYFnA4QxmOxgWltyiD_-XYPtNaGomZMs9Fn5MFbC_MMMx7efw&usqp=CAU" group-title="General", Discovery Channel
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/92949.m3u8
 
@@ -483,16 +489,37 @@ https://elmolino.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 group-title="Cámaras", Escollera Santa Clara del Mar
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes", ESPN 1
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes", ESPN 1 HD
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71632.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="Deportes", ESPN 2
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 1 MX HD
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101010.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 1 Sur HD
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101011.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="Deportes", ESPN 2 HD
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71633.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="Deportes", ESPN 3
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2 MX HD
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101014.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2 Sur HD
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101015.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="Deportes", ESPN 3 HD
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71634.m3u8
 
-#EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="Deportes", ESPN Extra
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3 MX HD
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101018.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3 Sur HD
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101019.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Espn Deportes HD
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101024.m3u8
+
+#EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="Deportes", ESPN Extra HD
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71635.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1024px-Esport3.svg.png" group-title="Deportes", Esport3
@@ -502,7 +529,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes", Eurosport 1
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101029.m3u8
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/62751.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes", Eurosport 2
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101030.m3u8
@@ -548,6 +575,12 @@ https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Peliculas", Golden
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71651.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/38b00b62cfa1ac49a4f0859d720da8f6.gif" group-title="Peliculas", Golden Edge
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/91201.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/38b00b62cfa1ac49a4f0859d720da8f6.gif" group-title="Peliculas", Golden Plus
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/72019.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Peliculas", Golden Premier
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71652.m3u8
