@@ -48,6 +48,9 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" group-title="Local", Airevisión Punta Alta
 http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/ea628af489b5a82f0c7b297d12443e3a.png" group-title="General", AMC Networks
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/94261.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.jpg" group-title="Local", América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
 
@@ -56,6 +59,9 @@ http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/82908.m3u8
 
 #EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="General", América TvGo
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/53846.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/3ee7b2202cc8a66a73d1293127114f4b.gif" group-title="General", Animal Planet
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/92957.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="Local", Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
@@ -83,6 +89,9 @@ https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="General", Bolivia Tv 
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/a19f2a4f727d35400d5b307501d36cb5.jpg" group-title="Familiares", Boomerang
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/94275.m3u8
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="Cámaras", Botavara Pinamar
 https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
@@ -366,11 +375,17 @@ https://live.canalnueve.tv/canal.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="General", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wXRdFt3sUJ4/XjtGs5r11JI/AAAAAAAAvqI/3HPrP-ikIF8Av5gh6dJzfv1Qoui2cYnOACK8BGAsYHg/s0/2020-02-05.png" group-title="Local", Canal Provincial
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/53933.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/310_Canal_Rural.jpg" group-title="Local", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/276_Canal_U.png" group-title="Educativos", Canal U
 https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/c13acdc173a0aa2ebd4109759821402e.gif" group-title="Familiares", Cartoon Network
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71620.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/815_Celta_TV.jpg" group-title="Local", Celta Tv Tres Arroyos
 https://vivo.solumedia.com:19360/celta/celta.m3u8
@@ -476,6 +491,9 @@ http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71628.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Familiares", Disney Channel
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71631.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/0e70acfd4c3d4bcedbb2ff4ea70806f5.gif" group-title="Familiares", Disney XD
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/91210.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/x-a6TMo2CivvITwkx8SL8jtgaD1-za9NWUZemkt0-yfE8_fuSMzpE5kSElsT-YfaZfuLz-J1Nt1ml1X3cjR54CSYtEqgEl13Z_7rsdGD3BM4NKrLk_tCF6GNt4T47dwegYAk-mb91rY" group-title="Local", DSR Medios
 https://panel.dattalive.com/8114/8114/playlist.m3u8
@@ -630,8 +648,14 @@ https://video.estadodelmar.com.ar/mobile/miramar/index.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="Noticias", HispanTv
 https://live.presstv.ir/live/smil:live.smil/chunklist_w103426595_b644100_slen.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/bb49d718bc6f0618c02fb5166cc21ced.gif" group-title="General, History Channel
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/92956.m3u8
+
 #EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="General", HOLA Tv
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/a87c8dbba67e91451fca37e5edb6ab82.gif" group-title="General", Home & Health
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/92951.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Honu Beach
 https://video.estadodelmar.com.ar/mobile/honubeach/index.m3u8
@@ -683,6 +707,9 @@ https://marchiquita.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/IhpU74mr7C1kiFTILJvZuht-JTu-0nQYl7U45J7MyxzMwlb7iltJjDSBnM492FSO9X4eLqflBjERvj1_IBpcStDzmtKizpl-vXPLBQ" group-title="Cámaras", Las Brusquitas Miramar
 https://brusquitas.freewaves.live/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/de29a7e6681d2573f9c436254226219b.jpg" group-title="General", Las Estrellas
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/94246.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png" group-title="Educativos", Litus Tv
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
@@ -770,6 +797,9 @@ http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71673.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/230/953/png-clipart-nick-jr-nickelodeon-television-channel-logo-disney-junior-logo-television-text.png" group-title="Familiares", Nick Jr.
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71672.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/8c64674f2494408bb717fe5aa114c0c9.gif" group-title="Familiares", Nickelodeon
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71673.m3u8
 
 #EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="Noticias", Noticias Caracol
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
@@ -963,6 +993,9 @@ https://panel.dattalive.com/8012/8012/chunklist_w508627834.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png" group-title="Local", Telediario Televisión
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxef0uPDET9N1GnEGYPo5X7VduaOxoMcLYSg&usqp=CAU" group-title="Local", Telefe
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/53895.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="Local", Telejunín
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 
@@ -1007,6 +1040,15 @@ https://stmvideo1.livecastv.com/teveocho/teveocho/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-byaRfvJfLqTsABgDZb6zXzK-owEfqnrOI7WdqTEANDFry7uFqmz4pfdui4jVw-opII&usqp=CAU" group-title="General", Ticavisión
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports HD C.Rica
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/100864.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports HD Guatemala
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/93147.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Tigo Sports Honduras
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/100876.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports Plus
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/100868.m3u8
