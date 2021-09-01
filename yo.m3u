@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/33847ce9af2d68bd06347920b22c4459.png" group-title="Deportes", #Vamos
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/62742.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", 13 Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
@@ -49,13 +52,19 @@ http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 http://45.6.4.154/americatuc/vivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Local", AméricaTv
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/82908.m3u8
+
+#EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="General", América TvGo
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/53846.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="Local", Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Cámaras", Av 3 y 104 Villa Gesell
 http://cam104y3.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/13f44661e6ac4c1b1fcee0647d3b99b0.gif" group-title="General", AXN HD
+http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/93673.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="General", Azteca 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
