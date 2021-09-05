@@ -559,10 +559,10 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes", Eurosport 1
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/62751.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6694.ts
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="Deportes", Eurosport 2
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101030.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6695.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religiosos", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
