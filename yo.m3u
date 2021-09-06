@@ -82,7 +82,7 @@ https://varese.freewaves.live/hls/live.stream.m3u8
 http://91.126.138.140:1935/live/bemad/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/1281ef451ac6e4fefe2ff75e12486175.gif" group-title="Deportes", Bein Sports Ñ
-http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/11776.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1606.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="Deportes", Best Cable Sport
 https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
@@ -122,9 +122,6 @@ https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1169271894.m3u8
 
 #EXTINF:-1 tvg-logo="http://cabledigital.com.ar/wp-content/uploads/2020/03/cropped-Logo-Cabledigital-PNG-para-web-3.png" group-title="Local", CableDigital Huinca Renanco
 https://vivo.solumedia.com:19360/huinca/huinca.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Cableonda Sports FC FHD
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/100888.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Cabo Corrientes
 https://video.estadodelmar.com.ar/mobile/cabocorrientes/index.m3u8
@@ -477,11 +474,11 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71625.m3u8
 
-#EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/c9aae0d5d41514a68f81cc2550f091b4.jpg" group-title="Deportes", Directv Sports 2
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/65123.m3u8
+#EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/c9aae0d5d41514a68f81cc2550f091b4.jpg" group-title="Deportes", Directv Sports
+http://budtvlight.com:25461/live/fernando/1234/12199.m3u8
 
 #EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/015dd4f2c460d7b56ce5d1025767a328.jpg" group-title="Deportes", Directv Sports Plus
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/65124.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1645.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XKWYJiQXimFkEbkWBVbYFnA4QxmOxgWltyiD_-XYPtNaGomZMs9Fn5MFbC_MMMx7efw&usqp=CAU" group-title="General", Discovery Channel
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5200.m3u8
@@ -519,38 +516,38 @@ https://elmolino.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 group-title="Cámaras", Escollera Santa Clara del Mar
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes", ESPN 1 HD
-http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5182.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes", ESPN 1
+http://budtvlight.com:25461/live/fernando/1234/10017.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 1 MX HD
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101010.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 1 MX
+http://budtvlight.com:25461/live/fernando/1234/10018.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 1 Sur HD
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101011.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 1 Sur
+http://budtvlight.com:25461/live/fernando/1234/1646.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="Deportes", ESPN 2 HD
-http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5193.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="Deportes", ESPN 2
+http://budtvlight.com:25461/live/fernando/1234/10023.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2 MX HD
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101014.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2 MX
+http://budtvlight.com:25461/live/fernando/1234/1516.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2 Sur HD
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101015.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2 Sur
+http://budtvlight.com:25461/live/fernando/1234/1779.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="Deportes", ESPN 3 HD
-http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5192.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="Deportes", ESPN 3
+http://budtvlight.com:25461/live/fernando/1234/9960.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3 MX HD
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101018.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3 MX
+http://budtvlight.com:25461/live/fernando/1234/1517.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3 Sur HD
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101019.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3 Sur
+http://budtvlight.com:25461/live/fernando/1234/1663.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Espn Deportes HD
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/101024.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Espn Deportes
+http://budtvlight.com:25461/live/fernando/1234/1514.m3u8
 
-#EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="Deportes", ESPN Extra HD
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71635.m3u8
+#EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="Deportes", ESPN Extra
+http://budtvlight.com:25461/live/fernando/1234/2798.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1024px-Esport3.svg.png" group-title="Deportes", Esport3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
@@ -574,16 +571,16 @@ https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="Deportes", Fox Sports 1
-http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5184.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1638.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes", Fox Sports 2
-http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5183.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1640.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", Fox Sports 3
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7414.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.718406328_FoxSportsPremium.png.2d3118dc99043ec79eaff13b026c8953.png" group-title="Deportes", Fox Sports Premium
-http://budtvlight.com:25461/live/fernando/1234/1652.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1860.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
@@ -595,7 +592,7 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7407.m3u8
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71650.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="Deportes", FUTv
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71590.m3u8
+http://budtvlight.com:25461/live/fernando/1234/2200.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE Tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
@@ -1047,17 +1044,23 @@ https://stmvideo1.livecastv.com/teveocho/teveocho/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-byaRfvJfLqTsABgDZb6zXzK-owEfqnrOI7WdqTEANDFry7uFqmz4pfdui4jVw-opII&usqp=CAU" group-title="General", Ticavisión
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports HD C.Rica
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/100864.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports 1 Bolivia
+http://budtvlight.com:25461/live/fernando/1234/2192.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports HD Guatemala
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/93147.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports 2 Bolivia
+http://budtvlight.com:25461/live/fernando/1234/2193.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports 3 Bolivia
+http://budtvlight.com:25461/live/fernando/1234/2197.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports C.Rica
+http://budtvlight.com:25461/live/fernando/1234/2201.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Tigo Sports Honduras
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/100876.m3u8
+http://budtvlight.com:25461/live/fernando/1234/2266.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports Plus
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/100868.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports Paraguay
+http://budtvlight.com:25461/live/fernando/1234/1888.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/tiva8.png" group-title="General", Tiva Tv
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
@@ -1170,8 +1173,17 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title="General", VOA Estados Unidos
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", VTV HD
+http://budtvlight.com:25461/live/fernando/1234/1818.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Deportes", VTV Plus
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/57058.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1817.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General", WAPA
+http://budtvlight.com:25461/live/fernando/1234/2169.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General", WAPA 2
+http://budtvlight.com:25461/live/fernando/1234/2166.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="General", Warner Tv
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6775.m3u8
@@ -1183,7 +1195,7 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7732.m3u8
 https://video.estadodelmar.com.ar/mobile/vgesell/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/WIPR-TV_logo_2016.png" group-title="General", WIPR Tv
-https://stream-wipr.online/hls/wipr/2_1/index.m3u8
+http://budtvlight.com:25461/live/fernando/1234/2165.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="Peliculas", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
