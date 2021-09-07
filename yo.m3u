@@ -1128,7 +1128,7 @@ http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png" group-title="General", TVN Panamá
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", TN
+#EXTINF:-1 tvg-logo="" group-title="Local", TN
 http://budtvlight.com:25461/live/fernando/1234/1811.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports
