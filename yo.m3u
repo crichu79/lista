@@ -55,10 +55,10 @@ http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/94261.m3u8
 http://45.6.4.154/americatuc/vivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Local", AméricaTv
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/82908.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1794.m3u8
 
 #EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="General", América TvGo
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/53846.m3u8
+http://budtvlight.com:25461/live/fernando/1234/2301.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/3ee7b2202cc8a66a73d1293127114f4b.gif" group-title="General", Animal Planet
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/92957.m3u8
@@ -453,6 +453,9 @@ https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/238_CPE_TV.jpg" group-title="Local", CPE Tv
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", Cronica Tv
+http://budtvlight.com:25461/live/fernando/1234/1805.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="General", Cuatro HD
 http://91.126.141.13:1935/live/51/1800-def.m3u8
 
@@ -589,7 +592,7 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7407.m3u8
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.Logo-FX-movies.png.5387b6039c503b8606806e716a7857fb.png" group-title="Peliculas", FXM
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71650.m3u8
+http://budtvlight.com:25461/live/fernando/1234/10894.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="Deportes", FUTv
 http://budtvlight.com:25461/live/fernando/1234/2200.m3u8
@@ -607,10 +610,10 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6783.m3u8
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6784.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/38b00b62cfa1ac49a4f0859d720da8f6.gif" group-title="Peliculas", Golden Plus
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/72019.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1473.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Peliculas", Golden Premier
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71652.m3u8
+http://budtvlight.com:25461/live/fernando/1234/3759.m3u8
 
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png"" group-title="General", Gourmet Tv
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
@@ -619,16 +622,16 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7428.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" group-title="Peliculas", HBO 2
-http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7427.m3u8
+http://budtvlight.com:25461/live/fernando/1234/10873.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/534/400/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo.png" group-title="Peliculas", HBO Family
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71657.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1846.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/1e953e0a6ccd5a3200c8aab48f04b629.gif" group-title="Peliculas", HBO Mundi
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/91198.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1850.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.freepng.es/20180806/alf/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9de633b0.0836719315335871019429.jpg" group-title="Peliculas", HBO Plus
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71658.m3u8
+http://budtvlight.com:25461/live/fernando/1234/10875.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/473de5aa555fcc51f9ad043c4c3cd76f.gif" group-title="Peliculas", HBO Pop
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7433.m3u8
@@ -638,6 +641,9 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7426.m3u8
 
 #EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/cc376c765e2f411c20d7acdadd3e0fdc.jpg" group-title="Peliculas", HBO Xtreme
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/91197.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Familiares", Hey Arnold Tv
+http://budtvlight.com:25461/live/fernando/1234/2382.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Hijos del Mar Miramar
 https://video.estadodelmar.com.ar/mobile/miramar/index.m3u8
@@ -831,6 +837,9 @@ https://constitucion.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwF-4_r2fGxcD5OS6ZwymuSYJ9h735bdxqqDpPo2GnPesVPzQW-ufDbuZGkw9p_JJ_Q&usqp=CAU" group-title="Cámaras", Panorámica Mar Chiquita
 https://mchpano.freewaves.live/hls/live.stream.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Familiares", La Pantera rosa Tv
+http://budtvlight.com:25461/live/fernando/1234/11989.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest?cb=20200115012544&path-prefix=es" group-title="General", Paramount
 http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71674.m3u8
 
@@ -946,19 +955,19 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5187.m3u8
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7756.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375838.jpg" group-title="Peliculas", Star Comedy
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71640.m3u8
+http://budtvlight.com:25461/live/fernando/1234/3766.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Fun_pack.png" group-title="Peliculas", Star Fun
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71641.m3u8
+http://budtvlight.com:25461/live/fernando/1234/3767.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Hits_pack.png" group-title="Peliculas", Star Hits
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5185.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Series_pack.png" group-title="Peliculas", Star Series
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71645.m3u8
+http://budtvlight.com:25461/live/fernando/1234/3769.m3u8
 
 #EXTINF:-1 tvg-logo="https://uspto.report/TM/90480911/mark.png" group-title="Peliculas", Star Life
-http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7406.m3u8
+http://budtvlight.com:25461/live/fernando/1234/10901.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/244_T5_Satelital.png" group-title="Local", T5 Satelital
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
@@ -997,7 +1006,7 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/2723.m3u8
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxef0uPDET9N1GnEGYPo5X7VduaOxoMcLYSg&usqp=CAU" group-title="Local", Telefe
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/53895.m3u8
+http://budtvlight.com:25461/live/fernando/1234/1793.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="Local", Telejunín
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
@@ -1118,6 +1127,9 @@ http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png" group-title="General", TVN Panamá
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", TN
+http://budtvlight.com:25461/live/fernando/1234/1811.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
