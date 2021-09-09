@@ -28,16 +28,13 @@ http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="General", A&E
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71615.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5204.m3u8
 
 #EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="Local", Albardón Tv
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-ac-vision-en-vivo.jpg" group-title="Peliculas", AC Visión
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/chunklist_w2039599189.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-10-Nicaragua-en-vivo-Online.png" group-title="General", Acción 10
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71594.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/222_Acequia.png" group-title="Local", Acequia
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
@@ -49,19 +46,13 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/ea628af489b5a82f0c7b297d12443e3a.png" group-title="General", AMC Networks
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/94261.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7272.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.jpg" group-title="Local", América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Local", AméricaTv
-http://budtvlight.com:25461/live/fernando/1234/1794.m3u8
-
-#EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/47b13ab301e00251bd2f5bbe9e8bfd13.png" group-title="General", América TvGo
-http://budtvlight.com:25461/live/fernando/1234/2301.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/3ee7b2202cc8a66a73d1293127114f4b.gif" group-title="General", Animal Planet
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/92957.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5203.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="Local", Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
@@ -70,7 +61,7 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m
 http://cam104y3.gesell.com.ar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/13f44661e6ac4c1b1fcee0647d3b99b0.gif" group-title="General", AXN HD
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/93673.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5202.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="General", Azteca 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
@@ -82,7 +73,7 @@ https://varese.freewaves.live/hls/live.stream.m3u8
 http://91.126.138.140:1935/live/bemad/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/1281ef451ac6e4fefe2ff75e12486175.gif" group-title="Deportes", Bein Sports Ñ
-http://budtvlight.com:25461/live/fernando/1234/1606.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/11776.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="Deportes", Best Cable Sport
 https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
@@ -91,7 +82,7 @@ https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/a19f2a4f727d35400d5b307501d36cb5.jpg" group-title="Familiares", Boomerang
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/94275.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7769.m3u8
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="Cámaras", Botavara Pinamar
 https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
@@ -372,9 +363,6 @@ https://live.canalnueve.tv/canal.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="General", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-wXRdFt3sUJ4/XjtGs5r11JI/AAAAAAAAvqI/3HPrP-ikIF8Av5gh6dJzfv1Qoui2cYnOACK8BGAsYHg/s0/2020-02-05.png" group-title="Local", Canal Provincial
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/53933.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/310_Canal_Rural.jpg" group-title="Local", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
@@ -382,7 +370,7 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/c13acdc173a0aa2ebd4109759821402e.gif" group-title="Familiares", Cartoon Network
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71620.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7421.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/815_Celta_TV.jpg" group-title="Local", Celta Tv Tres Arroyos
 https://vivo.solumedia.com:19360/celta/celta.m3u8
@@ -453,9 +441,6 @@ https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/238_CPE_TV.jpg" group-title="Local", CPE Tv
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local", Cronica Tv
-http://budtvlight.com:25461/live/fernando/1234/1805.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="General", Cuatro HD
 http://91.126.141.13:1935/live/51/1800-def.m3u8
 
@@ -474,15 +459,6 @@ http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="Deportes", DEPORTv 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="Peliculas", DHE
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71625.m3u8
-
-#EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/c9aae0d5d41514a68f81cc2550f091b4.jpg" group-title="Deportes", Directv Sports
-http://budtvlight.com:25461/live/fernando/1234/12199.m3u8
-
-#EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/015dd4f2c460d7b56ce5d1025767a328.jpg" group-title="Deportes", Directv Sports Plus
-http://budtvlight.com:25461/live/fernando/1234/1645.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XKWYJiQXimFkEbkWBVbYFnA4QxmOxgWltyiD_-XYPtNaGomZMs9Fn5MFbC_MMMx7efw&usqp=CAU" group-title="General", Discovery Channel
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5200.m3u8
 
@@ -490,7 +466,7 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5200.m3u8
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5197.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Familiares", Disney Channel
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71631.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7274.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/0e70acfd4c3d4bcedbb2ff4ea70806f5.gif" group-title="Familiares", Disney XD
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7275.m3u8
@@ -520,37 +496,13 @@ https://elmolino.freewaves.live/hls/live.stream.m3u8
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes", ESPN 1
-http://budtvlight.com:25461/live/fernando/1234/10017.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 1 MX
-http://budtvlight.com:25461/live/fernando/1234/10018.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 1 Sur
-http://budtvlight.com:25461/live/fernando/1234/1646.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5182.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="Deportes", ESPN 2
-http://budtvlight.com:25461/live/fernando/1234/10023.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2 MX
-http://budtvlight.com:25461/live/fernando/1234/1516.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2 Sur
-http://budtvlight.com:25461/live/fernando/1234/1779.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5193.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-3_m.png" group-title="Deportes", ESPN 3
-http://budtvlight.com:25461/live/fernando/1234/9960.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3 MX
-http://budtvlight.com:25461/live/fernando/1234/1517.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3 Sur
-http://budtvlight.com:25461/live/fernando/1234/1663.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Espn Deportes
-http://budtvlight.com:25461/live/fernando/1234/1514.m3u8
-
-#EXTINF:-1 tvg-logo="http://distv.net/icons/espnextra.png" group-title="Deportes", ESPN Extra
-http://budtvlight.com:25461/live/fernando/1234/2798.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5192.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1024px-Esport3.svg.png" group-title="Deportes", Esport3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
@@ -574,28 +526,19 @@ https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="Deportes", Fox Sports 1
-http://budtvlight.com:25461/live/fernando/1234/1638.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5184.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes", Fox Sports 2
-http://budtvlight.com:25461/live/fernando/1234/1640.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5183.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", Fox Sports 3
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7414.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.718406328_FoxSportsPremium.png.2d3118dc99043ec79eaff13b026c8953.png" group-title="Deportes", Fox Sports Premium
-http://budtvlight.com:25461/live/fernando/1234/1860.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-8hG0XpOZkCQ/T2urxmX50-I/AAAAAAAAAC0/QCCyhRvYQOA/s1600/731px-FX-logo.svg.png" group-title="General", FX
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7407.m3u8
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_07/large.Logo-FX-movies.png.5387b6039c503b8606806e716a7857fb.png" group-title="Peliculas", FXM
-http://budtvlight.com:25461/live/fernando/1234/10894.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="Deportes", FUTv
-http://budtvlight.com:25461/live/fernando/1234/2200.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE Tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
@@ -609,12 +552,6 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6783.m3u8
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/38b00b62cfa1ac49a4f0859d720da8f6.gif" group-title="Peliculas", Golden Edge
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6784.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/38b00b62cfa1ac49a4f0859d720da8f6.gif" group-title="Peliculas", Golden Plus
-http://budtvlight.com:25461/live/fernando/1234/1473.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Peliculas", Golden Premier
-http://budtvlight.com:25461/live/fernando/1234/3759.m3u8
-
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png"" group-title="General", Gourmet Tv
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
@@ -622,28 +559,13 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7428.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" group-title="Peliculas", HBO 2
-http://budtvlight.com:25461/live/fernando/1234/10873.m3u8
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/534/400/png-clipart-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo.png" group-title="Peliculas", HBO Family
-http://budtvlight.com:25461/live/fernando/1234/1846.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/1e953e0a6ccd5a3200c8aab48f04b629.gif" group-title="Peliculas", HBO Mundi
-http://budtvlight.com:25461/live/fernando/1234/1850.m3u8
-
-#EXTINF:-1 tvg-logo="https://img1.freepng.es/20180806/alf/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9de633b0.0836719315335871019429.jpg" group-title="Peliculas", HBO Plus
-http://budtvlight.com:25461/live/fernando/1234/10875.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7427.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/473de5aa555fcc51f9ad043c4c3cd76f.gif" group-title="Peliculas", HBO Pop
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7433.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m760024_HBO_Signature_gris.png" group-title="Peliculas", HBO Signature
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7426.m3u8
-
-#EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/cc376c765e2f411c20d7acdadd3e0fdc.jpg" group-title="Peliculas", HBO Xtreme
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/91197.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Familiares", Hey Arnold Tv
-http://budtvlight.com:25461/live/fernando/1234/2382.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Hijos del Mar Miramar
 https://video.estadodelmar.com.ar/mobile/miramar/index.m3u8
@@ -715,7 +637,7 @@ https://marchiquita.freewaves.live/hls/live.stream.m3u8
 https://brusquitas.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/de29a7e6681d2573f9c436254226219b.jpg" group-title="General", Las Estrellas
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/94246.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6774.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png" group-title="Educativos", Litus Tv
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
@@ -780,11 +702,11 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/767_N24TV.png" group-title="Noticias", N24Tv
 https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1024px-Natgeo_Kids_logo.svg.png" group-title="Familiares", Nat Geo Kids
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71669.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1024px-Natgeo_Kids_logo.svg.png" group-title="General", Nat Geo Wild
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5180.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="Deportes", NBC Golf
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71653.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="General", National Geographic
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7390.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="Local", Neo Tv Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -799,7 +721,7 @@ https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Familiares", Nick
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71673.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7749.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/230/953/png-clipart-nick-jr-nickelodeon-television-channel-logo-disney-junior-logo-television-text.png" group-title="Familiares", Nick Jr.
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7389.m3u8
@@ -836,12 +758,6 @@ https://constitucion.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwF-4_r2fGxcD5OS6ZwymuSYJ9h735bdxqqDpPo2GnPesVPzQW-ufDbuZGkw9p_JJ_Q&usqp=CAU" group-title="Cámaras", Panorámica Mar Chiquita
 https://mchpano.freewaves.live/hls/live.stream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Familiares", La Pantera rosa Tv
-http://budtvlight.com:25461/live/fernando/1234/11989.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest?cb=20200115012544&path-prefix=es" group-title="General", Paramount
-http://shopcl.nl:2082/live/48bace43ned62s/54madu76seu2/71674.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6_pJ2aayldOYOW3ySqO5dLEvPRv9K51dC3TjDibPSvaIzZTDqbMYlZAJsKxZE0TeiuQ&usqp=CAU" group-title="Cámaras", Pinamar Septiembre Loft
 https://video.estadodelmar.com.ar/mobile/pinamar/index.m3u8
@@ -890,6 +806,9 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Punta Mogotes
 https://mogotes.freewaves.live/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/pa/282371/png/282371.png" group-title="General", PX
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7748.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/286_Quatro_TV.png" group-title="Local", Quatro Tv
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
@@ -954,20 +873,17 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5187.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Star_Classics_2021.svg/revision/latest?cb=20210224135249&path-prefix=es" group-title="Peliculas", Star Classics
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7756.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/13375838.jpg" group-title="Peliculas", Star Comedy
-http://budtvlight.com:25461/live/fernando/1234/3766.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Fun_pack.png" group-title="Peliculas", Star Fun
-http://budtvlight.com:25461/live/fernando/1234/3767.m3u8
-
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Hits_pack.png" group-title="Peliculas", Star Hits
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5185.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Series_pack.png" group-title="Peliculas", Star Series
-http://budtvlight.com:25461/live/fernando/1234/3769.m3u8
-
 #EXTINF:-1 tvg-logo="https://uspto.report/TM/90480911/mark.png" group-title="Peliculas", Star Life
-http://budtvlight.com:25461/live/fernando/1234/10901.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7406.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/220px-Logo_Studio_Universal.svg.png" group-title="General", Studio Universal
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7746.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png" group-title="General", Syfy
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7745.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/244_T5_Satelital.png" group-title="Local", T5 Satelital
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
@@ -1004,9 +920,6 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/2723.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png" group-title="Local", Telediario Televisión
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxef0uPDET9N1GnEGYPo5X7VduaOxoMcLYSg&usqp=CAU" group-title="Local", Telefe
-http://budtvlight.com:25461/live/fernando/1234/1793.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="Local", Telejunín
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
@@ -1053,24 +966,6 @@ https://stmvideo1.livecastv.com/teveocho/teveocho/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-byaRfvJfLqTsABgDZb6zXzK-owEfqnrOI7WdqTEANDFry7uFqmz4pfdui4jVw-opII&usqp=CAU" group-title="General", Ticavisión
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports 1 Bolivia
-http://budtvlight.com:25461/live/fernando/1234/2192.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports 2 Bolivia
-http://budtvlight.com:25461/live/fernando/1234/2193.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports 3 Bolivia
-http://budtvlight.com:25461/live/fernando/1234/2197.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports C.Rica
-http://budtvlight.com:25461/live/fernando/1234/2201.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes",Tigo Sports Honduras
-http://budtvlight.com:25461/live/fernando/1234/2266.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Tigo Sports Paraguay
-http://budtvlight.com:25461/live/fernando/1234/1888.m3u8
-
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/tiva8.png" group-title="General", Tiva Tv
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 
@@ -1086,14 +981,14 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7271.m3u8
 #EXTINF:-1 tvg-logo="https://backend.laguia.tv/uploads/TNTSeries_4ed0f6fd8e.png" group-title="Peliculas", TNT Series
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5179.m3u8
 
-#EXTINF:-1 tvg-logo="http://144.217.80.14/photo/tntsport.jpg" group-title="Deportes", TNT Sports
-http://budtvlight.com:25461/live/fernando/1234/12109.m3u8
-
 #EXTINF:-1 group-title="Cámaras", Torreón del Monje
 https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.trece.com.py/public/img/Logo-Trece-Nuevo.png" group-title="General", Trece Paraguay
 http://174.138.118.252/live/trece.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="General", TruTv
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6778.m3u8
 
 #EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/4b4cf4526a6f128369e38d39fc67adff.png" group-title="Deportes", TUDN
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8100.m3u8
@@ -1127,9 +1022,6 @@ http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png" group-title="General", TVN Panamá
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Local", TN
-http://budtvlight.com:25461/live/fernando/1234/1811.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
@@ -1185,17 +1077,8 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title="General", VOA Estados Unidos
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", VTV HD
-http://budtvlight.com:25461/live/fernando/1234/1818.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", VTV Plus
-http://budtvlight.com:25461/live/fernando/1234/1817.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="General", WAPA
-http://budtvlight.com:25461/live/fernando/1234/2169.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="General", WAPA 2
-http://budtvlight.com:25461/live/fernando/1234/2166.m3u8
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7277.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="General", Warner Tv
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/6775.m3u8
@@ -1205,9 +1088,6 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7732.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gesell.tur.ar/image/685x5d3da/26239603-1562823000462532-1644324590284977691-n.jpg" group-title="Cámaras", Windy Villa Gesell
 https://video.estadodelmar.com.ar/mobile/vgesell/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/WIPR-TV_logo_2016.png" group-title="General", WIPR Tv
-http://budtvlight.com:25461/live/fernando/1234/2165.m3u8
 
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="Peliculas", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
