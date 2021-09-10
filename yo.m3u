@@ -349,7 +349,7 @@ http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="Local", Canal Coop Jesus María
-https://panel.dattalive.com/8138/8138/playlist.m3u8
+https://panel.dattalive.com/8138/8138/media_w653584783_55947.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freyre.com.ar/static/media/logotype.86814cc6.svg" group-title="Local", Canal Cooperativo Freyre
 https://online.coopmorteros.coop/freyre/freyre.m3u8
@@ -454,7 +454,7 @@ http://190.122.96.187:8888/http/010
 https://sanjuan.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2021/02/cropped-Logo-CVI_Bco-1.png" group-title="Local", CVI
-https://panel.dattalive.com/8078/8078/playlist.m3u8
+https://panel.dattalive.com/8078/8078/media_w696068280_1482.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="Local", Del Sur Tv San Juan
 http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
@@ -475,7 +475,7 @@ http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7274.m3u8
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7275.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/x-a6TMo2CivvITwkx8SL8jtgaD1-za9NWUZemkt0-yfE8_fuSMzpE5kSElsT-YfaZfuLz-J1Nt1ml1X3cjR54CSYtEqgEl13Z_7rsdGD3BM4NKrLk_tCF6GNt4T47dwegYAk-mb91rY" group-title="Local", DSR Medios
-https://panel.dattalive.com/8114/8114/playlist.m3u8
+https://panel.dattalive.com/8114/8114/media_w1846069785_9457.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
