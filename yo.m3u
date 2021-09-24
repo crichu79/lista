@@ -60,6 +60,9 @@ https://varese.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="https://lafabricadelatele.com/wp-content/uploads/2016/04/bemad.jpg" group-title="General", Be Mad HD
 http://91.126.138.140:1935/live/bemad/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Deportes", Bein Sport
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/54590.m3u8
+
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="Deportes", Best Cable Sport
 https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 
@@ -381,6 +384,9 @@ https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/237_Ciudad_TV.jpg" group-title="Local", Ciudad Tv Resistencia
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sport
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41011.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", CL3 Cablevisión
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
 
@@ -442,7 +448,19 @@ https://elmolino.freewaves.live/hls/live.stream.m3u8
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes", ESPN 1
-http://flowfhd.xyz:25461/live/Annabelle/12345/179890.m3u8
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41010.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN 2
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41009.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN 3
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41008.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Deportes", ESPN Deportes
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41023.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="Deportes", ESPN Extra
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41500.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1024px-Esport3.svg.png" group-title="Deportes", Esport3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
@@ -459,6 +477,33 @@ https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png" group-title="Peliculas", FMTV 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="Peliculas", Fox Action
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41516.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Cinema_HD.png" group-title="Peliculas", Fox Cinema
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41517.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/FOX_Classics_HD.png" group-title="Peliculas", Fox Classics
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41518.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/FOX_Family_HD.png" group-title="Peliculas", Fox Family
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41519.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Hits_pack.png" group-title="Peliculas", Fox Movies
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41520.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Series_HD.png" group-title="Peliculas", Fox Series
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41521.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes", Fox Sport 1
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/54593.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes", Fox Sport 2
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/54594.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", Fox Sport 3
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41498.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
@@ -473,6 +518,24 @@ http://flowfhd.xyz:25461/live/Annabelle/12345/176361.m3u8
 
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png"" group-title="General", Gourmet Tv
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VBzKGK3/Sin-t-tulo-1.png" group-title="Peliculas", HBO
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41522.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Peliculas", HBO 2
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41015.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/1651px-HBO_Family.svg.png" group-title="Peliculas", HBO Family
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41016.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Peliculas", HBO Mundi
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/20422.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1894px-HBO_Xtreme.svg.png" group-title="Peliculas", HBO Xtreme
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41018.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCtBKcV/Sin-t-tulo-1.png" group-title="Peliculas", HBO+
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41523.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Hijos del Mar Miramar
 https://video.estadodelmar.com.ar/mobile/miramar/index.m3u8
@@ -587,6 +650,9 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/767_N24TV.png" group-title="Noticias", N24Tv
 https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NBA_script.svg/1920px-NBA_script.svg.png" group-title="Deportes", NBA Tv
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41495.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="Local", Neo Tv Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -717,23 +783,11 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4" group-title="Local", Speed Tv
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-action_m.png" group-title="Peliculas", Star Action
-http://flowfhd.xyz:25461/live/Annabelle/12345/103255.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="General", Star Channel
-http://flowfhd.xyz:25461/live/Annabelle/12345/103245.m3u8
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/40981.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/b96db8f2e6e88aacea7aed330c019aee.gif" group-title="Peliculas", Star Fun
-http://flowfhd.xyz:25461/live/Annabelle/12345/103258.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Hits_pack.png" group-title="Peliculas", Star Hits
-http://flowfhd.xyz:25461/live/Annabelle/12345/119503.m3u8
-
-#EXTINF:-1 tvg-logo="https://uspto.report/TM/90480911/mark.png" group-title="Peliculas", Star Life
-http://flowfhd.xyz:25461/live/Annabelle/12345/176364.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/9f8c9cd5c2d2376d40236eba5ff85258.gif" group-title="Peliculas", Star Series
-http://flowfhd.xyz:25461/live/Annabelle/12345/103259.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="Peliculas", Star Life
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41512.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/244_T5_Satelital.png" group-title="Local", T5 Satelital
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
@@ -816,6 +870,12 @@ https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b5/b7/31/b5b731ccaaa476a34e16f22878df4c1d.png" group-title="General", TLT La Tele Tuya
 https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w326354980.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1280px-TNT_Logo_2016.svg.png" group-title="Peliculas", TNT
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41014.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Peliculas", TNT Series
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/40993.m3u8
+
 #EXTINF:-1 group-title="Cámaras", Torreón del Monje
 https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
 
@@ -873,6 +933,9 @@ https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/702_Unitel.png" group-title="General", Unitel
 https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo.png" group-title="General", Universal
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/40989.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/304_UTN_TV.png" group-title="Educativos, UTN Tv
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
 
@@ -900,8 +963,14 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title="General", VOA Estados Unidos
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", WAPA
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/40973.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/615px-WAPA-TV_logo.svg.png" group-title="Deportes", WAPA Deportes
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/41496.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1058px-Warner_Channel.svg.png" group-title="General", Warner Tv
-http://flowfhd.xyz:25461/live/Annabelle/12345/176388.m3u8
+http://gratuita.mrzutv.net:8080/live/pruebaspruebas11093838/pruebaspruebas11093838/40990.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="Deportes", Win Sports
 http://flowfhd.xyz:25461/live/Annabelle/12345/181828.m3u8
