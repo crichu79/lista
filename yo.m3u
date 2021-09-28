@@ -25,7 +25,7 @@ http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_a-e-mundo_m.png" group-title="General", A&E
-http://flowfhd.xyz:25461/live/Annabelle/12345/176401.m3u8
+http://45.225.204.7:8000/play/a05b
 
 #EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="Local", Albardón Tv
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
@@ -61,7 +61,7 @@ http://arcast.com.ar:1935/atbargentina/atbargentina/playlist.m3u8
 http://cam104y3.gesell.com.ar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/13f44661e6ac4c1b1fcee0647d3b99b0.gif" group-title="General", AXN
-http://flowfhd.xyz:25461/live/Annabelle/12345/103219.m3u8
+http://45.225.204.7:8000/play/a05e
 
 #EXTINF:-1 tvg-logo="https://images.prismic.io/freewaves/b87e03d8-7092-4e3d-8813-da04f72ad492_COMPLEJO-VARESE.jpg" group-title="Cámaras", Bahía Varese
 https://varese.freewaves.live/hls/live.stream.m3u8
@@ -391,7 +391,7 @@ https://mediacpstreamchile.com:1936/walter/walter/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Peliculas", Cinecanal
-http://45.225.204.7:8000/play/a05s
+http://flowfhd.xyz:25461/live/Annabelle/12345/176379.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/519435098c4bbc67fdc839d2ddadf5dd.gif" group-title="Peliculas", Cinemax
 http://45.225.204.7:8000/play/a06a
@@ -466,10 +466,10 @@ https://elmolino.freewaves.live/hls/live.stream.m3u8
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Deportes", ESPN 1
-http://45.225.204.7:8000/play/a02q
+http://45.225.204.7:8000/play/a02r
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN 2
-http://45.225.204.7:8000/play/a02r
+http://45.225.204.7:8000/play/a02q
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN 3
 http://45.225.204.7:8000/play/a069
