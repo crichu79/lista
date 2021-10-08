@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Camaras", Patio Casa
-rtsp://190.105.80.157:555/2/1:1/main
-
-#EXTINF:-1 group-title="Camaras", Frente Casa
-rtsp://190.105.80.157:556/2/1:1/main
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="Local", 12 Tartagal
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 
@@ -531,14 +525,17 @@ https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png" group-title="Peliculas", FMTV 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes", Fox Sport 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes", Fox Sports 1
 http://chapotv.com:8080/live/Miguel/Miguel2020/132820.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes", Fox Sport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes", Fox Sports 2
 http://chapotv.com:8080/live/Miguel/Miguel2020/132828.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", Fox Sport 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes", Fox Sports 3
 http://chapotv.com:8080/live/Miguel/Miguel2020/132834.m3u8
+
+#EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/deportes/foxsportspremium.png" group-title="Deportes", Fox Sports Premium
+http://chapotv.com:8080/live/Miguel/Miguel2020/118400.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
@@ -703,7 +700,7 @@ http://162.212.176.51:1935/live/myStream/playlist.m3u8
 http://chapotv.com:8080/live/Miguel/Miguel2020/161116.m3u8
 
 #EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/f080656d815d23093dacd4cc5342436d.png" group-title="Deportes", Movistar Deportes
-http://flowfhd.xyz:25461/live/Annabelle/12345/180103.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/141085.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/284_Multivision.png" group-title="Local", Multivisión
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
@@ -1001,9 +998,6 @@ http://flowfhd.xyz:25461/live/Annabelle/12345/176404.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Peliculas", TNT Series
 http://flowfhd.xyz:25461/live/Annabelle/12345/103338.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", TNT Sports
-http://flowfhd.xyz:25461/live/Annabelle/12345/179858.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Torreón del Monje
 https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
