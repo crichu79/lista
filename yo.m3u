@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Camaras", Patio Casa
+rtsp://190.105.80.157:555/2/1:1/main
+
+#EXTINF:-1 group-title="Camaras", Frente Casa
+rtsp://190.105.80.157:556/2/1:1/main
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="Local", 12 Tartagal
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 
@@ -400,10 +406,10 @@ https://mediacpstreamchile.com:1936/walter/walter/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cinecanal.svg" group-title="Peliculas", Cinecanal
-http://chapotv.com:8080/live/Miguel/Miguel2020/161157.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/140366.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/519435098c4bbc67fdc839d2ddadf5dd.gif" group-title="Peliculas", Cinemax
-http://chapotv.com:8080/live/Miguel/Miguel2020/161155.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/140345.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Musicales", City Music Tv
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
@@ -493,10 +499,10 @@ https://santaclara.freewaves.live/hls/live.stream.m3u8
 http://chapotv.com:8080/live/Miguel/Miguel2020/132813.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN 2
-http://chapotv.com:8080/live/Miguel/Miguel2020/140884.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/132805.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN 3
-http://chapotv.com:8080/live/Miguel/Miguel2020/140881.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/43818.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/14ade882b6f57feea037b8cd94137058.gif" group-title="Deportes", ESPN Deportes
 http://chapotv.com:8080/live/Miguel/Miguel2020/43817.m3u8
@@ -862,37 +868,37 @@ http://flowfhd.xyz:25461/live/Annabelle/12345/103313.m3u8
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="Peliculas", Star Action
-http://flowfhd.xyz:25461/live/Annabelle/12345/103255.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/161143.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Peliculas", Star Channel
-http://flowfhd.xyz:25461/live/Annabelle/12345/103245.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/43721.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/c725f85624e95cd75c063cd144990730.gif" group-title="Peliculas", Star Cinema
-http://flowfhd.xyz:25461/live/Annabelle/12345/176398.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/161160.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/FOX_Classics_HD.png" group-title="Peliculas", Star Classics
-http://flowfhd.xyz:25461/live/Annabelle/12345/176367.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/140369.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/e0103f852ad9378f57bed4e7ed0201b7.gif" group-title="Peliculas", Star Comedy
-http://flowfhd.xyz:25461/live/Annabelle/12345/103256.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/161145.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/FOX_Family_HD.png" group-title="Peliculas", Star Fun
-http://flowfhd.xyz:25461/live/Annabelle/12345/103258.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/161150.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/d89fe364429e8e5b8645e862bbc35985.gif" group-title="Peliculas", Star Life
-http://flowfhd.xyz:25461/live/Annabelle/12345/176364.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/140620.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Hits_pack.png" group-title="Peliculas", Star Hits
-http://flowfhd.xyz:25461/live/Annabelle/12345/119503.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/140354.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/FOX_Series_HD.png" group-title="Peliculas", Star Series
-http://flowfhd.xyz:25461/live/Annabelle/12345/103259.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/162015.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/220px-Logo_Studio_Universal.svg.png" group-title="General", Studio Universal
-http://flowfhd.xyz:25461/live/Annabelle/12345/103237.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/140663.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.logo-designer.co/wp-content/uploads/2017/05/2017-syfy-new-logo-design.png" group-title="General", Syfy
-http://flowfhd.xyz:25461/live/Annabelle/12345/103333.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/43705.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/244_T5_Satelital.png" group-title="Local", T5 Satelital
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
