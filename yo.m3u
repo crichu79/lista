@@ -1012,7 +1012,13 @@ http://flowfhd.xyz:25461/live/Annabelle/12345/176390.m3u8
 https://panel.dattalive.com/tsnnecochea/tsnnecochea/media_w1966486706_8362.m3u8
 
 #EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/4b4cf4526a6f128369e38d39fc67adff.png" group-title="Deportes", TUDN
-http://flowfhd.xyz:25461/live/Annabelle/12345/118107.m3u8
+http://chapotv.com:8080/live/Miguel/Miguel2020/132851.m3u8
+
+#EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/deportes/tudn.png" group-title="Deportes", TUDN XTRA
+http://chapotv.com:8080/live/Miguel/Miguel2020/162000.m3u8
+
+#EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/deportes/tudn.png" group-title="Deportes", TUDN XXL
+http://chapotv.com:8080/live/Miguel/Miguel2020/70172.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/788_TV_Dos_Salta.jpg" group-title="Local", Tv Dos
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
