@@ -339,6 +339,9 @@ https://panel.dattalive.com/8076/8076/media_w7568022_14062.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Canal 9 Río Cuarto
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="Local", Canal 9 Televida
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="Local", Canal Coop Jesus María
 https://panel.dattalive.com/8138/8138/media_w653584783_55947.m3u8
 
@@ -353,6 +356,9 @@ https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/801_Canal_Provincial.jpg" group-title="Local", Canal Provincial
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General", Canal RCN
+https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/310_Canal_Rural.jpg" group-title="Local", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
@@ -444,6 +450,9 @@ http://91.126.141.13:1935/live/51/1800-def.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="Noticias", Cubavisión
 http://190.122.96.187:8888/http/010
 
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Cuesta del Viento San Juan
+https://sanjuan.freewaves.live/hls/live.stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2021/02/cropped-Logo-CVI_Bco-1.png" group-title="Local", CVI
 https://panel.dattalive.com/8078/8078/media_w696068280_1482.m3u8
 
@@ -515,6 +524,9 @@ https://elmolino.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", El Nueve Tv
 http://edge1.stg.cvattv.com.ar/live/live2/Canal9/SA_Live_fta/Canal9.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", El Once Tv
+https://elonceovh.elonce.com/hls/live.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Escollera Santa Clara del Mar
 https://santaclara.freewaves.live/hls/live.stream.m3u8
@@ -666,6 +678,9 @@ http://66.128.32.245/output/iteltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ikanpari.com.ar/wp-content/uploads/2020/08/logo-kikiwai-300x225.jpg" group-title="Cámaras", Kikiwai / Waikiki
 https://video.estadodelmar.com.ar/mobile/waikiki/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdF2OWsG279GrL9Ynlqp5shmDy5aoY05ybWKexhneNLAHcQkbAt_vdSrIb5CzZBomU-E&usqp=CAU" group-title="Cámaras", Kite Gesell
+https://kitegesell.freewaves.live/hls/live.stream.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="Local", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
@@ -780,6 +795,9 @@ https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/285_Net_TV.png" group-title="General", Net Tv
 https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Nicavision1993.png/revision/latest?cb=20180426154048" group-title="General", Nicavisión Tv
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="Noticias", Noticias Caracol
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
@@ -869,9 +887,6 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a3/Radionorba_tv.png" group-title="Musicales", Radionorba
 https://stream9.xdevel.com/video0s975885-996/stream/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="General", Canal RCN
-https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://remansotv.info/wp-content/uploads/2021/05/logo-remansotv.png" group-title="Local", Remanzo Tv
 https://stmvideo1.livecastv.com/remansotv/remansotv/playlist.m3u8
@@ -963,6 +978,9 @@ https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/475_Tele_Mas.png" group-title="General", Tele Mas
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", Teleamazonas
+https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="General", Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8
 
@@ -1052,6 +1070,9 @@ http://174.138.118.252/live/trece.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="General", TruTv
 http://chapotv.com:8080/live/Miguel/Miguel2020/43698.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.treslineas.com.ar/foto/nota-1585649-senal-informativa-cable-local-despidio-trabajadores-927024.jpg?imgres=1000x0x80" group-title="Local", TSN Necochea
+https://panel.dattalive.com/tsnnecochea/tsnnecochea/media_w1966486706_8362.m3u8
 
 #EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/4b4cf4526a6f128369e38d39fc67adff.png" group-title="Deportes", TUDN
 http://chapotv.com:8080/live/Miguel/Miguel2020/132851.m3u8
