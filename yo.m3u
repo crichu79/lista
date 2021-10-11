@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://011011011.com:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="Deportes", #Vamos
@@ -13,8 +12,8 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="Musicales", 1HD Music Television
 https://sc.id-tv.kz/1hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="Cámaras", 5900 Tv
-https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="Cámaras", Canal 4 Villa María Web
+https://videohd.live:19360/8114/8114.m3u8  
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/221_5R_TV_Santa_Fe.png" group-title="Local", 5R Tv
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
@@ -44,7 +43,7 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://zeroxtv.xyz:2082/images/ea628af489b5a82f0c7b297d12443e3a.png" group-title="General", AMC Networks
-http://chapotv.com:8080/live/Miguel/Miguel2020/140903.m3u8
+https://qlobbidev.s.llnwi.net/bpk-tv/AMC/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.jpg" group-title="Local", América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
@@ -410,7 +409,7 @@ https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/2041px-Claro_Sports_logo.svg.png" group-title="Deportes", Claro Sports
-http://45.179.140.242:8000/play/a0ht
+https://claro-jw.cdn.vustreams.com/live/channel08/live.isml/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/deportes/clarosports1.png" group-title="Deportes", Claro Sports 2
 http://chapotv.com:8080/live/Miguel/Miguel2020/132800.m3u8
@@ -423,6 +422,9 @@ https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/893_Complejo_Dance.png" group-title="Musicales", Complejo Dance
 https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Coope Tv
+https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="Local", Correa Radiovisión
 http://arcast.net:1935/correadigital/canal12/playlist.m3u8
@@ -452,7 +454,7 @@ http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wpcf92jvgw68d7w/PicsArt_12-04-12.34.33.jpg?dl=1" group-title="Peliculas", DHE
-http://chapotv.com:8080/live/Miguel/Miguel2020/140980.m3u8
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/90774583ba793531640321a5514beb55.png" group-title="Deportes", Directv Sports
 http://chapotv.com:8080/live/Miguel/Miguel2020/182619.m3u8
@@ -463,8 +465,11 @@ http://chapotv.com:8080/live/Miguel/Miguel2020/132803.m3u8
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/6997214081f7c8c5361c1b7e7b93a62f.jpg" group-title="Deportes", Directv Sports Plus
 http://chapotv.com:8080/live/Miguel/Miguel2020/132804.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", Discovery HD
+http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHD/SA_Live_fta/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/discovery_hh.png" group-title="General", Discovery H&H
-http://chapotv.com:8080/live/Miguel/Miguel2020/140599.m3u8
+http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/discovery_science.png" group-title="General", Discovery Science
 http://chapotv.com:8080/live/Miguel/Miguel2020/140596.m3u8
@@ -474,6 +479,18 @@ http://chapotv.com:8080/live/Miguel/Miguel2020/140604.m3u8
 
 #EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/latino/discovery_turbo.png" group-title="General", Discovery Turbo
 http://chapotv.com:8080/live/Miguel/Miguel2020/140630.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Familiares", Disney Channel
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Familiares", Disney Jr
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Familiares", Disney XD
+https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General", Distrito Comedia
+https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/x-a6TMo2CivvITwkx8SL8jtgaD1-za9NWUZemkt0-yfE8_fuSMzpE5kSElsT-YfaZfuLz-J1Nt1ml1X3cjR54CSYtEqgEl13Z_7rsdGD3BM4NKrLk_tCF6GNt4T47dwegYAk-mb91rY" group-title="Local", DSR Medios
 https://panel.dattalive.com/8114/8114/media_w1846069785_9457.m3u8
@@ -495,6 +512,9 @@ https://5f93e494d5906.streamlock.net:443/elecotv/elecotv/playlist.m3u8
 
 #EXTINF:-1 group-title="Cámaras", El Molino San Isidro
 https://elmolino.freewaves.live/hls/live.stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", El Nueve Tv
+http://edge1.stg.cvattv.com.ar/live/live2/Canal9/SA_Live_fta/Canal9.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Escollera Santa Clara del Mar
 https://santaclara.freewaves.live/hls/live.stream.m3u8
@@ -519,6 +539,9 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Peliculas", Europa Europa
+https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes", Eurosport 1
 http://chapotv.com:8080/live/Miguel/Miguel2020/43782.m3u8
@@ -557,7 +580,7 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 http://chapotv.com:8080/live/Miguel/Miguel2020/140962.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/9e58eb4e83b4e52ab7338d850a9bd0ba.gif" group-title="Peliculas", FXM
-http://chapotv.com:8080/live/Miguel/Miguel2020/140589.m3u8
+https://qlobbidev.s.llnwi.net/bpk-tv/FXM/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE Tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
@@ -566,10 +589,10 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sl
 https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/b3a6dc9abcbe4d1b1cc047c7cd0d1bd0.gif" group-title="Peliculas", Golden
-http://chapotv.com:8080/live/Miguel/Miguel2020/161194.m3u8
+https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/1cb57733de4cb7ce7e83be012ac553ea.gif" group-title="Peliculas", Golden Edge
-http://chapotv.com:8080/live/Miguel/Miguel2020/161172.m3u8
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/ed60eb25c6ef2a03b6b7386a954058e4.gif" group-title="Peliculas", Golden Plus
 http://chapotv.com:8080/live/Miguel/Miguel2020/161170.m3u8
@@ -613,6 +636,9 @@ https://video.estadodelmar.com.ar/mobile/miramar/index.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="Noticias", HispanTv
 https://live.presstv.ir/live/smil:live.smil/chunklist_w103426595_b644100_slen.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", History HD
+http://edge1.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta//HistoryHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="General", HOLA Tv
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
@@ -625,11 +651,17 @@ https://video.estadodelmar.com.ar/mobile/hguerrero/index.m3u8
 #EXTINF:-1 group-title="Cámaras", Playa Luna Roja MDQ
 https://video.estadodelmar.com.ar/mobile/lunaroja/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Imagen Regional Alejo Ledesma
+https://videohd.live:19360/8078/8078.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="Local", Infomedia
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/216_Informacion_Periodistica.jpg" group-title="Noticias", IP Noticias
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+#EXTINF:-1 tvg-logo="https://itel.com.ar/web/image/res.company/1/logo/Itel%20S.A.?unique=18bdb79" group-title="Local", Itel Chajarí
+http://66.128.32.245/output/iteltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ikanpari.com.ar/wp-content/uploads/2020/08/logo-kikiwai-300x225.jpg" group-title="Cámaras", Kikiwai / Waikiki
 https://video.estadodelmar.com.ar/mobile/waikiki/index.m3u8
@@ -658,11 +690,17 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/IhpU74mr7C1kiFTILJvZuht-JTu-0nQYl7U45J7MyxzMwlb7iltJjDSBnM492FSO9X4eLqflBjERvj1_IBpcStDzmtKizpl-vXPLBQ" group-title="Cámaras", Las Brusquitas Miramar
 https://brusquitas.freewaves.live/hls/live.stream.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", Las Estrellas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://flowfhd.xyz:25461/images/6d3ec6bb240b622e53a511a091989642.png" group-title="Peliculas", Lifetime
 http://chapotv.com:8080/live/Miguel/Miguel2020/43715.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png" group-title="Educativos", Litus Tv
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="Familiares", Los Simpsons Tv
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/242_Medios_Rioja.jpg" group-title="Local", Medios Rioja
 http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
@@ -721,8 +759,17 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/767_N24TV.png" group-title="Noticias", N24Tv
 https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", Nat Geo Wild
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General", National Geographic
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NBA_script.svg/1920px-NBA_script.svg.png" group-title="Deportes", NBA Tv
 http://202.150.161.254:4000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.necochea.gov.ar/wp-content/uploads/2021/07/logo-muni.jpg" group-title="Cámaras", Necochea
+https://streaming.reltid.com.ar/hls/neco.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="Local", Neo Tv Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -823,6 +870,12 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a3/Radionorba_tv.png" group-title="Musicales", Radionorba
 https://stream9.xdevel.com/video0s975885-996/stream/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", Canal RCN
+https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://remansotv.info/wp-content/uploads/2021/05/logo-remansotv.png" group-title="Local", Remanzo Tv
+https://stmvideo1.livecastv.com/remansotv/remansotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Musicales", Retromusic Televisión
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
@@ -837,6 +890,12 @@ https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1397093851/logosantaclara_400x400.jpg" group-title="Cámaras", Santa Clara La Martina
 https://video.estadodelmar.com.ar/mobile/santaclara/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.santaeufemiaweb.com/img/portadaNueva.png" group-title="Local", Santa Eufemia Web
+http://inliveserver.com:1935/14094/14094/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="Religiosos", Santa María
+http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZCgF1BmCKIw/Xv0NsKVkVlI/https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpgAAAAAAAA2ZY/A_W0oDbGNlgQn30-qgJYIBFpz9nCjpGGACK8BGAsYHg/s0/2020-07-01.jpg" group-title="Local", Sicardi Tv
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
@@ -854,10 +913,10 @@ http://chapotv.com:8080/live/Miguel/Miguel2020/140351.m3u8
 http://chapotv.com:8080/live/Miguel/Miguel2020/140587.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="Peliculas", Star Action
-http://chapotv.com:8080/live/Miguel/Miguel2020/161143.m3u8
+http://cdn.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox_m.png" group-title="Peliculas", Star Channel
-http://chapotv.com:8080/live/Miguel/Miguel2020/43721.m3u8
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.picasion.com/pic91/c725f85624e95cd75c063cd144990730.gif" group-title="Peliculas", Star Cinema
 http://chapotv.com:8080/live/Miguel/Miguel2020/161160.m3u8
@@ -919,6 +978,12 @@ http://chapotv.com:8080/live/Miguel/Miguel2020/141036.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png" group-title="Local", Telediario Televisión
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", Telefe HD
+http://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/TelefeHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png" group-title="Local", Telefe Mar del Plata
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0112
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="Local", Telejunín
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 
@@ -967,8 +1032,11 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/tiva8.png" group-title="General", Tiva Tv
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/145px-TN_todo_noticias_logo.svg.png" group-title="Noticias", TN
+http://edge1.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1280px-TNT_Logo_2016.svg.png" group-title="Peliculas", TNT
-http://chapotv.com:8080/live/Miguel/Miguel2020/43699.m3u8
+http://edge1.stg.cvattv.com.ar/live/live2/TNT/SA_Live_fta/TNT.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Peliculas", TNT Series
 http://chapotv.com:8080/live/Miguel/Miguel2020/43700.m3u8
@@ -996,6 +1064,9 @@ http://chapotv.com:8080/live/Miguel/Miguel2020/70172.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/788_TV_Dos_Salta.jpg" group-title="Local", Tv Dos
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Tv Pública HD
+http://edge1.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/298_TV_Publica_Fueguina.png" group-title="Local", Tv Pública Fueguina
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
@@ -1044,6 +1115,9 @@ https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo.png" group-title="General", Universal
 http://chapotv.com:8080/live/Miguel/Miguel2020/161166.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.unocontraunoweb.com/wp-content/uploads/2018/05/UCU-RETINA-01-01-300x99.png" group-title="Deportes", Uno Contra Uno Tv
+https://stmvideo1.livecastv.com/ucuweb/ucuweb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/304_UTN_TV.png" group-title="Educativos, UTN Tv
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
@@ -1098,3 +1172,6 @@ https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/277_Canal_XFN.png" group-title="Local", XFN 41
 https://5f6e1fe8f2d2e.streamlock.net:443/canalxfn/canalxfn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Zonda Tv
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
