@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Frente
 rtsp://admin:pumillo@190.105.80.157:556/2/1:1/main
 
-#EXTINF:-1 tvg-logo="http://011011011.com:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="Deportes", #Vamos
-http://chapotv.com:8080/live/Miguel/Miguel2020/141101.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="Local", 12 Tartagal
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 
