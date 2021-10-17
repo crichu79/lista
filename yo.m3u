@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Cámaras"
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Frente
 rtsp://admin:pumillo@190.105.80.157:556/2/1:1/main
 
 #EXTINF:-1 tvg-logo="http://011011011.com:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="Deportes", #Vamos
