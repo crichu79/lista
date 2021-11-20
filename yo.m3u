@@ -132,6 +132,9 @@ https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?Playlis
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-12-telecanal-republica-dominicana-en-vivo.jpg" group-title="General", Canal 12 Rep. Dom.
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1129098446428868608/ab0xYu_B.jpg" group-title="Local", Canal 12 Trenque Lauquen
+https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/227_Canal_13_La_Rioja.jpg" group-title="Local", Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
