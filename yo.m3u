@@ -363,6 +363,9 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png" group-title="General", CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas", Cinecanal HD
+http://201.111.178.167:8002/play/a01u/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="Peliculas", Cineclub
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8
 
