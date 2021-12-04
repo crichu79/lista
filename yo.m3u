@@ -328,7 +328,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/801_Canal_Provincial.jpg" group-title="Local", Canal Provincial
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/310_Canal_Rural.jpg" group-title="Local", Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
@@ -363,10 +363,7 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png" group-title="General", CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", Cinecanal HD
-http://201.111.178.167:8002/play/a01u/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="Peliculas", Cineclub
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="Peliculas", Cine Club
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Musicales", City Music Tv
@@ -419,6 +416,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/99_Ecotel_TV.jpg" group-title="General", Ecotel Tv
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/281_El_10_TV_Salta.png" group-title="Local", El 10 Tv
 http://35.247.241.16:8080/stream.m3u8
@@ -529,7 +529,7 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 https://brusquitas.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/limtvok/picture?width=300&height=300" group-title="General", LIM Tv
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png" group-title="Educativos", Litus Tv
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
@@ -741,16 +741,19 @@ https://videohd.live:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/308_Tele_Estrella.png" group-title="Local", Tele Estrella
 https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1026_Tele_Mix.png" group-title="Local", Tele Mix
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="General", Teleamazonas
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png" group-title="General", Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2021/03/teledigitalpascanas.jpg" group-title="Local", Teledigital Pascanas Córdoba
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2021/03/teledigitalpascanas.jpg" group-title="Local", Teledigital Pascanas
 https://videohd.live:19360/8014/8014.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.feze9-1.fna.fbcdn.net/v/t1.6435-9/82414356_2534871536769708_6314512410942111744_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=973b4a&_nc_ohc=7pWMrQMb3B8AX94vJ0U&_nc_ht=scontent.feze9-1.fna&oh=7709f2714b45a9be73cab9b1ce472b86&oe=61BA18ED" group-title="Local", TIV Tres Isletas Chaco
+#EXTINF:-1 tvg-logo="https://scontent.feze9-1.fna.fbcdn.net/v/t1.6435-9/82414356_2534871536769708_6314512410942111744_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=973b4a&_nc_ohc=7pWMrQMb3B8AX94vJ0U&_nc_ht=scontent.feze9-1.fna&oh=7709f2714b45a9be73cab9b1ce472b86&oe=61BA18ED" group-title="Local", TIV Tres Isletas
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="Local", Telecinco Trelew
