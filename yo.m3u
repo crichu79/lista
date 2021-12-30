@@ -295,22 +295,22 @@ https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 La Costa
-https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/playlist.m3u8
+https://streamconex.com:1936/lacosta/lacosta/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/272_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Mar del Plata
-https://5f6e1fe8f2d2e.streamlock.net:443/mardelplata/mardelplata/playlist.m3u8
+https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Puán
-https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8
+https://streamconex.com:1936/puan/puan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 San Juan
-https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/playlist.m3u8
+https://streamconex.com:1936/sanjuan/sanjuan/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Santa Clara del Mar
-https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/chunklist_w374403097.m3u8
+https://streamconex.com:1936/santaclara/santaclara/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Villa Maza
-https://5f6e1fe8f2d2e.streamlock.net/villamaza/villamaza/playlist.m3u8
+https://streamconex.com:1936/villamaza/villamaza/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/235_Canal_8_Catamarca.jpg" group-title="Local", Canal 8 Catamarca
 https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
@@ -391,7 +391,7 @@ https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8
 http://user.tvcluboficial.com/stream/nov/Nov/18.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas", Cinemax
-http://user.tvcluboficial.com/stream/nov/Nov/20.m3u8
+http://user.tvcluboficial.com/stream/nov/Nov/739.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Musicales", City Music Tv
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
@@ -715,7 +715,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 http://cammuelle.gesell.com.ar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/676441474142240768/1sDSKS9p_400x400.jpg" group-title="Cámaras", Museo Mar
-https://video.estadodelmar.com.ar/mobile/museomar/index.m3u8
+https://video2.estadodelmar.com.ar/mobile/museomar/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Musicales", MUSIC +
 http://s02.diazol.hu:10192/stream.m3u8
@@ -816,23 +816,23 @@ https://mariano.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 group-title="Cámaras", Playa Los Acantilados
 https://video.estadodelmar.com.ar/mobile/puravida/index.m3u8
 
+#EXTINF:-1 group-title="Cámaras", Playa Serena
+https://video2.estadodelmar.com.ar/mobile/serena/index.m3u8
+
 #EXTINF:-1 group-title="Cámaras", Playa Varese Norte
-https://video.estadodelmar.com.ar/mobile/varese/index.m3u8
+https://video2.estadodelmar.com.ar/mobile/varese/index.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Playa Varese Sur
 https://video.estadodelmar.com.ar/mobile/varese2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cámaras", Playas del Balcón
-https://cp.freewaves.live/hls/live.stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/243_Power.png" group-title="Local", Power HD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
-#EXTINF:-1 group-title="Cámaras", Punta Mogotes
-https://mogotes.freewaves.live/hls/live.stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/286_Quatro_TV.png" group-title="Local", Quatro Tv
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Quba MDQ
+https://video2.estadodelmar.com.ar/mobile/quba/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1872px-Radio_m2o_-_Logo_2019.svg.png" group-title="Musicales", Radio M2O Deejaystation
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
@@ -933,9 +933,6 @@ http://91.126.141.13:1935/live/61/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2021/03/teledigitalpascanas.jpg" group-title="Local", Teledigital Pascanas
 https://videohd.live:19360/8014/8014.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.feze9-1.fna.fbcdn.net/v/t1.6435-9/82414356_2534871536769708_6314512410942111744_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=973b4a&_nc_ohc=7pWMrQMb3B8AX94vJ0U&_nc_ht=scontent.feze9-1.fna&oh=7709f2714b45a9be73cab9b1ce472b86&oe=61BA18ED" group-title="Local", TIV Tres Isletas
-https://inliveserver.com:1936/14044/14044/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="Local", Telecinco Trelew
 https://videohd.live:19360/8016/8016.m3u8
 
@@ -992,6 +989,12 @@ https://stmvideo1.livecastv.com/teveocho/teveocho/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-byaRfvJfLqTsABgDZb6zXzK-owEfqnrOI7WdqTEANDFry7uFqmz4pfdui4jVw-opII&usqp=CAU" group-title="General", Ticavisión
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes", TigoSports 2
+http://user.tvcluboficial.com/stream/nov/Nov/764.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.feze9-1.fna.fbcdn.net/v/t1.6435-9/82414356_2534871536769708_6314512410942111744_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=973b4a&_nc_ohc=7pWMrQMb3B8AX94vJ0U&_nc_ht=scontent.feze9-1.fna&oh=7709f2714b45a9be73cab9b1ce472b86&oe=61BA18ED" group-title="Local", TIV Tres Isletas
+https://inliveserver.com:1936/14044/14044/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/tiva8.png" group-title="General", Tiva Tv
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
