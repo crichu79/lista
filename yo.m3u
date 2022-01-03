@@ -859,7 +859,7 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="Local", San Pedro Tv
-https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
+https://srv6.zcast.com.br/sptv/sptv/chunklist_w963734828.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1397093851/logosantaclara_400x400.jpg" group-title="Cámaras", Santa Clara La Martina
 https://video.estadodelmar.com.ar/mobile/santaclara/index.m3u8
@@ -990,8 +990,8 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/294_Terramia_TV.png" group-title="Musicales", Terramia Tv
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w258432612_b1864000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://multimedioteveochodigital.com/uploads/logo/logo_5cccaad4c70e1.png" group-title="Local", Teve Ocho Chepes
-https://stmvideo1.livecastv.com/teveocho/teveocho/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://multimedioteveochodigital.com/uploads/logo/logo_5cccaad4c70e1.png" group-title="Local", Teve Ocho Digital
+https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-byaRfvJfLqTsABgDZb6zXzK-owEfqnrOI7WdqTEANDFry7uFqmz4pfdui4jVw-opII&usqp=CAU" group-title="General", Ticavisión
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
@@ -1065,9 +1065,6 @@ https://dcunilive262-lh.akamaihd.net/i/dclive_1@424583/index_150_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="Educativos", UNIRIO Tv
 https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/702_Unitel.png" group-title="General", Unitel
-https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.unocontraunoweb.com/wp-content/uploads/2018/05/UCU-RETINA-01-01-300x99.png" group-title="Deportes", Uno Contra Uno Tv
 https://stmvideo1.livecastv.com/ucuweb/ucuweb/playlist.m3u8
 
@@ -1094,12 +1091,6 @@ https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="Musicales", Visión Tv Música
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="General", Viva Canal 5
-https://iptv-all.lanesh4d0w.codes/dominicanrepublic/viva-canal-5
-
-#EXTINF:-1 tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png" group-title="General", VOA
-https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/ECF9y/65c1dbd7ef.png" group-title="General", VTV
 http://user.tvcluboficial.com/stream/nov/Nov/708.m3u8
