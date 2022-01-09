@@ -48,6 +48,9 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2019/12/atv-x1.png" group-title="Local", ATV
 http://arcast.com.ar:1935/atbargentina/atbargentina/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ATV.pe/picture?width=320&height=320" group-title="General", ATV Perú
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Cámaras", Av 3 y 104 Villa Gesell
 http://cam104y3.gesell.com.ar/playlist.m3u8
 
@@ -333,6 +336,9 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General", Canal Antigua
 https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/plalist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal C
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canalccordoba
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="Local", Canal Coop Jesus María
 https://panel.dattalive.com/8138/8138/chunklist_w1776057719.m3u8
 
@@ -374,6 +380,9 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Chapadmalal
 https://video.estadodelmar.com.ar/mobile/chapadmalal/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General", Charrúa Tv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/charruatvcanal
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/117670_Chic_Magazine.png" group-title="General", Chic Magazine
 https://paneltv.online:1936/8056/8056/playlist.m3u8
@@ -1047,6 +1056,9 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png" group-title="General", TVN Panamá
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvx.com.sv/wp-content/uploads/2020/07/TVX-Favicon.png" group-title="General", TVX
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canaltvx
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
@@ -1091,6 +1103,9 @@ https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Visi%C3%B3n-TV-M%C3%BAsica-en-vivo-Online.png" group-title="Musicales", Visión Tv Música
 https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/vorterix/picture?width=320&height=320" group-title="Musicales", Vorterix
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
 
 #EXTINF:-1 tvg-logo="https://puu.sh/ECF9y/65c1dbd7ef.png" group-title="General", VTV
 http://user.tvcluboficial.com/stream/nov/Nov/708.m3u8
