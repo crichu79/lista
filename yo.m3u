@@ -6,9 +6,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", 13 Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="Musicales", 1HD Music Television
-https://sc.id-tv.kz/1hd.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/221_5R_TV_Santa_Fe.png" group-title="Local", 5R Tv
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
@@ -31,7 +28,7 @@ http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="Local", Albardón Tv
-https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
+https://59537faa0729a.streamlock.net/albardontv/albardontv/chunklist_w360897651.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", AMC
 http://user.tvcluboficial.com/stream/nov/Nov/183.m3u8
@@ -64,7 +61,7 @@ http://user.tvcluboficial.com/stream/nov/Nov/148.m3u8
 https://varese.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Bein Sports
-http://user.tvcluboficial.com/stream/nov/Nov/761.m3u8
+https://user.tvcluboficial.com/stream/web/play/376.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="Deportes", Best Cable Sport
 https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
@@ -109,7 +106,7 @@ http://inliveserver.com:1935/8292/8292/playlist.m3u8
 https://vivo.solumedia.com:19360/huinca/huinca.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Cabo Corrientes
-https://video.estadodelmar.com.ar/mobile/cabocorrientes/index.m3u8
+https://video2.estadodelmar.com.ar/mobile/cabocorrientes/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Musicales", Cadena Elite Tv
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
@@ -614,6 +611,9 @@ https://video.estadodelmar.com.ar/mobile/honubeach/index.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Hotel Guerrero MDQ
 https://video.estadodelmar.com.ar/mobile/hguerrero/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Hotel Las Rocas MDQ
+https://video.estadodelmar.com.ar/mobile/lasrocas/index.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Playa Luna Roja MDQ
 https://video.estadodelmar.com.ar/mobile/lunaroja/index.m3u8
