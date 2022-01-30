@@ -18,6 +18,9 @@ http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="Local", 9Link
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", A&E
+http://186.67.73.110:2221/play/a005
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/222_Acequia.png" group-title="Local", Acequia
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 
@@ -37,7 +40,7 @@ http://user.tvcluboficial.com/stream/nov/Nov/183.m3u8
 http://45.6.4.154/americatuc/vivo.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Animal Planet
-http://user.tvcluboficial.com/stream/nov/Nov/3.m3u8
+http://186.67.73.110:2221/play/a01c
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="Local", Argentinísima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
@@ -404,10 +407,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas", Cinecanal
-http://user.tvcluboficial.com/stream/nov/Nov/18.m3u8
+http://186.67.73.110:2221/play/a016
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas", Cinemax
-http://user.tvcluboficial.com/stream/nov/Nov/739.m3u8
+http://186.67.73.110:2221/play/a00k
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Musicales", City Music Tv
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
@@ -469,6 +472,9 @@ http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="Deportes", DEPORTv 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas", DHE
+http://186.67.73.110:2221/play/a01h
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes", DirectTV Sports
 http://user.tvcluboficial.com/stream/nov/Nov/259.m3u8
 
@@ -476,25 +482,19 @@ http://user.tvcluboficial.com/stream/nov/Nov/259.m3u8
 http://user.tvcluboficial.com/stream/nov/Nov/667.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="General", Discovery Channel
-http://user.tvcluboficial.com/stream/nov/Nov/22.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="General", Discovery Civilization
-http://user.tvcluboficial.com/stream/nov/Nov/23.m3u8
+http://186.67.73.110:2221/play/a01i
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="General", Discovery H&H
-http://user.tvcluboficial.com/stream/nov/Nov/24.m3u8
+http://186.67.73.110:2221/play/a00s
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="General", Discovery ID
-http://user.tvcluboficial.com/stream/nov/Nov/68.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="General", Discovery SCI
-http://user.tvcluboficial.com/stream/nov/Nov/26.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="General", Discovery Theater
+http://186.67.73.110:2221/play/a00t
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="General", Discovery Turbo
-http://user.tvcluboficial.com/stream/nov/Nov/28.m3u8
+http://186.67.73.110:2221/play/a025
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="General", Discovery World
-http://user.tvcluboficial.com/stream/nov/Nov/187.m3u8
+http://186.67.73.110:2221/play/a015
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
@@ -527,10 +527,10 @@ https://elonceovh.elonce.com/hls/live.m3u8
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes", ESPN
-http://user.tvcluboficial.com/stream/nov/Nov/530.m3u8
+http://186.67.73.110:2221/play/a00d
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes", ESPN 2
-http://user.tvcluboficial.com/stream/nov/Nov/531.m3u8
+http://186.67.73.110:2221/play/a00b
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes", ESPN+
 http://user.tvcluboficial.com/stream/nov/Nov/37.m3u8
@@ -551,10 +551,10 @@ https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes", Fox Sports
-http://user.tvcluboficial.com/stream/nov/Nov/402.m3u8
+http://186.67.73.110:2221/play/a01j
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes", Fox Sports 2
-http://user.tvcluboficial.com/stream/nov/Nov/410.m3u8
+http://186.67.73.110:2221/play/a00x
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes", Fox Sports 3
 http://user.tvcluboficial.com/stream/nov/Nov/511.m3u8
@@ -566,7 +566,7 @@ http://user.tvcluboficial.com/stream/nov/Nov/512.m3u8
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="General", FX
-http://user.tvcluboficial.com/stream/nov/Nov/42.m3u8
+http://186.67.73.110:2221/play/a00z
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="General", GARAGE Tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
@@ -578,7 +578,7 @@ http://user.tvcluboficial.com/stream/nov/Nov/812.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas", Golden
-http://user.tvcluboficial.com/stream/nov/Nov/57.m3u8
+http://186.67.73.110:2221/play/a01e
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Peliculas", Golden Edge
 http://user.tvcluboficial.com/stream/nov/Nov/58.m3u8
@@ -587,10 +587,10 @@ http://user.tvcluboficial.com/stream/nov/Nov/58.m3u8
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="General", H2
-http://user.tvcluboficial.com/stream/nov/Nov/61.m3u8
+http://186.67.73.110:2221/play/a01k
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas", HBO
-http://user.tvcluboficial.com/stream/nov/Nov/62.m3u8
+http://186.67.73.110:2221/play/a017
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas", HBO 2
 http://user.tvcluboficial.com/stream/nov/Nov/300.m3u8
@@ -752,10 +752,10 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="General", Nat Geo
-http://user.tvcluboficial.com/stream/nov/Nov/76.m3u8
+http://186.67.73.110:2221/play/a014
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="General", Nat Geo Wild
-http://user.tvcluboficial.com/stream/nov/Nov/77.m3u8
+http://186.67.73.110:2221/play/a00u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NBA_script.svg/1920px-NBA_script.svg.png" group-title="Deportes", NBA Tv
 http://user.tvcluboficial.com/stream/nov/Nov/838.m3u8
@@ -908,16 +908,16 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 https://5975e06a1f292.streamlock.net:4443/somosnoticias/somosnoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="General", Sony
-http://user.tvcluboficial.com/stream/nov/Nov/145.m3u8
+http://186.67.73.110:2221/play/a037
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="General", Space
-http://user.tvcluboficial.com/stream/nov/Nov/83.m3u8
+http://186.67.73.110:2221/play/a009
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png" group-title="Peliculas", Star Action
 http://user.tvcluboficial.com/stream/nov/Nov/46.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="General", Star Channel
-http://user.tvcluboficial.com/stream/nov/Nov/45.m3u8
+http://186.67.73.110:2221/play/a00v
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_cinema.png" group-title="Peliculas", Star Cinema
 http://user.tvcluboficial.com/stream/nov/Nov/47.m3u8
@@ -929,16 +929,16 @@ http://user.tvcluboficial.com/stream/nov/Nov/48.m3u8
 http://user.tvcluboficial.com/stream/nov/Nov/49.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Peliculas", Star Hits
-http://tv.teleclub.xyz/live/HLS_01/STAR_HITS/index.m3u8
+http://186.67.73.110:2221/play/a01m
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="General", Star Life
-http://user.tvcluboficial.com/stream/nov/Nov/746.m3u8
+http://186.67.73.110:2221/play/a01l
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" group-title="General", Star Series
 http://user.tvcluboficial.com/stream/nov/Nov/303.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="General", Studio Universal
-http://user.tvcluboficial.com/stream/nov/Nov/84.m3u8
+http://186.67.73.110:2221/play/a01a
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mwqrg/e525edd989.png" group-title="General", SyFy
 http://user.tvcluboficial.com/stream/nov/Nov/151.m3u8
@@ -1037,13 +1037,13 @@ https://inliveserver.com:1936/14044/14044/playlist.m3u8
 https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="Peliculas", TNT
-http://user.tvcluboficial.com/stream/nov/Nov/179.m3u8
+http://186.67.73.110:2221/play/a00j
 
 #EXTINF:-1 tvg-logo="https://puu.sh/vKOIx/06a80881a6.png" group-title="General", TNT Series
-http://user.tvcluboficial.com/stream/nov/Nov/90.m3u8
+http://186.67.73.110:2221/play/a00y
 
 #EXTINF:-1 tvg-logo="https://puu.sh/xTpGp/5bc4e5d1d6.png" group-title="Deportes", TNT Sports
-http://user.tvcluboficial.com/stream/nov/Nov/509.m3u8
+http://186.67.73.110:2221/play/a00a
 
 #EXTINF:-1 group-title="Cámaras", Torreón del Monje
 https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
@@ -1133,7 +1133,7 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 http://user.tvcluboficial.com/stream/nov/Nov/708.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mwdML/61aec19cb5.png" group-title="General", Warner Channel
-http://user.tvcluboficial.com/stream/nov/Nov/102.m3u8
+http://186.67.73.110:2221/play/a007
 
 #EXTINF:-1 tvg-logo="https://puu.sh/pdlrC/a1d2e6ddd5.png" group-title="Deportes", Win Sports
 http://user.tvcluboficial.com/stream/nov/Nov/292.m3u8
