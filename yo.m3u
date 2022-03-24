@@ -138,7 +138,7 @@ https://streamcasthd.com:1936/tvdiez/tvdiez/chunklist_w721075289.m3u8
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo Senillosa.jpg" group-title="Local", Canal 10 Senillosa
 https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w563112316.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local", Canal 10 Uruguay
+#EXTINF:-1 tvg-logo="" group-title="General", Canal 10 Uruguay
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELPIN.png" group-title="Local",Canal 11 De La Costa
