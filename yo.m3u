@@ -363,6 +363,9 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/276_Canal_U.png" group-title="Educativos", Canal U
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", Canal Visión Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/815_Celta_TV.jpg" group-title="Local", Celta Tv Tres Arroyos
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
