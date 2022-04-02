@@ -666,6 +666,9 @@ https://palmeras.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwF-4_r2fGxcD5OS6ZwymuSYJ9h735bdxqqDpPo2GnPesVPzQW-ufDbuZGkw9p_JJ_Q&usqp=CAU" group-title="Cámaras", Panorámica Mar Chiquita
 https://mchpano.freewaves.live/hls/live.stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://defensadelpublico.gob.ar/wp-content/uploads/2017/09/parestv.png" group-title="Local", Pares Tv Luján
+https://live-ak.vimeocdn.com/exp=1648922062~acl=%2Ff29d6325-cfc3-49b0-a190-924e319c0da9%2F%2A~hmac=952a00d785afa9594d9cd77e07edbd81f5c5e4fd239b16806d830f20b84e9ae5/f29d6325-cfc3-49b0-a190-924e319c0da9/chunklist_b416000.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6_pJ2aayldOYOW3ySqO5dLEvPRv9K51dC3TjDibPSvaIzZTDqbMYlZAJsKxZE0TeiuQ&usqp=CAU" group-title="Cámaras", Pinamar Septiembre Loft
 https://video.estadodelmar.com.ar/mobile/pinamar/index.m3u8
 
