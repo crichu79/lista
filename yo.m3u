@@ -228,6 +228,9 @@ https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzoPGuSonIau7hA6u2pL4PRlWIKuTzxw3JThMZooQ=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Canal 8 Posadas
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", Canal 8 Punta Cana
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 8 Valle de Uco Mza
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
@@ -660,9 +663,6 @@ https://palmeras.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwF-4_r2fGxcD5OS6ZwymuSYJ9h735bdxqqDpPo2GnPesVPzQW-ufDbuZGkw9p_JJ_Q&usqp=CAU" group-title="Cámaras", Panorámica Mar Chiquita
 https://mchpano.freewaves.live/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://defensadelpublico.gob.ar/wp-content/uploads/2017/09/parestv.png" group-title="Local", Pares Tv Luján
-https://live-ak.vimeocdn.com/exp=1648922062~acl=%2Ff29d6325-cfc3-49b0-a190-924e319c0da9%2F%2A~hmac=952a00d785afa9594d9cd77e07edbd81f5c5e4fd239b16806d830f20b84e9ae5/f29d6325-cfc3-49b0-a190-924e319c0da9/chunklist_b416000.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6_pJ2aayldOYOW3ySqO5dLEvPRv9K51dC3TjDibPSvaIzZTDqbMYlZAJsKxZE0TeiuQ&usqp=CAU" group-title="Cámaras", Pinamar Septiembre Loft
 https://video.estadodelmar.com.ar/mobile/pinamar/index.m3u8
 
@@ -676,16 +676,16 @@ https://mediacpstreamchile.com:1936/8140/8140/chunklist_w1349076296.m3u8
 https://videostream.shockmedia.com.ar:19360/playtv/playtv.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Playa Grande
-https://video.estadodelmar.com.ar/mobile/playagrande/index.m3u8
+https://video2.estadodelmar.com.ar/mobile/playagrande/index.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Playa Grande Biología
 https://srv.freewaves.live/hls/biologia/playlist.m3u8
 
-#EXTINF:-1 group-title="Cámaras", Playa Grande El Yacht Norte
-https://video.estadodelmar.com.ar/mobile/yacht/index.m3u8
+#EXTINF:-1 group-title="Cámaras", Playa Grande El Yacht
+https://video2.estadodelmar.com.ar/mobile/yacht/index.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Playa Grande La Normandina
-https://video.estadodelmar.com.ar/mobile/lanormandina/index.m3u8
+https://video2.estadodelmar.com.ar/mobile/lanormandina/index.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Playa Mariano
 https://mariano.freewaves.live/hls/live.stream.m3u8
@@ -848,6 +848,9 @@ https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 
 #EXTINF:-1 group-title="Educativos",Tv Universidad La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes",TV4 Deportes
+https://5f1af61612fb5.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Wpq8af4GxNg/YLlykYLuXhI/AAAAAAABCps/Xxgv3b7r5voeijxjk4qxMt7tome4k85OQCJEEGAsYHg/s512/2021-06-03.jpg" group-title="Local", TVES
 https://stmv1.srvif.com/envivotves/envivotves/playlist.m3u8
