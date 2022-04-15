@@ -366,6 +366,9 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="Local", CELTv Tornquist
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Cerro La Hoya
+https://s62.ipcamlive.com/streams/3eezh60yvj9gxgfay/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="General", CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
@@ -401,6 +404,12 @@ https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", CL3 Cablevisión
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Club Náutico Córdoba (Puerto)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/clubnauticocordoba_puerto
+
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Club Náutico Córdoba (Punta Oeste)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/clubnauticocordoba_lago
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/270_CN_24_7_Neuquen.png" group-title="Local", CN 24/7
 https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8
@@ -449,12 +458,6 @@ http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="Deportes", DEPORTv 
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
@@ -597,7 +600,7 @@ https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="Local", Mirador
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Camaras", Monte Hermoso
+#EXTINF:-1, tvg-logo="" group-title="Cámaras", Monte Hermoso
 https://streaming.reltid.com.ar/hls/monte.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/284_Multivision.png" group-title="Local", Multivisión
@@ -615,7 +618,7 @@ http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png" group-title="Musicales", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Camaras", Necochea
+#EXTINF:-1, tvg-logo="" group-title="Cámaras", Necochea
 https://streaming.reltid.com.ar/hls/neco.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="Local", Neo Tv Digital
@@ -627,22 +630,22 @@ https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/285_Net_TV.png" group-title="General", Net Tv
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Camaras", Neuquén (Av Norte)
+#EXTINF:-1, tvg-logo="" group-title="Cámaras", Neuquén (Av Norte)
 https://nqnmunicam.ddns.net/camnqn/avnorte_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Camaras", Neuquén (Parque)
+#EXTINF:-1, tvg-logo="" group-title="Cámaras", Neuquén (Parque)
 https://nqnmunicam.ddns.net/camnqn/parque_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Camaras", Neuquén (Monumento)
+#EXTINF:-1, tvg-logo="" group-title="Cámaras", Neuquén (Monumento)
 https://nqnmunicam.ddns.net/camnqn/monumento2_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Camaras", Neuquén (Monumento)
+#EXTINF:-1, tvg-logo="" group-title="Cámaras", Neuquén (Monumento)
 https://nqnmunicam.ddns.net/camnqn/monumento_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Camaras", Neuquén (Rio)
+#EXTINF:-1, tvg-logo="" group-title="Cámaras", Neuquén (Rio)
 https://nqnmunicam.ddns.net/camnqn/rio_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Camaras", Neuquén (plaza banderas)
+#EXTINF:-1, tvg-logo="" group-title="Cámaras", Neuquén (Plaza Banderas)
 https://nqnmunicam.ddns.net/camnqn/plazabanderas_720p/chunklist_w1710504320.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Nicavision1993.png/revision/latest?cb=20180426154048" group-title="General", Nicavisión Tv
@@ -659,9 +662,6 @@ https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E3adTeHWYAEAMUM.jpg" group-title="Musicales", Oldie Hits Tv
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Oman Sports
-https://partne.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/207_Orbe_21.jpg" group-title="Religiosos", Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
