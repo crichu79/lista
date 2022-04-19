@@ -600,7 +600,7 @@ https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="Local", Mirador
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Cámaras", Monte Hermoso
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Monte Hermoso
 https://streaming.reltid.com.ar/hls/monte.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/284_Multivision.png" group-title="Local", Multivisión
@@ -618,7 +618,7 @@ http://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png" group-title="Musicales", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Cámaras", Necochea
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Necochea
 https://streaming.reltid.com.ar/hls/neco.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="Local", Neo Tv Digital
@@ -627,25 +627,25 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NEOX-SALTA-300x240.jpg" group-title="Local", Neox Tv
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/285_Net_TV.png" group-title="General", Net Tv
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/285_Net_TV.png" group-title="Local", Net Tv
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Cámaras", Neuquén (Av Norte)
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuquén (Av Norte)
 https://nqnmunicam.ddns.net/camnqn/avnorte_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Cámaras", Neuquén (Parque)
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuquén (Parque)
 https://nqnmunicam.ddns.net/camnqn/parque_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Cámaras", Neuquén (Monumento Cam 1)
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuquén (Monumento Cam 1)
 https://nqnmunicam.ddns.net/camnqn/monumento2_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Cámaras", Neuquén (Monumento Cam 2)
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuquén (Monumento Cam 2)
 https://nqnmunicam.ddns.net/camnqn/monumento_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Cámaras", Neuquén (Río)
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuquén (Río)
 https://nqnmunicam.ddns.net/camnqn/rio_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Cámaras", Neuquén (Plaza Banderas)
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Neuquén (Plaza Banderas)
 https://nqnmunicam.ddns.net/camnqn/plazabanderas_720p/chunklist_w1710504320.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Nicavision1993.png/revision/latest?cb=20180426154048" group-title="General", Nicavisión Tv
