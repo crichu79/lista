@@ -921,7 +921,7 @@ https://bariloche.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="http://quierovertv.com/images/fitness.png" group-title="Local", Ver Tv
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Vorterix Tv
+#EXTINF:-1 tvg-logo="" group-title="Musicales", Vorterix Tv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/vorterixok
 
 #EXTINF:-1 tvg-logo="https://www.gesell.tur.ar/image/685x5d3da/26239603-1562823000462532-1644324590284977691-n.jpg" group-title="Cámaras", Windy Villa Gesell
