@@ -81,6 +81,9 @@ https://wowza.telpin.com.ar:1935/camara-bypdomo/smil:camara-bypdomo.smil/chunkli
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="Cámaras", Bunge y Libertador Pinamar
 https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", C5N
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
+
 #EXTINF:-1 tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox1.png" group-title="Local", Cable Imagen Armstrong
 https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1169271894.m3u8
 
