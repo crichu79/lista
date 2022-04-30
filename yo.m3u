@@ -322,7 +322,7 @@ https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 50 Glew
-https://panel.dattalive.com/8068/8068/playlist.m3u8
+https://panel.dattalive.com/8068/8068/chunklist_w1197996719.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/232_Canal_50_Morteros.png" group-title="Local", Canal 50 Morteros
 http://168.196.255.130:8080/canal50/vivo.m3u8
