@@ -462,8 +462,11 @@ https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/238_CPE_TV.jpg" group-title="Local", CPE Tv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", Crónica Tv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="Deportes", CRTV
-https://srv.panelcast.net/crtv/crtv/playlist.m3u8?PlaylistM3UCL
+https://srv.panelcast.net/crtv/crtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CUBAVISION_2017.png" group-title="Noticias", Cubavisión
 http://190.122.96.187:8888/http/010
@@ -521,6 +524,9 @@ https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png" group-title="Peliculas", FMTv
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
@@ -822,9 +828,6 @@ https://panel.dattalive.com:443/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png" group-title="Local", Telediario Televisión
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General", Telefuturo Paraguay
-https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w1593880761.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="Local", Telejunín
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 
@@ -876,6 +879,9 @@ https://inliveserver.com:1936/14044/14044/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", TN
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoXGM
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", TNT Sports
+https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
 #EXTINF:-1 group-title="Cámaras", Torreón del Monje
 https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
 
@@ -913,7 +919,7 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisión LATAM
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -925,7 +931,7 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 http://45.55.127.106/live/unicanal.m3u8
 
 #EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="Religiosos", UNIFE Tv
-https://dcunilive262-lh.akamaihd.net/i/dclive_1@424583/index_150_av-b.m3u8?sd=10&rebase=on
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png" group-title="Educativos", UNIRIO Tv
 https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8
