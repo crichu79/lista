@@ -202,7 +202,7 @@ https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u
 http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/715589106680664064/hDkHPWuV_400x400.jpg" group-title="Local", Canal 6 Viento Recio
-https://stmvideo3.livecastv.com/gomez/gomez/playlist.m3u8
+https://mediacp.hostradios.com.ar:19360/8092/8092.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 7 Bahía Blanca
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7128876514ef47b0a3c0c573d5b5294a/chunklist_b4628000.m3u8
@@ -803,6 +803,9 @@ https://streaming.reltid.com.ar/hls/sierra.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/828_Somos_Del_Este_TV.jpg" group-title="General", Somos Del Este Tv
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Somos Gualeguaychú
+https://streamcasthd.com:1936/somosgchu/somosgchu/chunklist_w962221740.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162918837/FRAME_ID_SOMOS_LA_PAMP__copia_reasonably_small.gif" group-title="Local", Somos La Pampa
 https://5975e06a1f292.streamlock.net:4443/somosnoticias/somosnoticias/playlist.m3u8
