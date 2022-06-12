@@ -204,9 +204,6 @@ http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/715589106680664064/hDkHPWuV_400x400.jpg" group-title="Local", Canal 6 Viento Recio
 https://mediacp.hostradios.com.ar:19360/8092/8092.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local", Canal 7 Bahía Blanca
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/7128876514ef47b0a3c0c573d5b5294a/chunklist_b4628000.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/203_Catamarca_TV.png" group-title="Local", Canal 7 Catamarca
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w1847941210.m3u8
 
@@ -325,7 +322,7 @@ http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 https://caucete.duckdns.org/canal40/smil:trans.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 50 Glew
-https://panel.dattalive.com/8068/8068/playlist.m3u8?WebM3UCL
+https://panel.dattalive.com/8068/8068/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/232_Canal_50_Morteros.png" group-title="Local", Canal 50 Morteros
 http://168.196.255.130:8080/canal50/vivo.m3u8
@@ -350,9 +347,6 @@ https://streamconex.com:1936/santaclara/santaclara/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="Local", Canal 79 Villa Maza
 https://streamconex.com:1936/villamaza/villamaza/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="General", Canal Antigua
-https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/plalist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="Local", Canal Coop Jesus María
 https://panel.dattalive.com/8138/8138/playlist.m3u8
@@ -389,9 +383,6 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="Local", CELTv Tornquist
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cámaras", Cerro La Hoya
-https://s62.ipcamlive.com/streams/3eezh60yvj9gxgfay/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="General", CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
@@ -443,12 +434,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/comarca_t
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/893_Complejo_Dance.png" group-title="Musicales", Complejo Dance
 https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Contacto Deportivo
-https://live.obslivestream.com/cdeportivomux/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="General", Control.VG
-https://tls-cl.cdnz.cl/onradio-5/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Coope Tv
 https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
@@ -525,7 +510,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg" group-title="Local", Fenix La Rioja
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png" group-title="Peliculas", FMTv
+#EXTINF:-1 tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png" group-title="Peliculas", CTV Capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports
@@ -779,9 +764,6 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/287_RTN.png" group-title="Local", RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/839_RTV_Cable.png" group-title="Local", RTV Cable
-https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="Local", San Pedro Tv
 https://srv6.zcast.com.br/sptv/sptv/chunklist_w963734828.m3u8
