@@ -474,6 +474,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m
 #EXTINF:-1 tvg-logo="" group-title="Local", Diputados Tv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/1-5ycDIKmTA
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Directv Sports
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
@@ -498,6 +501,15 @@ https://elonceovh.elonce.com/hls/live.m3u8
 #EXTINF:-1 group-title="Cámaras", Escollera Santa Clara del Mar
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN
+http://200.89.191.164/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_spa=20001-avc1_2499968=10007.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2
+http://edge-live14-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3
+http://200.89.191.164/live/c7eds/ESPN3_Uy-Py/SA_SAGEMCOM/ESPN3_Uy-Py.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1024px-Esport3.svg.png" group-title="Deportes", Esport3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 
@@ -515,6 +527,9 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Fox Sports 2
+http://200.89.191.164/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD-mp4a_144800_spa=20000-avc1_3900000=10004.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Noticias", France 24
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
@@ -753,6 +768,9 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a3/Radionorba_tv.png" group-title="Musicales", Radionorba
 https://stream9.xdevel.com/video0s975885-996/stream/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", Ready Tv
+http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059262088/Sin_t_tulo_400x400.jpg" group-title="Local", RealPolitik La Plata
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 
@@ -906,8 +924,8 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local", TVN Tucumán
 https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TyC_Sports.png" group-title="Deportes", TyC Sports
+https://edge-live14-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisión LATAM
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
