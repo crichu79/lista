@@ -408,6 +408,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="Peliculas", Cine Club
 https://servilive.com:3176/live/cineclublive.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas" Cinecanal
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Musicales", City Music Tv
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 
@@ -509,6 +512,9 @@ http://edge-live14-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3
 http://200.89.191.164/live/c7eds/ESPN3_Uy-Py/SA_SAGEMCOM/ESPN3_Uy-Py.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN Premium
+http://200.89.191.164/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-mp4a_145200_spa=20001-avc1_4999936=10000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1024px-Esport3.svg.png" group-title="Deportes", Esport3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
