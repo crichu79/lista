@@ -24,9 +24,6 @@ http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png" group-title="Noticias", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/252_Aire_de_Santa_Fe.png" group-title="Local", Aire de Santa Fe
-https://sc1.stweb.tv/airedigital/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="Local", Albardón Tv
 https://59537faa0729a.streamlock.net/albardontv/albardontv/chunklist_w360897651.m3u8
 
@@ -43,7 +40,7 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m
 http://arcast.com.ar:1935/atbargentina/atbargentina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ATV.pe/picture?width=320&height=320" group-title="General", ATV Perú
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+https://d2b3qmftt7nn1c.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b200000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png" group-title="General", ATV+ Perú
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
@@ -58,7 +55,7 @@ https://varese.freewaves.live/hls/live.stream.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="Deportes", Best Cable Sport
-https://tv.siete.us:19360/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
+https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Blu Tv
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
@@ -111,9 +108,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w2133948
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/254_Canal_2_Mar_del_Plata.png" group-title="Local", Canal 2 Mar del Plata
 https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canal2misiones.com.ar/img/logo.png" group-title="Local", Canal 2 Misiones
-https://nd106.republicaservers.com:4433/canal2misioness.mp4
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/813_Canal_2_Perico.jpg" group-title="Local", Canal 2 Perico
 https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8
 
@@ -121,10 +115,10 @@ https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m
 https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w551645566.m3u8
 
 #EXTINF:-1 tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="Local", Canal 2 Sanagasta
-https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
+https://stmvideo1.livecastv.com/canal2/canal2/chunklist_w798980298.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo+canal.jpg" group-title="Local", Canal 3 Formosa
-https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w1328638650.m3u8
+https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w934990888.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/776_Canal_3_La_Pampa.png" group-title="Local", Canal 3 La Pampa
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
@@ -235,7 +229,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canal9cha
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="Local", Canal 9 Norte Misionero
-https://panel.dattalive.com/8076/8076/playlist.m3u8
+https://panel.dattalive.com/8076/8076/chunklist_w1189714195.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="Local", Canal 9 Río Cuarto
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
@@ -322,7 +316,7 @@ http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 https://caucete.duckdns.org/canal40/smil:trans.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 50 Glew
-https://panel.dattalive.com/8068/8068/playlist.m3u8
+https://panel.dattalive.com/8068/8068/chunklist_w1706154293.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/232_Canal_50_Morteros.png" group-title="Local", Canal 50 Morteros
 http://168.196.255.130:8080/canal50/vivo.m3u8
@@ -408,7 +402,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="Peliculas", Cine Club
 https://servilive.com:3176/live/cineclublive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas" Cinecanal
+#EXTINF:-1 tvg-logo="" group-title="Peliculas", Cinecanal
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Musicales", City Music Tv
@@ -416,9 +410,6 @@ https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/237_Ciudad_TV.jpg" group-title="Local", Ciudad Tv Resistencia
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="Local", Ciudad Mágica Tv
-https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", CL3 Cablevisión
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
@@ -776,9 +767,6 @@ https://stream9.xdevel.com/video0s975885-996/stream/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Ready Tv
 http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059262088/Sin_t_tulo_400x400.jpg" group-title="Local", RealPolitik La Plata
-https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 
 #EXTINF:-1 tvg-logo="http://remansotv.info/wp-content/uploads/2021/05/logo-remansotv.png" group-title="Local", Remanzo Tv
 https://stmvideo1.livecastv.com/remansotv/remansotv/playlist.m3u8
