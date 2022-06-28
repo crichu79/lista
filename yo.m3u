@@ -108,7 +108,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w2133948
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/254_Canal_2_Mar_del_Plata.png" group-title="Local", Canal 2 Mar del Plata
 https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/222de252157921c96968b4ef1632e965.png", Canal 2 Misiones
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/222de252157921c96968b4ef1632e965.png" group-title="Local", Canal 2 Misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/813_Canal_2_Perico.jpg" group-title="Local", Canal 2 Perico
@@ -159,7 +159,7 @@ http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmExMjNmcmVlYXBwcy5mcmVlLmFwcDVkNWVjMWY4ODliOThfaWNvbl8xNTY3NjE5OTcxXzAxNw/icon.png?w=170&fakeurl=1" group-title="Local", Canal 4 Teleaire
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uoOXu9qMcIM/YGRyMxi3tiI/AAAAAAABBEQ/eToP9x0xTwc0kMtGohFBGhZWmFwlRQJrACK8BGAsYHg/s512/2021-03-31.png", Canal 4 Telecondor
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uoOXu9qMcIM/YGRyMxi3tiI/AAAAAAABBEQ/eToP9x0xTwc0kMtGohFBGhZWmFwlRQJrACK8BGAsYHg/s512/2021-03-31.png" group-title="Local", Canal 4 Telecondor
 https://streamconex.com:1936/telecondor/telecondor/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/233_CANAL_5TV.jpg" group-title="Local", Canal 5 Entre Ríos
@@ -179,6 +179,9 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1097897648948948992/bS8JOGDt_400x400.png" group-title="Local", Canal 5 Tucumán
 https://videohd.live:19360/8090/8090.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="General", Canal 5 Uruguay
+http://190.210.221.119/Processor3_2_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/307_Canal_6_Entre_Rios.png" group-title="Local", Canal 6 Crespo
 https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
@@ -218,9 +221,6 @@ https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 8 Valle de Uco
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Local", Canal 9 Chabas
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canal9chabas
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/236_Canal_9_Litoral.png" group-title="Local", Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
@@ -411,6 +411,12 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", CL3 Cablevisión
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
 
+#EXTINF:-1 vg-logo="" group-title="Deportes", Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
+#EXTINF:-1 vg-logo="" group-title="Deportes", Claro Sports 2
+https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Cámaras", Club Náutico Córdoba (Puerto)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/clubnauticocordoba_puerto
 
@@ -519,6 +525,9 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religiosos", EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General", Ex Tv Los Alámos
+https://srv3.zcast.com.br/expreszion/expreszion/chunklist_w2079695085.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg" group-title="Local", Fenix La Rioja
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
@@ -847,6 +856,9 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png" group-title="Local", Telediario Televisión
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", Telefusión
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/telefusion2020
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="Local", Telejunín
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 
@@ -855,6 +867,9 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/292_Telemax.png" group-title="Local", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="" group-title="General", Telemundo
+http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/814_TeleNord.jpg" group-title="Local", TeleNord
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
@@ -912,6 +927,9 @@ https://panel.dattalive.com:443/tsnnecochea/tsnnecochea/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/788_TV_Dos_Salta.jpg" group-title="Local", Tv Dos
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Tv Max
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvmaxcordoba
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/298_TV_Publica_Fueguina.png" group-title="Local", Tv Pública Fueguina
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
