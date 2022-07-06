@@ -502,18 +502,6 @@ https://elonceovh.elonce.com/hls/live.m3u8
 #EXTINF:-1 group-title="Cámaras", Escollera Santa Clara del Mar
 https://santaclara.freewaves.live/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN
-http://200.89.191.164/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_spa=20001-avc1_2499968=10007.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 2
-http://edge-live14-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN 3
-http://200.89.191.164/live/c7eds/ESPN3_Uy-Py/SA_SAGEMCOM/ESPN3_Uy-Py.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Deportes", ESPN Premium
-http://200.89.191.164/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-mp4a_145200_spa=20001-avc1_4999936=10000.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1024px-Esport3.svg.png" group-title="Deportes", Esport3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 
@@ -956,7 +944,7 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TyC_Sports.png" group-title="Deportes", TyC Sports
-https://edge-live14-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisión LATAM
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
