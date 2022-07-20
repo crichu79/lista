@@ -45,6 +45,9 @@ https://d2b3qmftt7nn1c.cloudfront.net/atv/smil:atv-mas.smil/chunklist_b200000.m3
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png" group-title="General", ATV+ Perú
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Auditorio Gral. Madariaga
+https://wowza.telpin.com.ar:1935/camara-bicentenario/smil:camara-bicentenario.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="Cámaras", Av 3 y 104 Villa Gesell
 http://cam104y3.gesell.com.ar/playlist.m3u8
 
@@ -703,8 +706,8 @@ https://palmeras.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSwF-4_r2fGxcD5OS6ZwymuSYJ9h735bdxqqDpPo2GnPesVPzQW-ufDbuZGkw9p_JJ_Q&usqp=CAU" group-title="Cámaras", Panorámica Mar Chiquita
 https://mchpano.freewaves.live/hls/live.stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local", Pares Tv
-https://live-ak.vimeocdn.com/exp=1656280480~acl=%2F98e0da7b-6a3c-4210-8e18-9f54476281ff%2F%2A~hmac=98fd154d365d7a9f41bc00c59768357327b71e2455c4a91f0fd6cc9d53aace1e/98e0da7b-6a3c-4210-8e18-9f54476281ff/chunklist_b6256000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cámaras", Pinamar Golf
+https://wowza.telpin.com.ar:1935/camara-golf/smil:camara-golf.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6_pJ2aayldOYOW3ySqO5dLEvPRv9K51dC3TjDibPSvaIzZTDqbMYlZAJsKxZE0TeiuQ&usqp=CAU" group-title="Cámaras", Pinamar Septiembre Loft
 https://video.estadodelmar.com.ar/mobile/pinamar/index.m3u8
@@ -828,6 +831,9 @@ https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.18169-9/20708437_111250822872341_7486705936501501459_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeE5cupq3kMwbbWlvbYKKEahLA0gqcInhc4sDSCpwieFzkkpFkD-7UiGuFCIAKjJwzo&_nc_ohc=83SaW40wm4YAX-NLLFB&_nc_oc=AQntwE4tyn7QX3HJIwQ3ETUGiqwWO80Pjv_tVVGfy4TAMZUjwBlCugE5QNPhIog4nWxzddw_zAIuRJQdPet5LD5j&_nc_ht=scontent.fepa11-1.fna&oh=184edb034c7d9a4d2d2ed2a8c0d884f4&oe=60CA3571" group-title="Local", Telecreativa
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Teledeporte
+https://rtvelivestream.akamaized.net/segments/tdp/tdp_main_360.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="General", Telediario Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
