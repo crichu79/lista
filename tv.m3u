@@ -598,6 +598,9 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/IhpU74mr7C1kiFTILJvZuht-JTu-0nQYl7U45J7MyxzMwlb7iltJjDSBnM492FSO9X4eLqflBjERvj1_IBpcStDzmtKizpl-vXPLBQ" group-title="Cámaras", Las Brusquitas Miramar
 https://brusquitas.freewaves.live/hls/live.stream.m3u8
 
+#EXTINF:-1 group-title="Cámaras", Las Leñas
+https://streamcasthd.com:1936/laslenas/laslenas/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local", Litoral Tv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/uffGkFU1O5Y
 
