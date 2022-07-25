@@ -527,7 +527,7 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="Local", GEN Tv Digital
-https://videohd.live:19360/8010/8010.m3u8
+https://inliveserver.com:1936/14056/14056/chunklist_w1127544546.m3u8
 
 #EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png"" group-title="General", Gourmet Tv
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
@@ -626,7 +626,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-ohrxmwyu219car5qjnmnky0ll0mfu6yuk15jy6idgw.png" group-title="Local", Milenium Tv
-https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
+https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg" group-title="Local", Mirador
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
