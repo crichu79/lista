@@ -610,6 +610,9 @@ https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_The_Simpsons.svg/1200px-Logo_The_Simpsons.svg.png" group-title="Infantiles", Los Simpsons Tv
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1086" tvg-name="LTO Television" tvg-logo="https://i2.paste.pics/466330422d83225c42621e4dace9b939.png" group-title="Local", LTO Televisión
+https://ltocatamarca.github.io/ltotv.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Religiosos", María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
@@ -781,8 +784,8 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/287_RTN.png" group-title="Local", RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="Local", San Pedro Tv
-https://srv6.zcast.com.br/sptv/sptv/chunklist_w963734828.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General", San Vito Tv
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1397093851/logosantaclara_400x400.jpg" group-title="Cámaras", Santa Clara La Martina
 https://video.estadodelmar.com.ar/mobile/santaclara/index.m3u8
@@ -811,8 +814,8 @@ https://streamcasthd.com:1936/somosgchu/somosgchu/chunklist_w962221740.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162918837/FRAME_ID_SOMOS_LA_PAMP__copia_reasonably_small.gif" group-title="Local", Somos La Pampa
 https://5975e06a1f292.streamlock.net:4443/somosnoticias/somosnoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="General", STV
-https://stmv1.srvif.com/sanvito/sanvito/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="Local", SPTv Digital HD
+https://srv2.zcast.com.br/sptv2/sptv2/chunklist_w1491291496.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/38adedd4130272be03ef804c5eaf067e.png" group-title="General", T13 Chile
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
