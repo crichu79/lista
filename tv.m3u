@@ -19,10 +19,10 @@ http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", A24
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/A24com
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WIPjYtR2N6s
 
 #EXTINF:-1 tvg-logo="" group-title="Local", América Tucumán
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/AmericaTucuman
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/oHYRrlqLw6o
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/222_Acequia.png" group-title="Local", Acequia
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
@@ -37,7 +37,7 @@ https://vd01.streaminghd.net.ar:3056/stream/play.m3u8
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", América Sports
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/americasports
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/B9hwOM6jAbs
 
 #EXTINF:-1 tvg-logo="" group-title="General", américa tevé
 https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w1400852741.m3u8
@@ -88,7 +88,7 @@ https://wowza.telpin.com.ar:1935/camara-bypdomo/smil:camara-bypdomo.smil/chunkli
 https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", C5N
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/jF3jb9JDBr0
 
 #EXTINF:-1 tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox1.png" group-title="Local", Cable Imagen Armstrong
 https://stream.arcast.com.ar/casse/casse/chunklist_w1796791055.m3u8
@@ -214,7 +214,7 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 7 San Rafael
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CanalSieteMendoza1
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/-mnusASJf5A
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/234_Canal_7_Santiago_del_Estero.jpg" group-title="Local", Canal 7 Santiago del Estero
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
@@ -229,7 +229,7 @@ https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 8 San Juan
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5UKMEIoqvNDMSDz2_6Sn9g
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/767-chtyNxY
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 8 Valle de Uco
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
@@ -301,7 +301,7 @@ https://elonceovh.elonce.com/hls/live.m3u8
 https://streaming.grupocsanetwork.net:1936/canal11/canal11/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal 12 Córdoba
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gBbMbqILzXU
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/o5BQxAeICeA
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/268_Canal_12_Madryn_TV.png" group-title="Local", Canal 12 Madryn
 https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8
@@ -500,7 +500,7 @@ https://videohls2.cosmovision.tv/hls/sd_720p2628kbs/index.m3u8
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Crónica Tv
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/InSydaLSSlw
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="Deportes", CRTV
 https://srv.panelcast.net/crtv/crtv/playlist.m3u8
@@ -641,7 +641,7 @@ https://brusquitas.freewaves.live/hls/live.stream.m3u8
 https://streamcasthd.com:1936/laslenas/laslenas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Litoral Tv
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/LTVVIVO
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/1Mbh45FRIGc
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png" group-title="Educativos", Litus Tv
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
@@ -830,7 +830,7 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Noticias", RTve Noticias
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/rtvenoticias
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/xR-4NDFsYNk
 
 #EXTINF:-1 tvg-logo="" group-title="General", San Vito Tv
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
@@ -956,7 +956,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/tiketekarg/tiketekarg/playlist.m3u8
 https://inliveserver.com:1936/14044/14044/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", TN
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/todonoticias
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/wHn1_QVoXGM
 
 #EXTINF:-1 group-title="Cámaras", Torreón del Monje
 https://video.estadodelmar.com.ar/mobile/torreon/index.m3u8
@@ -1043,7 +1043,7 @@ https://bariloche.freewaves.live/hls/live.stream.m3u8
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Verte Tv
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CanalVerte
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/rIrTPXBphAY
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Villa Mantero Tv
 https://65d2-190-18-182-99.sa.ngrok.io/hls/stream.m3u8
@@ -1064,7 +1064,7 @@ https://cloudvideo.servers10.com:8081/8208/index.m3u8
 https://cloudvideo.servers10.com:8081/8206/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Musicales", Vorterix Tv
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/vorterixok
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/AZDKnSo2AlY
 
 #EXTINF:-1 tvg-logo="" group-title="General", Vos Tv
 https://streannlivevostv.cachefly.net/vostv1/vostv1/chunks.m3u8
