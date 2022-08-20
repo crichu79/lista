@@ -400,7 +400,7 @@ https://streannlivefeedlatino.cachefly.net/feedlatino1/feedlatino1/chunks.m3u8
 https://panel.dattalive.com/8138/8138/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Canal de la Ciudad
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/DZhzVHsXqbo
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/uk6btTpO5IY
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/01/Canal-Diocesano-en-directo-Online.png?fit=1920%2C1080" group-title="Religiosos", Canal Diocesano
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
@@ -564,6 +564,9 @@ http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1024px-Esport3.svg.png" group-title="Deportes", Esport3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="General", ETB Basque
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/t9Zoe5nugXM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -745,8 +748,8 @@ https://nqnmunicam.ddns.net/camnqn/plazabanderas_720p/chunklist_w1710504320.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Nicavision1993.png/revision/latest?cb=20180426154048" group-title="General", Nicavisión Tv
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="Noticias", Noticias Caracol
-https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Noticias", Noticias Caracol
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Cx5gwduEYo0
 
 #EXTINF:-1 group-title="Local", Noticias del 6
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
