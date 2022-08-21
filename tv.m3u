@@ -27,7 +27,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/oHYRrlqLw6o
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/222_Acequia.png" group-title="Local", Acequia
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/BSgzd9r7vjg
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png" group-title="Noticias", ADN40
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png" group-title="Noticias", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="Local", Albardón Tv
@@ -39,7 +39,7 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes", América Sports
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/B9hwOM6jAbs
 
-#EXTINF:-1 tvg-logo="" group-title="General", América tevé
+#EXTINF:-1 tvg-logo="" group-title="General", américa tevé
 https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w1400852741.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png" group-title="Local", Argentinísima Satelital
