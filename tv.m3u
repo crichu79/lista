@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="Local", 12 Tartagal
+#EXTINF:-1 tvg-logo="" group-title="Local", 12 Tartagal
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="Local", 13 Max
@@ -12,20 +12,20 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/249_5TV.png" group-title="Local", 5Tv
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png"" group-title="Local", 7 Norte
+#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png" group-title="Local", 7 Norte
 http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="Local", 9Link
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local", A24
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="Local", A24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WIPjYtR2N6s
 
-#EXTINF:-1 tvg-logo="" group-title="Local", América Tucumán
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="Local", América Tucumán
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/oHYRrlqLw6o
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/222_Acequia.png" group-title="Local", Acequia
-http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/BSgzd9r7vjg
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png" group-title="Noticias", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -540,6 +540,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/1-5ycDIKmTA
 
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Directv Sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/GUjaFmE.png" group-title="Deportes", DT Play
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
