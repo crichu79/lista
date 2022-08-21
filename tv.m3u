@@ -1,13 +1,5 @@
 #EXTM3U
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="Local", 12 Tartagal
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
 
@@ -35,7 +27,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/oHYRrlqLw6o
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/222_Acequia.png" group-title="Local", Acequia
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/BSgzd9r7vjg
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png" group-title="Noticias", ADN 40
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png" group-title="Noticias", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="Local", Albardón Tv
