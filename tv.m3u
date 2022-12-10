@@ -51,8 +51,8 @@ https://varese.freewaves.live/hls/live.stream.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="Deportes", Best Cable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/BoliviaTVlogotwo.png" group-title="General", Bolivia Tv 
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="General", Bolivisión
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="Cámaras", Botavara Pinamar
 https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
@@ -393,6 +393,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="Peliculas", Cine Club
 https://servilive.com:3176/live/cineclublive.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Deportes", City Sports Tv
+https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Local", Ciudad Mágica Tv
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
@@ -495,6 +498,9 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sl
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/240_GEN_TV.png" group-title="Local", GEN Tv Digital
 https://inliveserver.com:1936/14056/14056/chunklist_w1127544546.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="General", Guatevisión
+https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/playlist.m3u8
+
 #EXTINF:-1 group-title="Cámaras", Hijos del Mar Miramar
 https://video.estadodelmar.com.ar/mobile/miramar/index.m3u8
 
@@ -554,6 +560,9 @@ https://brusquitas.freewaves.live/hls/live.stream.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Las Leñas
 https://streamcasthd.com:1936/laslenas/laslenas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="General", LIM Tv
+https://live.limplay.ml/limtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/241_Litus_TV.png" group-title="Educativos", Litus Tv
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
@@ -859,7 +868,7 @@ http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionlibre.net/img/logo_canal/TyC_Sports.png" group-title="Deportes", TyC Sports
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+https://edge3.zorrohd4.nl/live/ST560301f1b4d56f4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png" group-title="General", UCL Televisión LATAM
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
