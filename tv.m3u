@@ -75,6 +75,9 @@ https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png" group-title="Local", Calchaquí Tv
 http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 1 Regional El Trébol
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canal1regional
+
 #EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="Local", Canal 2 Gualeguay
 https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w2133948445.m3u8
 
@@ -182,6 +185,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canal9cha
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/302_Canal_Nueve_TV.png" group-title="Local", Canal 9 C. Rivadavia
 https://live.canalnueve.tv/canal.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Canal 9 La Rioja
+https://inliveserver.com:1936/17012/17012/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/236_Canal_9_Litoral.png" group-title="Local", Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
@@ -715,7 +721,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/xR-4NDFsYNk
 https://video.estadodelmar.com.ar/mobile/santaclara/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="Religiosos", Santa María
-https://streaming.telered.com.ar/santa-maria/streaming/mystreamSantaMariaHSLow.m3u8
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 
 #EXTINF:-1 group-title="Cámaras", Santa Teresita
 https://video.estadodelmar.com.ar/mobile/santateresita/index.m3u8
@@ -775,7 +781,7 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/814_TeleNord.jpg" group-title="Local", TeleNord
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="Local", Telesol
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
@@ -791,6 +797,9 @@ https://stmv.streamingvip.click/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.televideoinforma.com.ar/img/publicidades/Televideo_logo.jpg" group-title="Local", Televideo Villa Ocampo
 https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Televisión Pública Pampeana
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.trutv.com.ar/wp-content/uploads/2018/05/logro-tru.png" group-title="Local", Televisión Regional Unimar
 https://vivo.solumedia.com:19360/trutv/trutv.m3u8
